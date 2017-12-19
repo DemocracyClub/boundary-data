@@ -486,7 +486,7 @@
         "url": "http://www.lgbce.org.uk/current-reviews/north-east/redcar-and-cleveland/redcar-and-cleveland"
     },
     {
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "The Ribble Valley (Electoral Changes) Order 2017",
         "name": "Ribble Valley",
         "shapefiles": null,
