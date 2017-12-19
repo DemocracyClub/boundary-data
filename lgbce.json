@@ -63,7 +63,7 @@
         "url": "http://www.lgbce.org.uk/current-reviews/west-midlands/west-midlands/birmingham"
     },
     {
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "The Blackburn with Darwen (Electoral Changes) Order 2017",
         "name": "Blackburn with Darwen",
         "shapefiles": null,
@@ -72,7 +72,7 @@
         "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/blackburn-and-darwen"
     },
     {
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "The Bolsover (Electoral Changes) Order 2017",
         "name": "Bolsover",
         "shapefiles": null,
@@ -324,7 +324,7 @@
         "url": "http://www.lgbce.org.uk/current-reviews/eastern/norfolk/kings-lynn-and-west-norfolk"
     },
     {
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "The Kingston upon Hull (Electoral Changes) Order 2017",
         "name": "Kingston-upon-Hull",
         "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0020/35417/Hull_final_proposals.zip",
