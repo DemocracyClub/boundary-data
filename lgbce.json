@@ -1,0 +1,722 @@
+[
+    {
+        "eco_made": 1,
+        "latest_event": "The Allerdale (Electoral Changes) Order 2017",
+        "name": "Allerdale",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0005/33584/Allerdale_final_proposals.zip",
+        "slug": "allerdale",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/cumbria/allerdale"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Ashford (Electoral Changes) Order 2017",
+        "name": "Ashford",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0004/33637/Ashford_final_proposals.zip",
+        "slug": "ashford",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/kent/ashford"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Babergh",
+        "shapefiles": null,
+        "slug": "babergh",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/suffolk/babergh"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Basingstoke and Deane",
+        "shapefiles": null,
+        "slug": "basingstoke-and-deane",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/basingstoke-and-deane"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Bath & North East Somerset",
+        "shapefiles": null,
+        "slug": "bath-and-north-east-somerset",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/somerset/bath-and-north-east-somerset"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "London Borough of Bexley (Electoral Changes) Order 2017",
+        "name": "Bexley",
+        "shapefiles": null,
+        "slug": "bexley",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/greater-london/bexley"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The City of Birmingham (Electoral Changes) Order 2016",
+        "name": "Birmingham",
+        "shapefiles": null,
+        "slug": "birmingham",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/west-midlands/west-midlands/birmingham"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The Blackburn with Darwen (Electoral Changes) Order 2017",
+        "name": "Blackburn with Darwen",
+        "shapefiles": null,
+        "slug": "blackburn-and-darwen",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/blackburn-and-darwen"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The Bolsover (Electoral Changes) Order 2017",
+        "name": "Bolsover",
+        "shapefiles": null,
+        "slug": "bolsover",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/derbyshire/bolsover"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Cambridgeshire (Electoral Changes) Order 2016",
+        "name": "Cambridgeshire County Council",
+        "shapefiles": null,
+        "slug": "cambridgeshire-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/cambridgeshire/cambridgeshire-county-council"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Cheshire West & Chester",
+        "shapefiles": null,
+        "slug": "cheshire-west-and-chester",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/cheshire/cheshire-west-and-chester"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Chichester (Electoral Changes) Order 2017",
+        "name": "Chichester",
+        "shapefiles": null,
+        "slug": "chichester",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/west-sussex/chichester"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Copeland",
+        "shapefiles": null,
+        "slug": "copeland",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/cumbria/copeland"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on division arrangements",
+        "name": "Cornwall",
+        "shapefiles": null,
+        "slug": "cornwall",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/cornwall/cornwall"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "London Borough of Croydon (Electoral Changes) Order 2017",
+        "name": "Croydon",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0004/34078/Croydon_final_proposals.zip",
+        "slug": "croydon",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/greater-london/croydon"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Dartford",
+        "shapefiles": null,
+        "slug": "dartford",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/kent/dartford"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Devon (Electoral Changes) Order 2016",
+        "name": "Devon County Council",
+        "shapefiles": null,
+        "slug": "devon-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/devon-county-council"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "East Cambridgeshire (Electoral Changes) Order 2016",
+        "name": "East Cambridgeshire",
+        "shapefiles": null,
+        "slug": "east-cambridgeshire",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/cambridgeshire/east-cambridgeshire"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The East Devon (Electoral Changes) Order 2017",
+        "name": "East Devon",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0006/33585/East_Devon_final_proposals.zip",
+        "slug": "east-devon",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/east-devon"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "East Hampshire",
+        "shapefiles": null,
+        "slug": "east-hampshire",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/east-hampshire"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "East Sussex (Electoral Changes) Order 2016",
+        "name": "East Sussex County Council",
+        "shapefiles": null,
+        "slug": "east-sussex-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/east-sussex/east-sussex-county-council"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Eastbourne (Electoral Changes) Order 2016",
+        "name": "Eastbourne",
+        "shapefiles": null,
+        "slug": "eastbourne",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/east-sussex/eastbourne"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Eastleigh (Electoral Changes) Order 2016",
+        "name": "Eastleigh",
+        "shapefiles": null,
+        "slug": "eastleigh",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/eastleigh"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Exeter (Electoral Changes) Order 2016",
+        "name": "Exeter",
+        "shapefiles": null,
+        "slug": "exeter",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/exeter"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Forest of Dean",
+        "shapefiles": null,
+        "slug": "forest-of-dean",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/gloucestershire/forest-of-dean"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Hampshire (Electoral Changes) Order 2016",
+        "name": "Hampshire County Council",
+        "shapefiles": null,
+        "slug": "hampshire-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/hampshire-county-council"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Harborough (Electoral Changes) Order 2017",
+        "name": "Harborough",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0003/34086/Harborough_polygons.zip",
+        "slug": "harborough",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/leicestershire/harborough"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Harrogate (Electoral Changes) Order 2017",
+        "name": "Harrogate",
+        "shapefiles": null,
+        "slug": "harrogate",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/north-yorkshire/harrogate"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Hastings (Electoral Changes) Order 2016",
+        "name": "Hastings",
+        "shapefiles": null,
+        "slug": "hastings",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/east-sussex/hastings"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Hertfordshire (Electoral Changes) Order 2015",
+        "name": "Hertfordshire County Council",
+        "shapefiles": null,
+        "slug": "hertfordshire-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/hertfordshire/hertfordshire-county-council"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Final Recommendations",
+        "name": "Hertsmere",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0006/36438/Hertsmere_final_proposals.zip",
+        "slug": "hertsmere",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/hertfordshire/hertsmere"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Horsham (Electoral Changes) Order 2017",
+        "name": "Horsham",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0007/33586/Horsham-Polygons.zip",
+        "slug": "horsham",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/west-sussex/horsham"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Huntingdonshire (Electoral Changes) Order 2017",
+        "name": "Huntingdonshire",
+        "shapefiles": null,
+        "slug": "huntingdonshire",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/cambridgeshire/huntingdonshire"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Isles of Scilly (Electoral Changes) Order 2017",
+        "name": "Isles of Scilly",
+        "shapefiles": null,
+        "slug": "isles-of-scilly",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/cornwall/isles-of-scilly"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Kent (Electoral Change) Order 2016",
+        "name": "Kent County Council",
+        "shapefiles": null,
+        "slug": "kent-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/kent/kent-county-council"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "King's Lynn and West Norfolk",
+        "shapefiles": null,
+        "slug": "kings-lynn-and-west-norfolk",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/norfolk/kings-lynn-and-west-norfolk"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The Kingston upon Hull (Electoral Changes) Order 2017",
+        "name": "Kingston-upon-Hull",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0020/35417/Hull_final_proposals.zip",
+        "slug": "kingston-upon-hull",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/kingston-upon-hull/kingston-upon-hull"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Lancashire (Electoral Changes) Order 2016",
+        "name": "Lancashire County Council",
+        "shapefiles": null,
+        "slug": "lancashire-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/lancashire-county-council"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Leeds (Electoral Changes) Order 2017",
+        "name": "Leeds",
+        "shapefiles": null,
+        "slug": "leeds",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/west-yorkshire/leeds"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Leicestershire (Electoral Changes) Order 2016",
+        "name": "Leicestershire County Council",
+        "shapefiles": null,
+        "slug": "leicestershire-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/leicestershire/leicestershire-county-council"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Lewes (Electoral Changes) Order 2016",
+        "name": "Lewes",
+        "shapefiles": null,
+        "slug": "lewes",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/east-sussex/lewes"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Lincolnshire (Electoral Changes) Order 2016",
+        "name": "Lincolnshire County Council",
+        "shapefiles": null,
+        "slug": "lincolnshire-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/lincolnshire/lincolnshire-county-council"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Manchester (Electoral Changes) Order 2017",
+        "name": "Manchester",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0005/33197/Manchester_final_proposals.zip",
+        "slug": "manchester",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/greater-manchester/manchester"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Mid Suffolk",
+        "shapefiles": null,
+        "slug": "mid-suffolk",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/suffolk/mid-suffolk"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Newcastle-under-Lyme (Electoral Changes) Order 2017",
+        "name": "Newcastle-under-Lyme",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0006/33594/NEWCASTLEUNDERLYME_final_proposals.shp.zip",
+        "slug": "newcastle-under-lyme",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/west-midlands/staffs/newcastle-under-lyme"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Newcastle upon Tyne (Electoral Changes) Order 2017",
+        "name": "Newcastle upon Tyne",
+        "shapefiles": null,
+        "slug": "newcastle-upon-tyne",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-east/tyne-and-wear/newcastle-upon-tyne"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "North Devon",
+        "shapefiles": null,
+        "slug": "north-devon",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/north-devon"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The North East Derbyshire (Electoral Changes) Order 2017",
+        "name": "North East Derbyshire",
+        "shapefiles": null,
+        "slug": "north-east-derbyshire",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/derbyshire/north-east-derbyshire"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The North Norfolk (Electoral Changes) Order 2017",
+        "name": "North Norfolk",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0014/33080/NorthNorfolk_final_proposals.zip",
+        "slug": "north-norfolk",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/norfolk/north-norfolk"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Nottingham",
+        "shapefiles": null,
+        "slug": "nottingham",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/nottinghamshire/nottingham"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Nottinghamshire (Electoral Changes) Order 2016",
+        "name": "Nottinghamshire",
+        "shapefiles": null,
+        "slug": "nottinghamshire-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/nottinghamshire/nottinghamshire-county-council"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Preston",
+        "shapefiles": null,
+        "slug": "preston",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/preston"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The London Borough of Redbridge (Electoral Changes) Order 2017",
+        "name": "Redbridge",
+        "shapefiles": null,
+        "slug": "redbridge",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/greater-london/redbridge"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Redcar and Cleveland",
+        "shapefiles": null,
+        "slug": "redcar-and-cleveland",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-east/redcar-and-cleveland/redcar-and-cleveland"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The Ribble Valley (Electoral Changes) Order 2017",
+        "name": "Ribble Valley",
+        "shapefiles": null,
+        "slug": "ribble-valley",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/ribble-valley"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Richmondshire",
+        "shapefiles": null,
+        "slug": "richmondshire",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/north-yorkshire/richmondshire"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Rother (Electoral Changes) Order 2016",
+        "name": "Rother",
+        "shapefiles": null,
+        "slug": "rother",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/east-sussex/rother"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Final recommendations",
+        "name": "Rotherham",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0007/35998/Rotherham_final_proposals.zip",
+        "slug": "rotherham",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/south-yorkshire/rotherham"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Runnymede",
+        "shapefiles": null,
+        "slug": "runnymede",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/surrey/runnymede"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Rutland",
+        "shapefiles": null,
+        "slug": "rutland",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/rutland/rutland"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Scarborough",
+        "shapefiles": null,
+        "slug": "scarborough",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/north-yorkshire/scarborough"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "South Cambridgeshire (Electoral Changes) Order 2017",
+        "name": "South Cambridgeshire",
+        "shapefiles": null,
+        "slug": "south-cambridgeshire",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/cambridgeshire/south-cambridgeshire"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "South Gloucestershire",
+        "shapefiles": null,
+        "slug": "south-gloucestershire",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/gloucestershire/south-gloucestershire"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The South Lakeland (Electoral Changes) Order 2017",
+        "name": "South Lakeland",
+        "shapefiles": null,
+        "slug": "south-lakeland",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/cumbria/south-lakeland"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The South Norfolk (Electoral Changes) Order 2017",
+        "name": "South Norfolk",
+        "shapefiles": null,
+        "slug": "south-norfolk",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/norfolk/south-norfolk"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "South Somerset",
+        "shapefiles": null,
+        "slug": "south-somerset",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/somerset/south-somerset"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The London Borough of Southwark (Electoral Changes) Order 2016",
+        "name": "Southwark",
+        "shapefiles": null,
+        "slug": "southwark",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/greater-london/southwark"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The Surrey Heath (Electoral Changes) Order 2017",
+        "name": "Surrey Heath",
+        "shapefiles": null,
+        "slug": "surrey-heath",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/surrey/surrey-heath"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on Warding Arrangements",
+        "name": "Taunton Deane",
+        "shapefiles": null,
+        "slug": "taunton-deane",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/somerset/taunton-deane"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Teignbridge (Electoral Changes) Order 2017",
+        "name": "Teignbridge",
+        "shapefiles": null,
+        "slug": "teignbridge",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/teignbridge"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Tendring (Electoral Changes) Order 2017",
+        "name": "Tendring",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0018/34074/Tendring_final_proposals.zip",
+        "slug": "tendring",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/essex/tendring"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The Test Valley (Electoral Changes) Order 2018 (Draft)",
+        "name": "Test Valley",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0014/35420/TestValley_final_proposals.zip",
+        "slug": "test-valley",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/test-valley"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "The Tewkesbury (Electoral Changes) Order 2018 (Draft)",
+        "name": "Tewkesbury",
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0005/35906/Tewkesbury_final_proposals.zip",
+        "slug": "tewkesbury",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/gloucestershire/tewkesbury"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations",
+        "name": "Torbay",
+        "shapefiles": null,
+        "slug": "torbay",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/torbay"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "The Torridge (Electoral Changes) Order 2017",
+        "name": "Torridge",
+        "shapefiles": null,
+        "slug": "torridge",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/torridge"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Warwick",
+        "shapefiles": null,
+        "slug": "warwick-fer",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/west-midlands/warwickshire/warwick-fer"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "Wealden (Electoral Changes) Order 2016",
+        "name": "Wealden",
+        "shapefiles": null,
+        "slug": "wealden",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/east-sussex/wealden"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on draft recommendations - update",
+        "name": "West Berkshire",
+        "shapefiles": null,
+        "slug": "west-berkshire",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/berkshire/west-berkshire"
+    },
+    {
+        "eco_made": 1,
+        "latest_event": "West Sussex (Electoral Changes) Order 2016",
+        "name": "West Sussex County Council",
+        "shapefiles": null,
+        "slug": "west-sussex-county-council",
+        "status": "Recently Completed",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/west-sussex/west-sussex-county-council"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Windsor and Maidenhead",
+        "shapefiles": null,
+        "slug": "windsor-and-maidenhead",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/berkshire/windsor-and-maidenhead"
+    }
+]
