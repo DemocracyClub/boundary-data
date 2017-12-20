@@ -68,7 +68,7 @@
         "name": "Blackburn with Darwen",
         "shapefiles": null,
         "slug": "blackburn-and-darwen",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/blackburn-and-darwen"
     },
     {
@@ -77,7 +77,7 @@
         "name": "Bolsover",
         "shapefiles": null,
         "slug": "bolsover",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/derbyshire/bolsover"
     },
     {
@@ -329,7 +329,7 @@
         "name": "Kingston-upon-Hull",
         "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0020/35417/Hull_final_proposals.zip",
         "slug": "kingston-upon-hull",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/kingston-upon-hull/kingston-upon-hull"
     },
     {
@@ -423,12 +423,12 @@
         "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/north-devon"
     },
     {
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "The North East Derbyshire (Electoral Changes) Order 2017",
         "name": "North East Derbyshire",
         "shapefiles": null,
         "slug": "north-east-derbyshire",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/derbyshire/north-east-derbyshire"
     },
     {
@@ -491,7 +491,7 @@
         "name": "Ribble Valley",
         "shapefiles": null,
         "slug": "ribble-valley",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/ribble-valley"
     },
     {
@@ -608,7 +608,7 @@
         "name": "Surrey Heath",
         "shapefiles": null,
         "slug": "surrey-heath",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/south-east/surrey/surrey-heath"
     },
     {
