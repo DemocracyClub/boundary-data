@@ -603,7 +603,7 @@
         "url": "http://www.lgbce.org.uk/current-reviews/greater-london/southwark"
     },
     {
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "The Surrey Heath (Electoral Changes) Order 2017",
         "name": "Surrey Heath",
         "shapefiles": null,
