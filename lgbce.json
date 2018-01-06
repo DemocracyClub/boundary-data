@@ -145,15 +145,6 @@
     },
     {
         "eco_made": 1,
-        "latest_event": "Devon (Electoral Changes) Order 2016",
-        "name": "Devon County Council",
-        "shapefiles": null,
-        "slug": "devon-county-council",
-        "status": "Recently Completed",
-        "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/devon-county-council"
-    },
-    {
-        "eco_made": 1,
         "latest_event": "East Cambridgeshire (Electoral Changes) Order 2016",
         "name": "East Cambridgeshire",
         "shapefiles": null,
