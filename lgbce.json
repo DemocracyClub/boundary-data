@@ -451,6 +451,15 @@
     },
     {
         "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Oxford",
+        "shapefiles": null,
+        "slug": "oxford",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/oxfordshire/oxford"
+    },
+    {
+        "eco_made": 0,
         "latest_event": "Consultation on draft recommendations",
         "name": "Preston",
         "shapefiles": null,
