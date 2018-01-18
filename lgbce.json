@@ -639,21 +639,21 @@
         "url": "http://www.lgbce.org.uk/current-reviews/eastern/essex/tendring"
     },
     {
-        "eco_made": 0,
-        "latest_event": "The Test Valley (Electoral Changes) Order 2018 (Draft)",
+        "eco_made": 1,
+        "latest_event": "The Test Valley (Electoral Changes) Order 2018",
         "name": "Test Valley",
         "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0014/35420/TestValley_final_proposals.zip",
         "slug": "test-valley",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/test-valley"
     },
     {
-        "eco_made": 0,
-        "latest_event": "The Tewkesbury (Electoral Changes) Order 2018 (Draft)",
+        "eco_made": 1,
+        "latest_event": "The Tewkesbury (Electoral Changes) Order 2018",
         "name": "Tewkesbury",
         "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0005/35906/Tewkesbury_final_proposals.zip",
         "slug": "tewkesbury",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/south-west/gloucestershire/tewkesbury"
     },
     {
