@@ -126,6 +126,15 @@
         "url": "http://www.lgbce.org.uk/current-reviews/south-west/cornwall/cornwall"
     },
     {
+        "eco_made": 0,
+        "latest_event": "",
+        "name": "Crawley",
+        "shapefiles": null,
+        "slug": "crawley",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/west-sussex/crawley"
+    },
+    {
         "eco_made": 1,
         "latest_event": "London Borough of Croydon (Electoral Changes) Order 2017",
         "name": "Croydon",
@@ -484,6 +493,15 @@
         "slug": "redcar-and-cleveland",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/current-reviews/north-east/redcar-and-cleveland/redcar-and-cleveland"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "",
+        "name": "Reigate and Banstead",
+        "shapefiles": null,
+        "slug": "reigate-and-banstead",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/surrey/reigate-and-banstead"
     },
     {
         "eco_made": 1,
