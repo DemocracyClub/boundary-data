@@ -127,7 +127,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "",
+        "latest_event": "Warding Arrangements",
         "name": "Crawley",
         "shapefiles": null,
         "slug": "crawley",
@@ -145,7 +145,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on warding arrangements",
+        "latest_event": "Consultation on draft recommendations",
         "name": "Dartford",
         "shapefiles": null,
         "slug": "dartford",
@@ -496,7 +496,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "",
+        "latest_event": "Warding Arrangements",
         "name": "Reigate and Banstead",
         "shapefiles": null,
         "slug": "reigate-and-banstead",
