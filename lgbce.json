@@ -171,7 +171,7 @@
         "url": "http://www.lgbce.org.uk/current-reviews/eastern/cambridgeshire/east-cambridgeshire"
     },
     {
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "The East Devon (Electoral Changes) Order 2017",
         "name": "East Devon",
         "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0006/33585/East_Devon_final_proposals.zip",
