@@ -153,6 +153,15 @@
         "url": "http://www.lgbce.org.uk/current-reviews/south-east/kent/dartford"
     },
     {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Dover",
+        "shapefiles": null,
+        "slug": "dover",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/south-east/kent/dover"
+    },
+    {
         "eco_made": 1,
         "latest_event": "East Cambridgeshire (Electoral Changes) Order 2016",
         "name": "East Cambridgeshire",
@@ -439,6 +448,15 @@
         "slug": "north-norfolk",
         "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/eastern/norfolk/north-norfolk"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Norwich",
+        "shapefiles": null,
+        "slug": "norwich",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/eastern/norfolk/norwich"
     },
     {
         "eco_made": 0,
