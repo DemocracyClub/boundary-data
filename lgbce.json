@@ -48,7 +48,7 @@
         "eco_made": 1,
         "latest_event": "London Borough of Bexley (Electoral Changes) Order 2017",
         "name": "Bexley",
-        "shapefiles": null,
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0004/37345/Bexley-Mapping.zip",
         "slug": "bexley",
         "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/greater-london/bexley"
@@ -57,7 +57,7 @@
         "eco_made": 1,
         "latest_event": "The City of Birmingham (Electoral Changes) Order 2016",
         "name": "Birmingham",
-        "shapefiles": null,
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0005/37346/Birmingham-Mapping.zip",
         "slug": "birmingham",
         "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/west-midlands/west-midlands/birmingham"
@@ -66,7 +66,7 @@
         "eco_made": 1,
         "latest_event": "The Blackburn with Darwen (Electoral Changes) Order 2017",
         "name": "Blackburn with Darwen",
-        "shapefiles": null,
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0006/37347/Blackburn-Mapping.zip",
         "slug": "blackburn-and-darwen",
         "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/north-west/lancashire/blackburn-and-darwen"
@@ -75,7 +75,7 @@
         "eco_made": 1,
         "latest_event": "The Bolsover (Electoral Changes) Order 2017",
         "name": "Bolsover",
-        "shapefiles": null,
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0007/37348/Bolsover-Mapping.zip",
         "slug": "bolsover",
         "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/east-midlands/derbyshire/bolsover"
@@ -176,7 +176,7 @@
         "name": "East Devon",
         "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0006/33585/East_Devon_final_proposals.zip",
         "slug": "east-devon",
-        "status": "Current Reviews",
+        "status": "Recently Completed",
         "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/east-devon"
     },
     {
