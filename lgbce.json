@@ -181,7 +181,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on draft recommendations",
+        "latest_event": "Consultation on further limited draft recommendations",
         "name": "East Hampshire",
         "shapefiles": null,
         "slug": "east-hampshire",
@@ -505,7 +505,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on warding arrangements",
+        "latest_event": "Consultation on draft recommendations",
         "name": "Redcar and Cleveland",
         "shapefiles": null,
         "slug": "redcar-and-cleveland",
@@ -694,9 +694,9 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from draft recommendations consultation",
+        "latest_event": "Final recommendations",
         "name": "Torbay",
-        "shapefiles": null,
+        "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0011/37469/Torbay.zip",
         "slug": "torbay",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/current-reviews/south-west/devon/torbay"
