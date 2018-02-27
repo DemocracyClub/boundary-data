@@ -91,6 +91,15 @@
     },
     {
         "eco_made": 0,
+        "latest_event": "Consultation on warding arrangements",
+        "name": "Carlisle",
+        "shapefiles": null,
+        "slug": "carlisle",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/north-west/cumbria/carlisle"
+    },
+    {
+        "eco_made": 0,
         "latest_event": "Consultation on further limited draft recommendations",
         "name": "Cheshire West & Chester",
         "shapefiles": null,
@@ -595,7 +604,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Final Recommendations",
+        "latest_event": "Draft order laid in Parliament",
         "name": "South Gloucestershire",
         "shapefiles": "http://www.lgbce.org.uk/__data/assets/file/0004/36913/online.zip",
         "slug": "south-gloucestershire",
