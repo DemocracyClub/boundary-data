@@ -118,7 +118,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from warding arrangements consulation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Copeland",
         "shapefiles": null,
         "slug": "copeland",
@@ -190,9 +190,9 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from further limited draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "East Hampshire",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Hampshire/East%20Hampshire/Final%20Recs/East%20Hampshire.zip",
         "slug": "east-hampshire",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/east-hampshire"
@@ -334,9 +334,9 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from draft recommendations consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "King's Lynn and West Norfolk",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Norfolk/King's%20Lynn%20and%20West%20Norfolk/Final%20Recs/King's%20Lynn.zip",
         "slug": "kings-lynn-and-west-norfolk",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/kings-lynn-and-west-norfolk"
@@ -469,9 +469,9 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from draft recommendations consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "Nottingham",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Nottinghamshire/Nottingham/Final%20Recs/Nottingham_final_proposals.zip",
         "slug": "nottingham",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/nottinghamshire/nottingham"
@@ -487,7 +487,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on warding arrangements",
+        "latest_event": "(2) Warding arrangements",
         "name": "Oxford",
         "shapefiles": null,
         "slug": "oxford",
@@ -541,9 +541,9 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(4) Submissions from draft recommendations consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "Richmondshire",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Yorkshire/Richmondshire/Final%20Recs/Richmondshire.zip",
         "slug": "richmondshire",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/richmondshire"
@@ -577,18 +577,18 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from draft recommendations consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "Rutland",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Rutland/Final%20Recs/Rutland.zip",
         "slug": "rutland",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/rutland/rutland"
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from warding arrangements consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "Scarborough",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Yorkshire/Scarborough/Final%20Recs/Scarborough_final_proposals.zip",
         "slug": "scarborough",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/scarborough"
@@ -721,7 +721,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Warwick",
         "shapefiles": null,
         "slug": "warwick",
