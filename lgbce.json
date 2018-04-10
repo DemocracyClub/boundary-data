@@ -433,7 +433,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on draft recommendations",
+        "latest_event": "Submissions from draft recommendations consultation",
         "name": "North Devon",
         "shapefiles": null,
         "slug": "north-devon",
@@ -487,7 +487,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Submissions from warding arrangements consultation",
         "name": "Oxford",
         "shapefiles": null,
         "slug": "oxford",
@@ -568,7 +568,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on warding arrangements",
+        "latest_event": "(3) Submissions from warding arrangements consultation",
         "name": "Runnymede",
         "shapefiles": null,
         "slug": "runnymede",
@@ -631,7 +631,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on draft recommendations",
+        "latest_event": "(4) Submissions from draft recommendations consultation",
         "name": "South Somerset",
         "shapefiles": null,
         "slug": "south-somerset",
