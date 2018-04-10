@@ -136,7 +136,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Warding Arrangements",
+        "latest_event": "(2) Warding arrangements",
         "name": "Crawley",
         "shapefiles": null,
         "slug": "crawley",
@@ -154,7 +154,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on draft recommendations",
+        "latest_event": "(3) Draft recommendations",
         "name": "Dartford",
         "shapefiles": null,
         "slug": "dartford",
@@ -163,7 +163,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on warding arrangements",
+        "latest_event": "(2) Warding arrangements",
         "name": "Dover",
         "shapefiles": null,
         "slug": "dover",
@@ -460,7 +460,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Consultation on warding arrangements",
+        "latest_event": "(2) Warding arrangements",
         "name": "Norwich",
         "shapefiles": null,
         "slug": "norwich",
@@ -523,7 +523,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Warding Arrangements",
+        "latest_event": "(2) Warding arrangements",
         "name": "Reigate and Banstead",
         "shapefiles": null,
         "slug": "reigate-and-banstead",
