@@ -442,9 +442,9 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from draft recommendations consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "North Devon",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Devon/North%20Devon/Final%20Recs/North%20Devon.zip",
         "slug": "north-devon",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/north-devon"
@@ -577,7 +577,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Runnymede",
         "shapefiles": null,
         "slug": "runnymede",
@@ -640,9 +640,9 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(4) Submissions from draft recommendations consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "South Somerset",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/South%20Somerset/Final%20Recs/For%20IS.zip",
         "slug": "south-somerset",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/south-somerset"
