@@ -289,7 +289,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Final Recommendations",
+        "latest_event": "(6) Parliamentary scrutiny: draft Order",
         "name": "Hertsmere",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0006/36438/Hertsmere_final_proposals.zip",
         "slug": "hertsmere",
@@ -504,12 +504,12 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/oxfordshire/oxford"
     },
     {
-        "eco_made": 0,
-        "latest_event": "Final recommendations",
+        "eco_made": 1,
+        "latest_event": "(5) The Preston (Electoral Changes) Order 2018",
         "name": "Preston",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/36896/Preston-Polygons.zip",
         "slug": "preston",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/preston"
     },
     {
@@ -747,12 +747,12 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/east-sussex/wealden"
     },
     {
-        "eco_made": 0,
-        "latest_event": "Draft order laid in Parliament",
+        "eco_made": 1,
+        "latest_event": "(6) The West Berkshire (Electoral Changes) Order 2018",
         "name": "West Berkshire",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/36905/West_Berkshire_F_Ward_polys.zip",
         "slug": "west-berkshire",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/west-berkshire"
     },
     {
