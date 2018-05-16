@@ -234,12 +234,12 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/exeter"
     },
     {
-        "eco_made": 0,
-        "latest_event": "Final Recommendations",
+        "eco_made": 1,
+        "latest_event": "(5) The Forest of Dean (Electoral Changes) Order 2018",
         "name": "Forest of Dean",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0007/36934/Polygons.zip",
         "slug": "forest-of-dean",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/gloucestershire/forest-of-dean"
     },
     {
@@ -288,12 +288,12 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/hertfordshire-county-council"
     },
     {
-        "eco_made": 0,
-        "latest_event": "(6) Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "(6) The Hertsmere (Electoral Changes) Order 2018",
         "name": "Hertsmere",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0006/36438/Hertsmere_final_proposals.zip",
         "slug": "hertsmere",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/hertsmere"
     },
     {
@@ -385,15 +385,6 @@
         "slug": "leicestershire-county-council",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/leicestershire/leicestershire-county-council"
-    },
-    {
-        "eco_made": 1,
-        "latest_event": "Lewes (Electoral Changes) Order 2016",
-        "name": "Lewes",
-        "shapefiles": null,
-        "slug": "lewes",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-east/east-sussex/lewes"
     },
     {
         "eco_made": 1,
@@ -612,21 +603,21 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/cambridgeshire/south-cambridgeshire"
     },
     {
-        "eco_made": 0,
-        "latest_event": "Draft order laid in Parliament",
+        "eco_made": 1,
+        "latest_event": "(5) The South Gloucestershire (Electoral Changes) Order 2018",
         "name": "South Gloucestershire",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0004/36913/online.zip",
         "slug": "south-gloucestershire",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/gloucestershire/south-gloucestershire"
     },
     {
-        "eco_made": 0,
-        "latest_event": "The South Lakeland (Electoral Changes) Order 2017",
+        "eco_made": 1,
+        "latest_event": "(5) The South Lakeland (Electoral Changes) Order 2017",
         "name": "South Lakeland",
         "shapefiles": null,
         "slug": "south-lakeland",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/cumbria/south-lakeland"
     },
     {
