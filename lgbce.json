@@ -81,6 +81,15 @@
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/derbyshire/bolsover"
     },
     {
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Cambridge City",
+        "shapefiles": null,
+        "slug": "cambridge-city",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/cambridgeshire/cambridge-city"
+    },
+    {
         "eco_made": 1,
         "latest_event": "Cambridgeshire (Electoral Changes) Order 2016",
         "name": "Cambridgeshire County Council",
@@ -268,6 +277,15 @@
         "slug": "harrogate",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/harrogate"
+    },
+    {
+        "eco_made": 0,
+        "latest_event": "Warding Arrangements",
+        "name": "Hartlepool",
+        "shapefiles": null,
+        "slug": "hartlepool",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/north-east/hartlepool/hartlepool"
     },
     {
         "eco_made": 1,
