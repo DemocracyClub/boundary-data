@@ -136,7 +136,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "Submissions from division arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Cornwall",
         "shapefiles": null,
         "slug": "cornwall",
@@ -145,7 +145,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Crawley",
         "shapefiles": null,
         "slug": "crawley",
@@ -163,16 +163,16 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Dartford",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Dartford/Final%20Recs/Dartford_FinalRecommendations_Wards.zip",
         "slug": "dartford",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dartford"
     },
     {
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Dover",
         "shapefiles": null,
         "slug": "dover",
@@ -505,7 +505,7 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Oxford",
         "shapefiles": null,
         "slug": "oxford",
@@ -532,16 +532,16 @@
     },
     {
         "eco_made": 0,
-        "latest_event": "(4) Submissions from draft recommendations consultation",
+        "latest_event": "(5) Final recommendations",
         "name": "Redcar and Cleveland",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20East/Redcar%20and%20Cleveland/Final%20recs/Redcar%20and%20Clevelad%20Final.zip",
         "slug": "redcar-and-cleveland",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-east/redcar-cleveland/redcar-and-cleveland"
     },
     {
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Reigate and Banstead",
         "shapefiles": null,
         "slug": "reigate-and-banstead",
