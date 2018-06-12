@@ -142,7 +142,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(5) Submissions from draft recommendations consultation",
         "name": "Copeland",
         "shapefiles": null,
         "slug": "copeland",
@@ -852,7 +852,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Consultation on draft recommendations",
+        "latest_event": "Submissions from draft recommendations consultation",
         "name": "Windsor and Maidenhead",
         "shapefiles": null,
         "slug": "windsor-and-maidenhead",
