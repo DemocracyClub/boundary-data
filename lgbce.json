@@ -92,6 +92,16 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(2) Draft recommenmdations",
+        "name": "Bournemouth, Christchurch and Poole",
+        "shapefiles": null,
+        "slug": "bournemouth-christchurch-and-poole",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-west/dorset/bournemouth-christchurch-and-poole"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(2) Warding arrangements",
         "name": "Cambridge",
         "shapefiles": null,
@@ -202,6 +212,16 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(2) Draft recommendations",
+        "name": "Dorset",
+        "shapefiles": null,
+        "slug": "dorset",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-west/dorset/dorset"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(4) Draft recommendations",
         "name": "Dover",
         "shapefiles": null,
@@ -238,6 +258,16 @@
         "slug": "east-hampshire",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/east-hampshire"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Draft recommendations",
+        "name": "East Suffolk",
+        "shapefiles": null,
+        "slug": "east-suffolk",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/east-suffolk"
     },
     {
         "eco": null,
@@ -552,7 +582,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Norwich",
         "shapefiles": null,
         "slug": "norwich",
@@ -708,6 +738,16 @@
         "slug": "scarborough",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/scarborough"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Draft recommendations",
+        "name": "Somerset West and Taunton",
+        "shapefiles": null,
+        "slug": "somerset-west-and-taunton",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/somerset-west-and-taunton"
     },
     {
         "eco": null,
@@ -868,6 +908,16 @@
         "slug": "west-berkshire",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/west-berkshire"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Draft recommendations",
+        "name": "West Suffolk",
+        "shapefiles": null,
+        "slug": "west-suffolk",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/west-suffolk"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2016/1224/contents/made",
