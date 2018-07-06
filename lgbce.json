@@ -42,9 +42,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Further limited consultation",
+        "latest_event": "(6) Submissions from further limited consultation",
         "name": "Bath & North East Somerset",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/Bath%20and%20North%20East%20Somerset/Further%20Limited%20Draft%20Recs%20Subs/Res/BANES%20Local%20Residents.zip",
         "slug": "bath-and-north-east-somerset",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/bath-and-north-east-somerset"
@@ -882,7 +882,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(5) Submissions from draft recommendations consultation",
         "name": "Warwick",
         "shapefiles": null,
         "slug": "warwick",
