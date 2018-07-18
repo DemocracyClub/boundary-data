@@ -62,7 +62,7 @@
     {
         "eco": "http://www.legislation.gov.uk/uksi/2016/1140/contents/made",
         "eco_made": 1,
-        "latest_event": "The City of Birmingham (Electoral Changes) Order 2016",
+        "latest_event": "(9) The City of Birmingham (Electoral Changes) Order 2016",
         "name": "Birmingham",
         "shapefiles": null,
         "slug": "birmingham",
@@ -512,7 +512,7 @@
     {
         "eco": "http://www.legislation.gov.uk/uksi/2017/1068/contents/made",
         "eco_made": 1,
-        "latest_event": "The Manchester (Electoral Changes) Order 2017",
+        "latest_event": "(5) The Manchester (Electoral Changes) Order 2017",
         "name": "Manchester",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/33197/Manchester_final_proposals.zip",
         "slug": "manchester",
@@ -632,7 +632,7 @@
     {
         "eco": null,
         "eco_made": 1,
-        "latest_event": "The London Borough of Redbridge (Electoral Changes) Order 2017",
+        "latest_event": "(5) The London Borough of Redbridge (Electoral Changes) Order 2017",
         "name": "Redbridge",
         "shapefiles": null,
         "slug": "redbridge",
@@ -802,7 +802,7 @@
     {
         "eco": "http://www.legislation.gov.uk/uksi/2016/1202/made",
         "eco_made": 1,
-        "latest_event": "The London Borough of Southwark (Electoral Changes) Order 2016",
+        "latest_event": "(5) The London Borough of Southwark (Electoral Changes) Order 2016",
         "name": "Southwark",
         "shapefiles": null,
         "slug": "southwark",
