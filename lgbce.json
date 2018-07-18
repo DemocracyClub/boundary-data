@@ -52,7 +52,7 @@
     {
         "eco": null,
         "eco_made": 1,
-        "latest_event": "London Borough of Bexley (Electoral Changes) Order 2017",
+        "latest_event": "(6) The London Borough of Bexley (Electoral Changes) Order 2017",
         "name": "Bexley",
         "shapefiles": null,
         "slug": "bexley",
@@ -192,7 +192,7 @@
     {
         "eco": "http://www.legislation.gov.uk/uksi/2017/1125/contents/made",
         "eco_made": 1,
-        "latest_event": "London Borough of Croydon (Electoral Changes) Order 2017",
+        "latest_event": "(5) The London Borough of Croydon (Electoral Changes) Order 2017",
         "name": "Croydon",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0004/34078/Croydon_final_proposals.zip",
         "slug": "croydon",
