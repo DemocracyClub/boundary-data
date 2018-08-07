@@ -22,9 +22,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Submissions from new draft recommendation consultation",
+        "latest_event": "(7) Final recommendations",
         "name": "Babergh",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Babergh/Final%20Recs/For%20IS.zip",
         "slug": "babergh",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/babergh"
@@ -32,7 +32,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Basingstoke and Deane",
         "shapefiles": null,
         "slug": "basingstoke-and-deane",
@@ -42,9 +42,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Submissions from further limited consultation",
+        "latest_event": "(7) Final recommendations",
         "name": "Bath & North East Somerset",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/Bath%20and%20North%20East%20Somerset/Further%20Limited%20Draft%20Recs%20Subs/Res/BANES%20Local%20Residents.zip",
+        "shapefiles": null,
         "slug": "bath-and-north-east-somerset",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/bath-and-north-east-somerset"
@@ -122,7 +122,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Carlisle",
         "shapefiles": null,
         "slug": "carlisle",
@@ -162,9 +162,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Copeland",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cumbria/Copeland/Final%20recs/Copeland_FinalRec_Ward.zip",
         "slug": "copeland",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/cumbria/copeland"
@@ -532,9 +532,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Submissions from new draft recommendations consultation",
+        "latest_event": "(7) Final recommendations",
         "name": "Mid Suffolk",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Mid%20Suffolk/Final%20Recs/Mid%20Suffolk.zip",
         "slug": "mid-suffolk",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/mid-suffolk"
@@ -774,7 +774,7 @@
         "eco_made": 1,
         "latest_event": "(5) The South Gloucestershire (Electoral Changes) Order 2018",
         "name": "South Gloucestershire",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0004/36913/online.zip",
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Gloucestershire/South%20Gloucestershire/South_Gloucestershire_F_Ward_Polys.zip",
         "slug": "south-gloucestershire",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/gloucestershire/south-gloucestershire"
@@ -892,9 +892,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Warwick",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Warwickshire/Warwick/Final%20recs/Warwick_final_proposals.zip",
         "slug": "warwick",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/warwick"
