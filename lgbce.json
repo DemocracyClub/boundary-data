@@ -102,6 +102,16 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "Warding arrangements",
+        "name": "Brent",
+        "shapefiles": null,
+        "slug": "brent",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/brent"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(2) Warding arrangements",
         "name": "Cambridge",
         "shapefiles": null,
@@ -228,6 +238,16 @@
         "slug": "dover",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dover"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Warding arrangements",
+        "name": "Ealing",
+        "shapefiles": null,
+        "slug": "ealing",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/ealing"
     },
     {
         "eco": null,
@@ -408,6 +428,16 @@
         "slug": "hertsmere",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/hertsmere"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Warding arrangements",
+        "name": "Hillingdon",
+        "shapefiles": null,
+        "slug": "hillingdon",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/hillingdon"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2017/1065/contents/made",
@@ -938,6 +968,16 @@
         "slug": "west-sussex-county-council",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/west-sussex/west-sussex-county-council"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Division Arrangements",
+        "name": "Wiltshire Unitary Authority (UA)",
+        "shapefiles": null,
+        "slug": "wiltshire-unitary-authority-ua",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-west/wiltshire/wiltshire-unitary-authority-ua"
     },
     {
         "eco": null,
