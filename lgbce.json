@@ -462,7 +462,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations",
         "name": "Isle of Wight",
         "shapefiles": null,
         "slug": "isle-of-wight",
@@ -742,9 +742,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Runnymede",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Runnymede/Final%20recs/Runnymede_F_Ward_Polys.zip",
         "slug": "runnymede",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/runnymede"
