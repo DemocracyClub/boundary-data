@@ -232,9 +232,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(5) Submissions from draft recommendations consultation",
         "name": "Dover",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Dover/Draft%20Recs%20Subs/Dover%20DR%20Submissions_Residents.zip",
         "slug": "dover",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dover"
