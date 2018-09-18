@@ -112,9 +112,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Submissions from warding arrangements consultation",
         "name": "Cambridge",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Cambridgeshire/Cambridge/Warding%20Subs/Cambridge%20draft%20recs%20submissions.zip",
         "slug": "cambridge",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/cambridgeshire/cambridge"
@@ -222,9 +222,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Draft recommendations",
+        "latest_event": "(3) Submissions from Draft Reccommendations Consultation",
         "name": "Dorset",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Dorset/Dorset/Dorset%20final%20recs.zip",
         "slug": "dorset",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/dorset/dorset"
@@ -652,9 +652,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(5) Submissions from Draft Reccommendations Consultation",
         "name": "Oxford",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Oxfordshire/Oxford/Draft%20Recs%20Subs/Oxford%20final%20recs%20submissions.zip",
         "slug": "oxford",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/oxfordshire/oxford"
@@ -692,7 +692,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(5) Submissions from draft recommendations consultation",
         "name": "Reigate and Banstead",
         "shapefiles": null,
         "slug": "reigate-and-banstead",
