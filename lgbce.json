@@ -192,7 +192,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Reccommendations Consultation",
+        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
         "name": "Crawley",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/West%20Sussex/Crawley/Draft%20Recs%20Subs/Subs%20from%20residents.zip",
         "slug": "crawley",
