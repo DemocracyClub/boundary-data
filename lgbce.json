@@ -32,6 +32,16 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(2) Warding Arrangements Open",
+        "name": "Barnet",
+        "shapefiles": null,
+        "slug": "barnet",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/barnet"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(4) Draft recommendations",
         "name": "Basingstoke and Deane",
         "shapefiles": null,
