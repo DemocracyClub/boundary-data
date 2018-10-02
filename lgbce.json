@@ -122,7 +122,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Cambridge",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Cambridgeshire/Cambridge/Warding%20Subs/Cambridge%20draft%20recs%20submissions.zip",
         "slug": "cambridge",
@@ -202,9 +202,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Crawley",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/West%20Sussex/Crawley/Draft%20Recs%20Subs/Subs%20from%20residents.zip",
+        "shapefiles": null,
         "slug": "crawley",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/west-sussex/crawley"
@@ -242,9 +242,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "Final recommendations",
         "name": "Dover",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Dover/Draft%20Recs%20Subs/Dover%20DR%20Submissions_Residents.zip",
+        "shapefiles": null,
         "slug": "dover",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dover"
@@ -402,7 +402,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4)  Draft Reccommendations Consultation",
         "name": "Hartlepool",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20East/Hartlepool/Warding%20Subs/Hartlepool%20Submissions%20-%20Consultation%20on%20warding%20arrangements.zip",
         "slug": "hartlepool",
@@ -702,9 +702,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Reigate and Banstead",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Reigate%20and%20Banstead/Final%20Recs/RandB%20Polygons.zip",
         "slug": "reigate-and-banstead",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/reigate-and-banstead"
