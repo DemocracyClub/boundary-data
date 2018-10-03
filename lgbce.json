@@ -792,9 +792,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Draft recommendations",
+        "latest_event": "(3) Submissions from draft recommendations consultation",
         "name": "Somerset West and Taunton",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/Somerset%20West%20and%20Taunton/Draft%20Rec%20Subs/Residents.zip",
         "slug": "somerset-west-and-taunton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/somerset-west-and-taunton"
