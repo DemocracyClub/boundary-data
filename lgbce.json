@@ -102,9 +102,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from draft recommendations consultation",
+        "latest_event": "(4) Final recommendations",
         "name": "Bournemouth, Christchurch and Poole",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Dorset/Bournemouth%2C%20Christchurch%20and%20Poole/Final%20Recs/Mapping%20Files.zip",
         "slug": "bournemouth-christchurch-and-poole",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/dorset/bournemouth-christchurch-and-poole"
@@ -232,9 +232,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from Draft Reccommendations Consultation",
+        "latest_event": "(4) Final recommendations",
         "name": "Dorset",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Dorset/Dorset/Dorset%20final%20recs.zip",
+        "shapefiles": null,
         "slug": "dorset",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/dorset/dorset"
@@ -292,7 +292,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from draft recommendations consultation",
+        "latest_event": "(4) Final recommendations",
         "name": "East Suffolk",
         "shapefiles": null,
         "slug": "east-suffolk",
@@ -792,9 +792,9 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from draft recommendations consultation",
+        "latest_event": "(4) Final Recommendations",
         "name": "Somerset West and Taunton",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/Somerset%20West%20and%20Taunton/Draft%20Rec%20Subs/Residents.zip",
+        "shapefiles": null,
         "slug": "somerset-west-and-taunton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/somerset-west-and-taunton"
@@ -962,7 +962,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from draft recommendations consultation",
+        "latest_event": "(4) Final recommendations",
         "name": "West Suffolk",
         "shapefiles": null,
         "slug": "west-suffolk",
