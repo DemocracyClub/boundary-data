@@ -112,7 +112,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Final recommendations",
+        "latest_event": "(5) Parliamentary scrutiny: draft Order",
         "name": "Bournemouth, Christchurch and Poole",
         "register_code": "BPC",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Dorset/Bournemouth%2C%20Christchurch%20and%20Poole/Final%20Recs/Mapping%20Files.zip",
@@ -255,7 +255,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Final recommendations",
+        "latest_event": "(5) Parliamentary scrutiny: draft Order",
         "name": "Dorset",
         "register_code": "DOR",
         "shapefiles": null,
@@ -321,7 +321,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Final recommendations",
+        "latest_event": "(5) Parliamentary scrutiny: draft Order",
         "name": "East Suffolk",
         "register_code": "ESK",
         "shapefiles": null,
@@ -871,7 +871,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Final Recommendations",
+        "latest_event": "(5) Parliamentary scrutiny: draft Order",
         "name": "Somerset West and Taunton",
         "register_code": "SWT",
         "shapefiles": null,
@@ -1058,7 +1058,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Final recommendations",
+        "latest_event": "(5) Parliamentary scrutiny: draft Order",
         "name": "West Suffolk",
         "register_code": "WSK",
         "shapefiles": null,
