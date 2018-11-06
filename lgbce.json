@@ -189,7 +189,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft Recommendations Consultation",
         "name": "Chorley",
         "register_code": "CHO",
         "shapefiles": null,
@@ -695,10 +695,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Norwich",
         "register_code": "NOW",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Norfolk/Norwich/Final%20Recs/Norwich_final_proposals.zip",
         "slug": "norwich",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/norwich"
@@ -728,7 +728,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Reccommendations Consultation",
+        "latest_event": "(6) Further limited draft recommendations:public consultations",
         "name": "Oxford",
         "register_code": "OXO",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Oxfordshire/Oxford/Draft%20Recs%20Subs/Oxford%20final%20recs%20submissions.zip",
@@ -849,7 +849,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Salford",
         "register_code": "SLF",
         "shapefiles": null,
