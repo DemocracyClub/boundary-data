@@ -66,17 +66,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/bath-and-north-east-somerset"
     },
     {
-        "eco": null,
-        "eco_made": 1,
-        "latest_event": "(6) The London Borough of Bexley (Electoral Changes) Order 2017",
-        "name": "Bexley",
-        "register_code": "BEX",
-        "shapefiles": null,
-        "slug": "bexley",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/bexley"
-    },
-    {
         "eco": "http://www.legislation.gov.uk/uksi/2016/1140/contents/made",
         "eco_made": 1,
         "latest_event": "(9) The City of Birmingham (Electoral Changes) Order 2016",
@@ -781,17 +770,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/reigate-and-banstead"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1267/introduction/made",
-        "eco_made": 1,
-        "latest_event": "The Ribble Valley (Electoral Changes) Order 2017",
-        "name": "Ribble Valley",
-        "register_code": "RIB",
-        "shapefiles": null,
-        "slug": "ribble-valley",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/ribble-valley"
-    },
-    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/855/introduction/made",
         "eco_made": 1,
         "latest_event": "The Richmondshire (Electoral Changes) Order 2018",
@@ -957,28 +935,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/surrey-heath"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1081/contents/made",
-        "eco_made": 1,
-        "latest_event": "The Teignbridge (Electoral Changes) Order 2017",
-        "name": "Teignbridge",
-        "register_code": "TEI",
-        "shapefiles": null,
-        "slug": "teignbridge",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/teignbridge"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1122/contents/made",
-        "eco_made": 1,
-        "latest_event": "The Tendring (Electoral Changes) Order 2017",
-        "name": "Tendring",
-        "register_code": "TEN",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0018/34074/Tendring_final_proposals.zip",
-        "slug": "tendring",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/eastern/essex/tendring"
-    },
-    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/36/contents/made",
         "eco_made": 1,
         "latest_event": "The Test Valley (Electoral Changes) Order 2018",
@@ -988,17 +944,6 @@
         "slug": "test-valley",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/test-valley"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/37/contents/made",
-        "eco_made": 1,
-        "latest_event": "The Tewkesbury (Electoral Changes) Order 2018",
-        "name": "Tewkesbury",
-        "register_code": "TEW",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/35906/Tewkesbury_final_proposals.zip",
-        "slug": "tewkesbury",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-west/gloucestershire/tewkesbury"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/740/introduction/made",
@@ -1012,17 +957,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/torbay"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1083/contents/made",
-        "eco_made": 1,
-        "latest_event": "The Torridge (Electoral Changes) Order 2017",
-        "name": "Torridge",
-        "register_code": "TOR",
-        "shapefiles": null,
-        "slug": "torridge",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/torridge"
-    },
-    {
         "eco": null,
         "eco_made": 0,
         "latest_event": "(7) Parliamentary scrutiny: draft Order",
@@ -1032,17 +966,6 @@
         "slug": "warwick",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/warwick"
-    },
-    {
-        "eco": null,
-        "eco_made": 1,
-        "latest_event": "Wealden (Electoral Changes) Order 2016",
-        "name": "Wealden",
-        "register_code": "WEA",
-        "shapefiles": null,
-        "slug": "wealden",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-east/east-sussex/wealden"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/536/contents/made",
@@ -1065,17 +988,6 @@
         "slug": "west-suffolk",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/west-suffolk"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2016/1224/contents/made",
-        "eco_made": 1,
-        "latest_event": "West Sussex (Electoral Changes) Order 2016",
-        "name": "West Sussex County Council",
-        "register_code": "WSX",
-        "shapefiles": null,
-        "slug": "west-sussex-county-council",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-east/west-sussex/west-sussex-county-council"
     },
     {
         "eco": null,
