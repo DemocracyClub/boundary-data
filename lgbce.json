@@ -145,10 +145,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(5) Submissions from draft recommendations consultation",
         "name": "Carlisle",
         "register_code": "CAR",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cumbria/Carlisle/Draft%20Recs%20Subs/Submissions.zip",
         "slug": "carlisle",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/cumbria/carlisle"
