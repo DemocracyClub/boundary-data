@@ -231,9 +231,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/croydon"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1175/contents/made",
+        "eco_made": 1,
+        "latest_event": "(8) The Dartford (Electoral Changes) Order 2018",
         "name": "Dartford",
         "register_code": "DAR",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Dartford/Final%20Recs/Dartford_FinalRecommendations_Wards.zip",
@@ -649,9 +649,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/north-east/tyne-wear/newcastle-upon-tyne"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(6) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1178/contents/made",
+        "eco_made": 1,
+        "latest_event": "(7) The North Devon (Electoral Changes) Order 2018",
         "name": "North Devon",
         "register_code": "NDE",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Devon/North%20Devon/Final%20Recs/North%20Devon.zip",
@@ -748,9 +748,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/redbridge"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(6) Parliamentary scruiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1177/contents/made",
+        "eco_made": 1,
+        "latest_event": "(7) The Redcar and Cleveland (Electoral Changes) Order 2018",
         "name": "Redcar and Cleveland",
         "register_code": "RCC",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20East/Redcar%20and%20Cleveland/Final%20recs/Redcar%20and%20Clevelad%20Final.zip",
