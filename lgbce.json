@@ -46,7 +46,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Amendment of final recommendations publication date",
         "name": "Basingstoke and Deane",
         "register_code": "BAN",
         "shapefiles": null,
@@ -145,10 +145,21 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(2) Warding arrangements open",
+        "name": "Camden",
+        "register_code": "CMD",
+        "shapefiles": null,
+        "slug": "camden",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/camden"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(6) Final recommendations",
         "name": "Carlisle",
         "register_code": "CAR",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cumbria/Carlisle/Draft%20Recs%20Subs/Submissions.zip",
+        "shapefiles": null,
         "slug": "carlisle",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/cumbria/carlisle"
@@ -353,6 +364,17 @@
     },
     {
         "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Enfield",
+        "register_code": "ENF",
+        "shapefiles": null,
+        "slug": "enfield",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/enfield"
+    },
+    {
+        "eco": null,
         "eco_made": 1,
         "latest_event": "The Exeter (Electoral Changes) Order 2016",
         "name": "Exeter",
@@ -405,6 +427,17 @@
         "slug": "harborough",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/leicestershire/harborough"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Haringey",
+        "register_code": "HRY",
+        "shapefiles": null,
+        "slug": "haringey",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/haringey"
     },
     {
         "eco": null,
