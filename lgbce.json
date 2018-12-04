@@ -211,7 +211,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Cornwall",
         "register_code": "CON",
         "shapefiles": null,
@@ -266,7 +266,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Final recommendations",
+        "latest_event": "Parliamentary scrutiny: draft Order",
         "name": "Dover",
         "register_code": "DOV",
         "shapefiles": null,
@@ -398,7 +398,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Draft recommendations",
         "name": "Halton",
         "register_code": "HAL",
         "shapefiles": null,
@@ -453,7 +453,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Harrow",
         "register_code": "HRW",
         "shapefiles": null,
