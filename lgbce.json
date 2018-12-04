@@ -55,9 +55,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/basingstoke-and-deane"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(8) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1270/contents/made",
+        "eco_made": 1,
+        "latest_event": "(9) The Bath and North East Somerset (Electoral Changes) Order 2018",
         "name": "Bath & North East Somerset",
         "register_code": null,
         "shapefiles": null,
@@ -605,7 +605,7 @@
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/lancashire-county-council"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1077/contents/made",
+        "eco": null,
         "eco_made": 1,
         "latest_event": "The Leeds (Electoral Changes) Order 2017",
         "name": "Leeds",
@@ -794,7 +794,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final Recommendations",
+        "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Reigate and Banstead",
         "register_code": "REI",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Reigate%20and%20Banstead/Final%20Recs/RandB%20Polygons.zip",
@@ -838,7 +838,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final recommendations",
+        "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Runnymede",
         "register_code": "RUN",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Runnymede/Final%20recs/Runnymede_F_Ward_Polys.zip",
@@ -935,9 +935,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/south-norfolk"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(6) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1271/contents/made",
+        "eco_made": 1,
+        "latest_event": "(7) The South Somerset (Electoral Changes) Order 2018",
         "name": "South Somerset",
         "register_code": "SSO",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/South%20Somerset/Final%20Recs/For%20IS.zip",
@@ -1025,7 +1025,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Division Arrangements",
+        "latest_event": "Submissions from division arrangements consultation",
         "name": "Wiltshire Unitary Authority (UA)",
         "register_code": null,
         "shapefiles": null,
@@ -1034,9 +1034,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/wiltshire/wiltshire-unitary-authority-ua"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1272/contents/made",
+        "eco_made": 1,
+        "latest_event": "(8) The Windsor and Maidenhead (Electoral Changes) Order 2018",
         "name": "Windsor and Maidenhead",
         "register_code": "WNM",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Berkshire/Windsor%20and%20Maidenhead/Final%20recs/WandM.zip",
