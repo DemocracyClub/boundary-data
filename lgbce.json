@@ -750,10 +750,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Further limited draft recommendations:public consultations",
+        "latest_event": "(7) Submissions from further limited draft recommendations consultation",
         "name": "Oxford",
         "register_code": "OXO",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Oxfordshire/Oxford/Draft%20Recs%20Subs/Oxford%20final%20recs%20submissions.zip",
+        "shapefiles": null,
         "slug": "oxford",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/oxfordshire/oxford"
