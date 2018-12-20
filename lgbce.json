@@ -99,8 +99,8 @@
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/derbyshire/bolsover"
     },
     {
-        "eco": null,
-        "eco_made": 0,
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1372/contents/made",
+        "eco_made": 1,
         "latest_event": "(6) The Bournemouth, Christchurch and Poole (Electoral Changes) Order 2018",
         "name": "Bournemouth, Christchurch and Poole",
         "register_code": "BPC",
@@ -253,8 +253,8 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dartford"
     },
     {
-        "eco": null,
-        "eco_made": 0,
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1373/contents/made",
+        "eco_made": 1,
         "latest_event": "(6) The Dorset (Electoral Changes) Order 2018",
         "name": "Dorset",
         "register_code": "DOR",
@@ -320,7 +320,7 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "(6) The East Suffolk (Electoral Changes) Order 2018",
         "name": "East Suffolk",
         "register_code": "ESK",
@@ -880,8 +880,8 @@
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/scarborough"
     },
     {
-        "eco": null,
-        "eco_made": 0,
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1371/contents/made",
+        "eco_made": 1,
         "latest_event": "(6) The Somerset West and Taunton (Electoral Changes) Order 2018",
         "name": "Somerset West and Taunton",
         "register_code": "SWT",
@@ -1012,8 +1012,8 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/west-berkshire"
     },
     {
-        "eco": null,
-        "eco_made": 0,
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1375/contents/made",
+        "eco_made": 1,
         "latest_event": "(6) The West Suffolk (Electoral Changes) Order 2018",
         "name": "West Suffolk",
         "register_code": "WSK",
