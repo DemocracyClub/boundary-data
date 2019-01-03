@@ -319,7 +319,7 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/east-hampshire"
     },
     {
-        "eco": null,
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1374/contents/made",
         "eco_made": 1,
         "latest_event": "(6) The East Suffolk (Electoral Changes) Order 2018",
         "name": "East Suffolk",
