@@ -257,7 +257,7 @@
         "eco_made": 1,
         "latest_event": "(6) The Dorset (Electoral Changes) Order 2018",
         "name": "Dorset",
-        "register_code": "DOR",
+        "register_code": null,
         "shapefiles": null,
         "slug": "dorset",
         "status": "Current Reviews",
