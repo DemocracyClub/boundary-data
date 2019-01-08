@@ -508,7 +508,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Hillingdon",
         "register_code": "HIL",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Hillingdon/Warding%20Subs/ResidentsZip.zip",
@@ -526,6 +526,17 @@
         "slug": "horsham",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/west-sussex/horsham"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements open",
+        "name": "Hounslow",
+        "register_code": "HNS",
+        "shapefiles": null,
+        "slug": "hounslow",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/hounslow"
     },
     {
         "eco": null,
