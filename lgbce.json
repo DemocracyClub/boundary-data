@@ -265,8 +265,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "The Dover (Electoral Changes) Order 2019",
         "name": "Dover",
         "register_code": "DOV",
         "shapefiles": null,
@@ -804,8 +804,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "The Reigate & Banstead (Electoral Changes) Order 2019",
         "name": "Reigate and Banstead",
         "register_code": "REI",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Reigate%20and%20Banstead/Final%20Recs/RandB%20Polygons.zip",
@@ -848,8 +848,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "The Runnymede (Electoral Changes) Order 2019",
         "name": "Runnymede",
         "register_code": "RUN",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Runnymede/Final%20recs/Runnymede_F_Ward_Polys.zip",
