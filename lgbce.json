@@ -144,8 +144,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "(8) The Crawley (Electoral Changes) Order 2019",
         "name": "Crawley",
         "register_code": "CRW",
         "shapefiles": null,
@@ -408,8 +408,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "(8) The Norwich (Electoral Changes) Order 2019",
         "name": "Norwich",
         "register_code": "NOW",
         "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Norfolk/Norwich/Final%20Recs/Norwich_final_proposals.zip",
