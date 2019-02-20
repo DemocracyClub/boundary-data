@@ -89,8 +89,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "The Carlisle (Electoral Changes) Order 2019",
         "name": "Carlisle",
         "register_code": "CAR",
         "shapefiles": null,
@@ -341,17 +341,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/kings-lynn-and-west-norfolk"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1266/contents/made",
-        "eco_made": 1,
-        "latest_event": "The Kingston upon Hull (Electoral Changes) Order 2017",
-        "name": "Kingston-upon-Hull",
-        "register_code": "KHL",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0020/35417/Hull_final_proposals.zip",
-        "slug": "kingston-upon-hull",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/kingston-upon-hull/kingston-upon-hull"
-    },
-    {
         "eco": null,
         "eco_made": 0,
         "latest_event": "(8) Parliamentary scrutiny: draft Order",
@@ -361,17 +350,6 @@
         "slug": "mid-suffolk",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/mid-suffolk"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1079/contents/made",
-        "eco_made": 1,
-        "latest_event": "Newcastle-under-Lyme (Electoral Changes) Order 2017",
-        "name": "Newcastle-under-Lyme",
-        "register_code": "NEC",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0006/33594/NEWCASTLEUNDERLYME_final_proposals.shp.zip",
-        "slug": "newcastle-under-lyme",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/staffordshire/newcastle-under-lyme"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1178/contents/made",
