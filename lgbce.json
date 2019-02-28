@@ -508,10 +508,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations consultation",
+        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
         "name": "Salford",
         "register_code": "SLF",
-        "shapefiles": null,
+        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Salford/Draft%20recs%20subs/Salford%20Local%20Residents.zip",
         "slug": "salford",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/salford"
