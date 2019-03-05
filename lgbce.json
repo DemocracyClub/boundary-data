@@ -13,7 +13,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Barnet",
         "register_code": "BNE",
         "shapefiles": null,
@@ -24,7 +24,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Amendment of final recommendations publication date",
+        "latest_event": "(7) Final Recommendations",
         "name": "Basingstoke and Deane",
         "register_code": "BAN",
         "shapefiles": null,
@@ -321,7 +321,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Further limited draft recommendations: public consultation",
         "name": "Isle of Wight",
         "register_code": "IOW",
         "shapefiles": null,
