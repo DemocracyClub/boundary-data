@@ -112,7 +112,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Chorley",
         "register_code": "CHO",
         "shapefiles": null,
@@ -330,6 +330,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/isle-of-wight/isle-of-wight"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements open",
+        "name": "Islington",
+        "register_code": "ISL",
+        "shapefiles": null,
+        "slug": "islington",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/islington"
+    },
+    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/857/introduction/made",
         "eco_made": 1,
         "latest_event": "The King's Lynn and West Norfolk (Electoral Changes) Order 2018",
@@ -508,10 +519,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Salford",
         "register_code": "SLF",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Salford/Draft%20recs%20subs/Salford%20Local%20Residents.zip",
+        "shapefiles": null,
         "slug": "salford",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/salford"
@@ -625,6 +636,17 @@
         "slug": "west-suffolk",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/west-suffolk"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Westminster",
+        "register_code": "WSM",
+        "shapefiles": null,
+        "slug": "westminster",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/westminster"
     },
     {
         "eco": null,
