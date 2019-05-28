@@ -79,7 +79,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Camden",
         "register_code": "CMD",
         "shapefiles": null,
@@ -222,7 +222,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Enfield",
         "register_code": "ENF",
         "shapefiles": null,
@@ -244,7 +244,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Further limited consultation",
         "name": "Halton",
         "register_code": "HAL",
         "shapefiles": null,
@@ -255,7 +255,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(4) Draft recommendations",
         "name": "Haringey",
         "register_code": "HRY",
         "shapefiles": null,
@@ -266,7 +266,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) Submissions from further limited consultation",
+        "latest_event": "(8) Final Recommendations",
         "name": "Harrow",
         "register_code": "HRW",
         "shapefiles": null,
@@ -473,6 +473,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/reigate-and-banstead"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(1) Warding arrangements",
+        "name": "Richmond upon Thames",
+        "register_code": "RIC",
+        "shapefiles": null,
+        "slug": "richmond-upon-thames",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/richmond-upon-thames"
+    },
+    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/855/introduction/made",
         "eco_made": 1,
         "latest_event": "The Richmondshire (Electoral Changes) Order 2018",
@@ -603,6 +614,17 @@
         "slug": "torbay",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/torbay"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Wandsworth",
+        "register_code": "WND",
+        "shapefiles": null,
+        "slug": "wandsworth",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/wandsworth"
     },
     {
         "eco": null,
