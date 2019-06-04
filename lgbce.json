@@ -255,6 +255,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Hammersmith and Fulham",
+        "register_code": "HMF",
+        "shapefiles": null,
+        "slug": "hammersmith-and-fulham",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/hammersmith-and-fulham"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(4) Draft recommendations",
         "name": "Haringey",
         "register_code": "HRY",
@@ -299,7 +310,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Hillingdon",
         "register_code": "HIL",
         "shapefiles": null,
@@ -310,7 +321,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Hounslow",
         "register_code": "HNS",
         "shapefiles": null,
@@ -321,7 +332,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) Submissions from further limited recommendations consultation",
+        "latest_event": "8) Final recommendations",
         "name": "Isle of Wight",
         "register_code": "IOW",
         "shapefiles": null,
@@ -354,6 +365,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Merton",
+        "register_code": "MRT",
+        "shapefiles": null,
+        "slug": "merton",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/merton"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(8) Parliamentary scrutiny: draft Order",
         "name": "Mid Suffolk",
         "register_code": "MSU",
@@ -361,6 +383,17 @@
         "slug": "mid-suffolk",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/mid-suffolk"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Newham",
+        "register_code": "NWM",
+        "shapefiles": null,
+        "slug": "newham",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/newham"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1178/contents/made",
@@ -614,6 +647,17 @@
         "slug": "torbay",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/torbay"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding Arrangements",
+        "name": "Waltham Forest",
+        "register_code": "WFT",
+        "shapefiles": null,
+        "slug": "waltham-forest",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/waltham-forest"
     },
     {
         "eco": null,
