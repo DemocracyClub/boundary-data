@@ -68,6 +68,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "",
+        "name": "Bromley",
+        "register_code": "BRY",
+        "shapefiles": null,
+        "slug": "bromley",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/current-reviews/greater-london/bromley"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(7) Parliamentary Scrutiny: Draft Order",
         "name": "Cambridge",
         "register_code": "CAB",
@@ -365,6 +376,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(1) Warding arrangements",
+        "name": "Lewisham",
+        "register_code": "LEW",
+        "shapefiles": null,
+        "slug": "lewisham",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/lewisham"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(2) Warding arrangements",
         "name": "Merton",
         "register_code": "MRT",
@@ -625,6 +647,17 @@
         "slug": "surrey-heath",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/surrey-heath"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(1) Warding arrangements",
+        "name": "Sutton",
+        "register_code": "STN",
+        "shapefiles": null,
+        "slug": "sutton",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/sutton"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/36/contents/made",
