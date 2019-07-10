@@ -144,8 +144,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco_made": 1,
+        "latest_event": "(8) The Cornwall (Electoral Changes) Order 2019",
         "name": "Cornwall",
         "register_code": "CON",
         "shapefiles": null,
@@ -299,7 +299,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final Recommendations",
+        "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Hartlepool",
         "register_code": "HPL",
         "shapefiles": null,
