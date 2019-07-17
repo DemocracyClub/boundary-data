@@ -22,9 +22,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/barnet"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(8) Parliamentary Scrutiny: Draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2019/1122/contents/made",
+        "eco_made": 1,
+        "latest_event": "(9) The Basingstoke and Deane (Electoral Changes) Order 2018",
         "name": "Basingstoke and Deane",
         "register_code": "BAN",
         "shapefiles": null,
@@ -77,9 +77,9 @@
         "url": "http://www.lgbce.org.uk/current-reviews/greater-london/bromley"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary Scrutiny: Draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2019/1123/contents/made",
+        "eco_made": 1,
+        "latest_event": "(8) The Cambridge (Electoral Changes) Order 2019",
         "name": "Cambridge",
         "register_code": "CAB",
         "shapefiles": null,
@@ -123,7 +123,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final Recommendations",
+        "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Chorley",
         "register_code": "CHO",
         "shapefiles": null,
@@ -585,7 +585,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final recommendations",
+        "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Salford",
         "register_code": "SLF",
         "shapefiles": null,
@@ -739,7 +739,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Submissions from warding arrangements",
         "name": "Westminster",
         "register_code": "WSM",
         "shapefiles": null,
