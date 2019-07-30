@@ -354,7 +354,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Islington",
         "register_code": "ISL",
         "shapefiles": null,
@@ -473,9 +473,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/nottinghamshire/nottingham"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(9): Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2019/1162/contents/made",
+        "eco_made": 1,
+        "latest_event": "(10) The Oxford (Electoral Changes) Order 2019",
         "name": "Oxford",
         "register_code": "OXO",
         "shapefiles": null,
@@ -486,7 +486,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Pendle",
         "register_code": "PEN",
         "shapefiles": null,
