@@ -277,7 +277,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
         "name": "Haringey",
         "register_code": "HRY",
         "shapefiles": null,
@@ -750,7 +750,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Further Limited Consultation",
+        "latest_event": "(7) Submissions from Further Limited Consultation",
         "name": "Wiltshire Unitary Authority (UA)",
         "register_code": null,
         "shapefiles": null,
