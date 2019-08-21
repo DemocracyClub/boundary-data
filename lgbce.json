@@ -5,7 +5,7 @@
         "latest_event": "(8) Parliamentary scrutiny: draft Order",
         "name": "Babergh",
         "register_code": "BAB",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Babergh/Final%20Recs/For%20IS.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Babergh/Final%20Recs/For%20IS.zip",
         "slug": "babergh",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/babergh"
@@ -49,7 +49,7 @@
         "latest_event": "(6) The Bournemouth, Christchurch and Poole (Electoral Changes) Order 2018",
         "name": "Bournemouth, Christchurch and Poole",
         "register_code": "BPC",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Dorset/Bournemouth%2C%20Christchurch%20and%20Poole/Final%20Recs/Mapping%20Files.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Dorset/Bournemouth%2C%20Christchurch%20and%20Poole/Final%20Recs/Mapping%20Files.zip",
         "slug": "bournemouth-christchurch-and-poole",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/dorset/bournemouth-christchurch-and-poole"
@@ -115,7 +115,7 @@
         "latest_event": "The Cheshire West and Chester (Electoral Changes) Order 2018",
         "name": "Cheshire West & Chester",
         "register_code": null,
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cheshire%20West%20and%20Chester/Final%20Recs/CWAC.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cheshire%20West%20and%20Chester/Final%20Recs/CWAC.zip",
         "slug": "cheshire-west-and-chester",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/cheshire/cheshire-west-and-chester"
@@ -137,7 +137,7 @@
         "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Copeland",
         "register_code": "COP",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cumbria/Copeland/Final%20recs/Copeland_FinalRec_Ward.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cumbria/Copeland/Final%20recs/Copeland_FinalRec_Ward.zip",
         "slug": "copeland",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/cumbria/copeland"
@@ -170,7 +170,7 @@
         "latest_event": "(8) The Dartford (Electoral Changes) Order 2018",
         "name": "Dartford",
         "register_code": "DAR",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Dartford/Final%20Recs/Dartford_FinalRecommendations_Wards.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Dartford/Final%20Recs/Dartford_FinalRecommendations_Wards.zip",
         "slug": "dartford",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dartford"
@@ -214,7 +214,7 @@
         "latest_event": "The East Hampshire (Electoral Changes) Order 2018",
         "name": "East Hampshire",
         "register_code": "EHA",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Hampshire/East%20Hampshire/Final%20Recs/East%20Hampshire.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Hampshire/East%20Hampshire/Final%20Recs/East%20Hampshire.zip",
         "slug": "east-hampshire",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/east-hampshire"
@@ -247,7 +247,7 @@
         "latest_event": "(5) The Forest of Dean (Electoral Changes) Order 2018",
         "name": "Forest of Dean",
         "register_code": "FOE",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0007/36934/Polygons.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0007/36934/Polygons.zip",
         "slug": "forest-of-dean",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/gloucestershire/forest-of-dean"
@@ -313,7 +313,7 @@
         "latest_event": "(6) The Hertsmere (Electoral Changes) Order 2018",
         "name": "Hertsmere",
         "register_code": "HER",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0006/36438/Hertsmere_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0006/36438/Hertsmere_final_proposals.zip",
         "slug": "hertsmere",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/hertsmere"
@@ -368,7 +368,7 @@
         "latest_event": "The King's Lynn and West Norfolk (Electoral Changes) Order 2018",
         "name": "King's Lynn and West Norfolk",
         "register_code": "KIN",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Norfolk/King's%20Lynn%20and%20West%20Norfolk/Final%20Recs/King's%20Lynn.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Norfolk/King's%20Lynn%20and%20West%20Norfolk/Final%20Recs/King's%20Lynn.zip",
         "slug": "kings-lynn-and-west-norfolk",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/kings-lynn-and-west-norfolk"
@@ -401,7 +401,7 @@
         "latest_event": "(8) Parliamentary scrutiny: draft Order",
         "name": "Mid Suffolk",
         "register_code": "MSU",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Mid%20Suffolk/Final%20Recs/Mid%20Suffolk.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Mid%20Suffolk/Final%20Recs/Mid%20Suffolk.zip",
         "slug": "mid-suffolk",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/mid-suffolk"
@@ -423,7 +423,7 @@
         "latest_event": "(7) The North Devon (Electoral Changes) Order 2018",
         "name": "North Devon",
         "register_code": "NDE",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Devon/North%20Devon/Final%20Recs/North%20Devon.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Devon/North%20Devon/Final%20Recs/North%20Devon.zip",
         "slug": "north-devon",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/north-devon"
@@ -445,7 +445,7 @@
         "latest_event": "The North Norfolk (Electoral Changes) Order 2017",
         "name": "North Norfolk",
         "register_code": "NNO",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0014/33080/NorthNorfolk_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0014/33080/NorthNorfolk_final_proposals.zip",
         "slug": "north-norfolk",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/north-norfolk"
@@ -456,7 +456,7 @@
         "latest_event": "(8) The Norwich (Electoral Changes) Order 2019",
         "name": "Norwich",
         "register_code": "NOW",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Norfolk/Norwich/Final%20Recs/Norwich_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Norfolk/Norwich/Final%20Recs/Norwich_final_proposals.zip",
         "slug": "norwich",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/norwich"
@@ -467,7 +467,7 @@
         "latest_event": "The Nottingham (Electoral Changes) Order 2018",
         "name": "Nottingham",
         "register_code": "NGM",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Nottinghamshire/Nottingham/Final%20Recs/Nottingham_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Nottinghamshire/Nottingham/Final%20Recs/Nottingham_final_proposals.zip",
         "slug": "nottingham",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/nottinghamshire/nottingham"
@@ -500,7 +500,7 @@
         "latest_event": "(5) The Preston (Electoral Changes) Order 2018",
         "name": "Preston",
         "register_code": "PRE",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/36896/Preston-Polygons.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/36896/Preston-Polygons.zip",
         "slug": "preston",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/preston"
@@ -511,7 +511,7 @@
         "latest_event": "(7) The Redcar and Cleveland (Electoral Changes) Order 2018",
         "name": "Redcar and Cleveland",
         "register_code": "RCC",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20East/Redcar%20and%20Cleveland/Final%20recs/Redcar%20and%20Clevelad%20Final.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20East/Redcar%20and%20Cleveland/Final%20recs/Redcar%20and%20Clevelad%20Final.zip",
         "slug": "redcar-and-cleveland",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-east/redcar-cleveland/redcar-and-cleveland"
@@ -522,7 +522,7 @@
         "latest_event": "The Reigate & Banstead (Electoral Changes) Order 2019",
         "name": "Reigate and Banstead",
         "register_code": "REI",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Reigate%20and%20Banstead/Final%20Recs/RandB%20Polygons.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Reigate%20and%20Banstead/Final%20Recs/RandB%20Polygons.zip",
         "slug": "reigate-and-banstead",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/reigate-and-banstead"
@@ -544,7 +544,7 @@
         "latest_event": "The Richmondshire (Electoral Changes) Order 2018",
         "name": "Richmondshire",
         "register_code": "RIH",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Yorkshire/Richmondshire/Final%20Recs/Richmondshire.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Yorkshire/Richmondshire/Final%20Recs/Richmondshire.zip",
         "slug": "richmondshire",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/richmondshire"
@@ -555,7 +555,7 @@
         "latest_event": "The Rotherham (Electoral Changes) Order 2018",
         "name": "Rotherham",
         "register_code": "ROT",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0007/35998/Rotherham_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0007/35998/Rotherham_final_proposals.zip",
         "slug": "rotherham",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/south-yorkshire/rotherham"
@@ -566,7 +566,7 @@
         "latest_event": "The Runnymede (Electoral Changes) Order 2019",
         "name": "Runnymede",
         "register_code": "RUN",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Runnymede/Final%20recs/Runnymede_F_Ward_Polys.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Runnymede/Final%20recs/Runnymede_F_Ward_Polys.zip",
         "slug": "runnymede",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/runnymede"
@@ -577,7 +577,7 @@
         "latest_event": "The Rutland (Electoral Changes) Order 2018",
         "name": "Rutland",
         "register_code": "RUT",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Rutland/Final%20Recs/Rutland.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Rutland/Final%20Recs/Rutland.zip",
         "slug": "rutland",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/rutland/rutland"
@@ -599,7 +599,7 @@
         "latest_event": "The Scarborough (Electoral Changes) Order 2018",
         "name": "Scarborough",
         "register_code": "SCE",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Yorkshire/Scarborough/Final%20Recs/Scarborough_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Yorkshire/Scarborough/Final%20Recs/Scarborough_final_proposals.zip",
         "slug": "scarborough",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/scarborough"
@@ -621,7 +621,7 @@
         "latest_event": "(5) The South Gloucestershire (Electoral Changes) Order 2018",
         "name": "South Gloucestershire",
         "register_code": "SGC",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Gloucestershire/South%20Gloucestershire/South_Gloucestershire_F_Ward_Polys.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Gloucestershire/South%20Gloucestershire/South_Gloucestershire_F_Ward_Polys.zip",
         "slug": "south-gloucestershire",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/gloucestershire/south-gloucestershire"
@@ -632,7 +632,7 @@
         "latest_event": "(7) The South Somerset (Electoral Changes) Order 2018",
         "name": "South Somerset",
         "register_code": "SSO",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/South%20Somerset/Final%20Recs/For%20IS.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/South%20Somerset/Final%20Recs/For%20IS.zip",
         "slug": "south-somerset",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/south-somerset"
@@ -654,7 +654,7 @@
         "latest_event": "(1) Warding arrangements",
         "name": "Sutton",
         "register_code": "STN",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Sutton/Warding/Sutton_Council.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Sutton/Warding/Sutton_Council.zip",
         "slug": "sutton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/sutton"
@@ -665,7 +665,7 @@
         "latest_event": "The Test Valley (Electoral Changes) Order 2018",
         "name": "Test Valley",
         "register_code": "TES",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0014/35420/TestValley_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0014/35420/TestValley_final_proposals.zip",
         "slug": "test-valley",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/test-valley"
@@ -676,7 +676,7 @@
         "latest_event": "The Torbay (Electoral Changes) Order 2018",
         "name": "Torbay",
         "register_code": "TOB",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Devon/Torbay/Final%20Recs/Torbay.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Devon/Torbay/Final%20Recs/Torbay.zip",
         "slug": "torbay",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/torbay"
@@ -709,7 +709,7 @@
         "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Warwick",
         "register_code": "WAW",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Warwickshire/Warwick/Final%20recs/Warwick_final_proposals.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Warwickshire/Warwick/Final%20recs/Warwick_final_proposals.zip",
         "slug": "warwick",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/warwick"
@@ -720,7 +720,7 @@
         "latest_event": "(6) The West Berkshire (Electoral Changes) Order 2018",
         "name": "West Berkshire",
         "register_code": "WBK",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/36905/West_Berkshire_F_Ward_polys.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/36905/West_Berkshire_F_Ward_polys.zip",
         "slug": "west-berkshire",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/west-berkshire"
@@ -764,7 +764,7 @@
         "latest_event": "(8) The Windsor and Maidenhead (Electoral Changes) Order 2018",
         "name": "Windsor and Maidenhead",
         "register_code": "WNM",
-        "shapefiles": "http://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Berkshire/Windsor%20and%20Maidenhead/Final%20recs/WandM.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Berkshire/Windsor%20and%20Maidenhead/Final%20recs/WandM.zip",
         "slug": "windsor-and-maidenhead",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/windsor-and-maidenhead"
