@@ -517,6 +517,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/preston"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(1) Warding Arrangements",
+        "name": "Reading",
+        "register_code": "RDG",
+        "shapefiles": null,
+        "slug": "reading",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/reading"
+    },
+    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1177/contents/made",
         "eco_made": 1,
         "latest_event": "(7) The Redcar and Cleveland (Electoral Changes) Order 2018",
