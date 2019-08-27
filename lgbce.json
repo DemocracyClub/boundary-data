@@ -398,6 +398,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(1) Warding Arrangements",
+        "name": "Mid Devon",
+        "register_code": "MDE",
+        "shapefiles": null,
+        "slug": "mid-devon",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/mid-devon"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(8) Parliamentary scrutiny: draft Order",
         "name": "Mid Suffolk",
         "register_code": "MSU",
@@ -636,6 +647,17 @@
         "slug": "south-somerset",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/south-somerset"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(1) Warding Arrangements",
+        "name": "St Albans",
+        "register_code": "SAL",
+        "shapefiles": null,
+        "slug": "st-albans-0",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/st-albans-0"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2017/1268/introduction/made",
