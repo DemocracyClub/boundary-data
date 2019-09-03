@@ -376,7 +376,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Submissions from Warding Arrangements consultation",
         "name": "Merton",
         "register_code": "MRT",
         "shapefiles": null,
@@ -409,10 +409,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Submissions From Warding Arrangements Consultation",
         "name": "Newham",
         "register_code": "NWM",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Newham/Warding%20arrangements/Subs/Residents_redacted.zip",
         "slug": "newham",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/newham"
