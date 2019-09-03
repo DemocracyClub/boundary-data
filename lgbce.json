@@ -244,7 +244,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) Submissions from further limited consultation",
+        "latest_event": "(8) Final Recommendations",
         "name": "Halton",
         "register_code": "HAL",
         "shapefiles": null,
@@ -350,6 +350,17 @@
         "slug": "islington",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/islington"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(1) Warding Arrangements",
+        "name": "Kingston upon Thames",
+        "register_code": "KTT",
+        "shapefiles": null,
+        "slug": "kingston-upon-thames",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/kingston-upon-thames"
     },
     {
         "eco": null,
