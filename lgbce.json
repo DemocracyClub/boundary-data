@@ -618,7 +618,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(1) Warding arrangements",
+        "latest_event": "(2) Warding arrangements",
         "name": "Sutton",
         "register_code": "STN",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Sutton/Warding/Sutton_Council.zip",
