@@ -418,6 +418,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/newham"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Division Arrangements Consultation",
+        "name": "Norfolk County Council",
+        "register_code": "NFK",
+        "shapefiles": null,
+        "slug": "norfolk-county-council-0",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/norfolk-county-council-0"
+    },
+    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1178/contents/made",
         "eco_made": 1,
         "latest_event": "(7) The North Devon (Electoral Changes) Order 2018",
@@ -614,6 +625,17 @@
         "slug": "st-albans-0",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/st-albans-0"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Division Arrangements Consultation",
+        "name": "Suffolk County Council",
+        "register_code": "SFK",
+        "shapefiles": null,
+        "slug": "suffolk-county-council-0",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/suffolk-county-council-0"
     },
     {
         "eco": null,
