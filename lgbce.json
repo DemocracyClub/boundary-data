@@ -111,6 +111,17 @@
     },
     {
         "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding Arrangements Consultation",
+        "name": "Central Bedfordshire",
+        "register_code": "CBF",
+        "shapefiles": null,
+        "slug": "central-bedfordshire",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/bedfordshire/central-bedfordshire"
+    },
+    {
+        "eco": null,
         "eco_made": 1,
         "latest_event": "The Cheshire West and Chester (Electoral Changes) Order 2018",
         "name": "Cheshire West & Chester",
@@ -218,6 +229,17 @@
         "slug": "east-hampshire",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/east-hampshire"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding Arrangements",
+        "name": "East Staffordshire",
+        "register_code": "EST",
+        "shapefiles": null,
+        "slug": "east-staffordshire",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/staffordshire/east-staffordshire"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1374/contents/made",
