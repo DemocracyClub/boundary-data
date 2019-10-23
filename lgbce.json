@@ -57,7 +57,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final recommendations",
+        "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Brent",
         "register_code": "BEN",
         "shapefiles": null,
@@ -266,7 +266,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(8) Final Recommendations",
+        "latest_event": "(9) Parliamentary scrutiny: draft Order",
         "name": "Halton",
         "register_code": "HAL",
         "shapefiles": null,
@@ -299,7 +299,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(8) Final Recommendations",
+        "latest_event": "(9) Parliamentary scrutiny: draft Order",
         "name": "Harrow",
         "register_code": "HRW",
         "shapefiles": null,
@@ -332,7 +332,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final Recommendations",
+        "latest_event": "(7) Parliamentary scrutiny: draft Order",
         "name": "Hillingdon",
         "register_code": "HIL",
         "shapefiles": null,
@@ -354,7 +354,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "8) Final recommendations",
+        "latest_event": "(9) Parliamentary scrutiny: draft Order",
         "name": "Isle of Wight",
         "register_code": "IOW",
         "shapefiles": null,
