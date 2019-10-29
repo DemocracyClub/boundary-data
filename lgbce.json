@@ -255,7 +255,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Further Limited Draft Recommendations",
         "name": "Enfield",
         "register_code": "ENF",
         "shapefiles": null,
@@ -343,7 +343,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Hounslow",
         "register_code": "HNS",
         "shapefiles": null,
@@ -431,7 +431,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Newham",
         "register_code": "NWM",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Newham/Warding%20arrangements/Subs/Residents_redacted_0.zip",
@@ -563,7 +563,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Richmond upon Thames",
         "register_code": "RIC",
         "shapefiles": null,
@@ -684,7 +684,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Wandsworth",
         "register_code": "WND",
         "shapefiles": null,
