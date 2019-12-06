@@ -640,7 +640,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(1) Warding Arrangements",
+        "latest_event": "(2) Submissions From Warding Arrangements Consultation",
         "name": "St Albans",
         "register_code": "SAL",
         "shapefiles": null,
@@ -662,10 +662,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Submissions from Warding Arrangements consultation",
         "name": "Sutton",
         "register_code": "STN",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Sutton/Warding/Sutton_Council.zip",
+        "shapefiles": null,
         "slug": "sutton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/sutton"
