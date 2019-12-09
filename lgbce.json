@@ -62,7 +62,7 @@
         "register_code": "BEN",
         "shapefiles": null,
         "slug": "brent",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/brent"
     },
     {
@@ -121,17 +121,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/bedfordshire/central-bedfordshire"
     },
     {
-        "eco": null,
-        "eco_made": 1,
-        "latest_event": "The Cheshire West and Chester (Electoral Changes) Order 2018",
-        "name": "Cheshire West & Chester",
-        "register_code": null,
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cheshire%20West%20and%20Chester/Final%20Recs/CWAC.zip",
-        "slug": "cheshire-west-and-chester",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/north-west/cheshire/cheshire-west-and-chester"
-    },
-    {
         "eco": "http://www.legislation.gov.uk/uksi/2019/1124/contents/made",
         "eco_made": 1,
         "latest_event": "(8) The Chorley(Electoral Changes) Order 2019",
@@ -141,17 +130,6 @@
         "slug": "chorley",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/chorley"
-    },
-    {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
-        "name": "Copeland",
-        "register_code": "COP",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Cumbria/Copeland/Final%20recs/Copeland_FinalRec_Ward.zip",
-        "slug": "copeland",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/north-west/cumbria/copeland"
     },
     {
         "eco": null,
@@ -174,17 +152,6 @@
         "slug": "crawley",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/west-sussex/crawley"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/1175/contents/made",
-        "eco_made": 1,
-        "latest_event": "(8) The Dartford (Electoral Changes) Order 2018",
-        "name": "Dartford",
-        "register_code": "DAR",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Dartford/Final%20Recs/Dartford_FinalRecommendations_Wards.zip",
-        "slug": "dartford",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dartford"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1373/contents/made",
@@ -211,24 +178,13 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final recommendations",
+        "latest_event": "(7) Parliamentary Scrutiny: Draft Order",
         "name": "Ealing",
         "register_code": "EAL",
         "shapefiles": null,
         "slug": "ealing",
-        "status": "Current Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/ealing"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/854/introduction/made",
-        "eco_made": 1,
-        "latest_event": "The East Hampshire (Electoral Changes) Order 2018",
-        "name": "East Hampshire",
-        "register_code": "EHA",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Hampshire/East%20Hampshire/Final%20Recs/East%20Hampshire.zip",
-        "slug": "east-hampshire",
         "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/east-hampshire"
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/ealing"
     },
     {
         "eco": null,
@@ -271,7 +227,7 @@
         "register_code": "HAL",
         "shapefiles": null,
         "slug": "halton",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/cheshire/halton"
     },
     {
@@ -304,7 +260,7 @@
         "register_code": "HRW",
         "shapefiles": null,
         "slug": "harrow",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/harrow"
     },
     {
@@ -319,17 +275,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/north-east/hartlepool/hartlepool"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/535/contents/made",
-        "eco_made": 1,
-        "latest_event": "(6) The Hertsmere (Electoral Changes) Order 2018",
-        "name": "Hertsmere",
-        "register_code": "HER",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0006/36438/Hertsmere_final_proposals.zip",
-        "slug": "hertsmere",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/hertsmere"
-    },
-    {
         "eco": null,
         "eco_made": 0,
         "latest_event": "(7) Parliamentary scrutiny: draft Order",
@@ -337,7 +282,7 @@
         "register_code": "HIL",
         "shapefiles": null,
         "slug": "hillingdon",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/hillingdon"
     },
     {
@@ -359,7 +304,7 @@
         "register_code": "IOW",
         "shapefiles": null,
         "slug": "isle-of-wight",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/isle-of-wight/isle-of-wight"
     },
     {
@@ -420,17 +365,6 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(8) Parliamentary scrutiny: draft Order",
-        "name": "Mid Suffolk",
-        "register_code": "MSU",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Mid%20Suffolk/Final%20Recs/Mid%20Suffolk.zip",
-        "slug": "mid-suffolk",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/mid-suffolk"
-    },
-    {
-        "eco": null,
-        "eco_made": 0,
         "latest_event": "(4) Draft Recommendations",
         "name": "Newham",
         "register_code": "NWM",
@@ -451,28 +385,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/norfolk-county-council-0"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/1178/contents/made",
-        "eco_made": 1,
-        "latest_event": "(7) The North Devon (Electoral Changes) Order 2018",
-        "name": "North Devon",
-        "register_code": "NDE",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Devon/North%20Devon/Final%20Recs/North%20Devon.zip",
-        "slug": "north-devon",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/north-devon"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2017/1085/contents/made",
-        "eco_made": 1,
-        "latest_event": "The North Norfolk (Electoral Changes) Order 2017",
-        "name": "North Norfolk",
-        "register_code": "NNO",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0014/33080/NorthNorfolk_final_proposals.zip",
-        "slug": "north-norfolk",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/north-norfolk"
-    },
-    {
         "eco": null,
         "eco_made": 1,
         "latest_event": "(8) The Norwich (Electoral Changes) Order 2019",
@@ -482,17 +394,6 @@
         "slug": "norwich",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/norwich"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/856/introduction/made",
-        "eco_made": 1,
-        "latest_event": "The Nottingham (Electoral Changes) Order 2018",
-        "name": "Nottingham",
-        "register_code": "NGM",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Nottinghamshire/Nottingham/Final%20Recs/Nottingham_final_proposals.zip",
-        "slug": "nottingham",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/nottinghamshire/nottingham"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2019/1162/contents/made",
@@ -517,17 +418,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/pendle"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/548/contents/made",
-        "eco_made": 1,
-        "latest_event": "(5) The Preston (Electoral Changes) Order 2018",
-        "name": "Preston",
-        "register_code": "PRE",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/__data/assets/file/0005/36896/Preston-Polygons.zip",
-        "slug": "preston",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/preston"
-    },
-    {
         "eco": null,
         "eco_made": 0,
         "latest_event": "(3) Submissions from Warding Arrangements consultation",
@@ -537,17 +427,6 @@
         "slug": "reading",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/reading"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/1177/contents/made",
-        "eco_made": 1,
-        "latest_event": "(7) The Redcar and Cleveland (Electoral Changes) Order 2018",
-        "name": "Redcar and Cleveland",
-        "register_code": "RCC",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20East/Redcar%20and%20Cleveland/Final%20recs/Redcar%20and%20Clevelad%20Final.zip",
-        "slug": "redcar-and-cleveland",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/north-east/redcar-cleveland/redcar-and-cleveland"
     },
     {
         "eco": null,
@@ -572,17 +451,6 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/richmond-upon-thames"
     },
     {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/855/introduction/made",
-        "eco_made": 1,
-        "latest_event": "The Richmondshire (Electoral Changes) Order 2018",
-        "name": "Richmondshire",
-        "register_code": "RIH",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Yorkshire/Richmondshire/Final%20Recs/Richmondshire.zip",
-        "slug": "richmondshire",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-yorkshire/richmondshire"
-    },
-    {
         "eco": null,
         "eco_made": 1,
         "latest_event": "The Runnymede (Electoral Changes) Order 2019",
@@ -592,17 +460,6 @@
         "slug": "runnymede",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/runnymede"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/1314/contents/made",
-        "eco_made": 1,
-        "latest_event": "The Rutland (Electoral Changes) Order 2018",
-        "name": "Rutland",
-        "register_code": "RUT",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Rutland/Final%20Recs/Rutland.zip",
-        "slug": "rutland",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/rutland/rutland"
     },
     {
         "eco": null,
@@ -625,17 +482,6 @@
         "slug": "somerset-west-and-taunton",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/somerset-west-and-taunton"
-    },
-    {
-        "eco": "http://www.legislation.gov.uk/uksi/2018/1271/contents/made",
-        "eco_made": 1,
-        "latest_event": "(7) The South Somerset (Electoral Changes) Order 2018",
-        "name": "South Somerset",
-        "register_code": "SSO",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20West/Somerset/South%20Somerset/Final%20Recs/For%20IS.zip",
-        "slug": "south-somerset",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/south-west/somerset/south-somerset"
     },
     {
         "eco": null,
@@ -691,17 +537,6 @@
         "slug": "wandsworth",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/wandsworth"
-    },
-    {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
-        "name": "Warwick",
-        "register_code": "WAW",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Warwickshire/Warwick/Final%20recs/Warwick_final_proposals.zip",
-        "slug": "warwick",
-        "status": "Recent Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/warwick"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1375/contents/made",
