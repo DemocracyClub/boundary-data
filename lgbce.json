@@ -1,8 +1,8 @@
 [
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(8) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2018/1315/contents/made",
+        "eco_made": 1,
+        "latest_event": "(9) The Babergh (Electoral Changes) Order 2018",
         "name": "Babergh",
         "register_code": "BAB",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Suffolk/Babergh/Final%20Recs/For%20IS.zip",
@@ -462,9 +462,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/runnymede"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2019/1125/contents/made",
+        "eco_made": 1,
+        "latest_event": "(8) The Salford (Electoral Changes) Order 2019",
         "name": "Salford",
         "register_code": "SLF",
         "shapefiles": null,
