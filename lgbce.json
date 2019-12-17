@@ -233,7 +233,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(4) Draft recommendations consultation",
         "name": "Hammersmith and Fulham",
         "register_code": "HMF",
         "shapefiles": null,
@@ -244,7 +244,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Haringey",
         "register_code": "HRY",
         "shapefiles": null,
@@ -273,6 +273,17 @@
         "slug": "hartlepool",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-east/hartlepool/hartlepool"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Havering",
+        "register_code": "HAV",
+        "shapefiles": null,
+        "slug": "havering",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/havering"
     },
     {
         "eco": null,
@@ -332,7 +343,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from Warding Arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Lewisham",
         "register_code": "LEW",
         "shapefiles": null,
@@ -343,7 +354,18 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from Warding Arrangements consultation",
+        "latest_event": "(2) Warding arrangements",
+        "name": "Medway",
+        "register_code": "MDW",
+        "shapefiles": null,
+        "slug": "medway",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/medway"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(4) Draft Recommendations",
         "name": "Merton",
         "register_code": "MRT",
         "shapefiles": null,
@@ -361,6 +383,17 @@
         "slug": "mid-devon",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/devon/mid-devon"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding Arrangements",
+        "name": "New Forest",
+        "register_code": "NEW",
+        "shapefiles": null,
+        "slug": "new-forest",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/new-forest"
     },
     {
         "eco": null,
@@ -409,7 +442,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Pendle",
         "register_code": "PEN",
         "shapefiles": null,
@@ -519,7 +552,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Waltham Forest",
         "register_code": "WFT",
         "shapefiles": null,
