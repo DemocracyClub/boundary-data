@@ -13,7 +13,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) Submissions from Further Limited Draft Recommendations Consultation",
+        "latest_event": "(8) Final Recommendations",
         "name": "Barnet",
         "register_code": "BNE",
         "shapefiles": null,
@@ -53,6 +53,17 @@
         "slug": "bournemouth-christchurch-and-poole",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/dorset/bournemouth-christchurch-and-poole"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Bracknell Forest",
+        "register_code": "BRC",
+        "shapefiles": null,
+        "slug": "bracknell-forest",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/bracknell-forest"
     },
     {
         "eco": null,
@@ -321,7 +332,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations Consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Islington",
         "register_code": "ISL",
         "shapefiles": null,
@@ -332,7 +343,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(1) Warding Arrangements",
+        "latest_event": "(2) Submissions from Warding Arrangements consultation",
         "name": "Kingston upon Thames",
         "register_code": "KTT",
         "shapefiles": null,
@@ -416,6 +427,17 @@
         "slug": "norfolk-county-council-0",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/norfolk-county-council-0"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding Arrangements",
+        "name": "North Kesteven",
+        "register_code": "NKE",
+        "shapefiles": null,
+        "slug": "north-kesteven",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/lincolnshire/north-kesteven"
     },
     {
         "eco": null,
@@ -541,7 +563,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from Warding Arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Sutton",
         "register_code": "STN",
         "shapefiles": null,
