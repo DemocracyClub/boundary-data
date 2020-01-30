@@ -66,9 +66,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/bracknell-forest"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2020/66/contents/made",
+        "eco_made": 1,
+        "latest_event": "(8) The London Borough of Brent (Electoral Changes) Order 2020",
         "name": "Brent",
         "register_code": "BEN",
         "shapefiles": null,
@@ -187,9 +187,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/dover"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary Scrutiny: Draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2020/65/contents/made",
+        "eco_made": 1,
+        "latest_event": "(8) The London Borough of Ealing (Electoral Changes) Order 2020",
         "name": "Ealing",
         "register_code": "EAL",
         "shapefiles": null,
@@ -231,9 +231,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/enfield"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(9) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2020/60/contents/made",
+        "eco_made": 1,
+        "latest_event": "(10) The Halton (Electoral Changes) Order 2020",
         "name": "Halton",
         "register_code": "HAL",
         "shapefiles": null,
@@ -264,9 +264,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/haringey"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(9) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2020/72/contents/made",
+        "eco_made": 1,
+        "latest_event": "(10) The London Borough of Harrow (Electoral Changes) Order 2020",
         "name": "Harrow",
         "register_code": "HRW",
         "shapefiles": null,
@@ -297,9 +297,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/havering"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2020/71/contents/made",
+        "eco_made": 1,
+        "latest_event": "(8) The London Borough of Hillingdon (Electoral Changes) Order 2020",
         "name": "Hillingdon",
         "register_code": "HIL",
         "shapefiles": null,
@@ -319,9 +319,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/hounslow"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(9) Parliamentary scrutiny: draft Order",
+        "eco": "http://www.legislation.gov.uk/uksi/2020/64/contents/made",
+        "eco_made": 1,
+        "latest_event": "(10) The Isle of Wight (Electoral Changes) Order 2020",
         "name": "Isle of Wight",
         "register_code": "IOW",
         "shapefiles": null,
