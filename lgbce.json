@@ -101,7 +101,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) Submissions from New Draft Recommendations consultation",
+        "latest_event": "(8) Final Recommendations",
         "name": "Camden",
         "register_code": "CMD",
         "shapefiles": null,
@@ -387,7 +387,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(3) Draft recommendations",
         "name": "Mid Devon",
         "register_code": "MDE",
         "shapefiles": null,
@@ -475,7 +475,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from Warding Arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Reading",
         "register_code": "RDG",
         "shapefiles": null,
@@ -541,7 +541,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Submissions From Warding Arrangements Consultation",
+        "latest_event": "(3) Draft Recommendations",
         "name": "St Albans",
         "register_code": "SAL",
         "shapefiles": null,
