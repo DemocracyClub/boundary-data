@@ -508,7 +508,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "Richmond upon Thames",
         "register_code": "RIC",
         "shapefiles": null,
@@ -618,7 +618,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Westminster",
         "register_code": "WSM",
         "shapefiles": null,
