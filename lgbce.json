@@ -46,7 +46,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding Arrangements",
+        "latest_event": "(3) Warding Arrangements Consultation Extension",
         "name": "Bedford",
         "register_code": "BDF",
         "shapefiles": null,
@@ -398,7 +398,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Draft recommendations",
+        "latest_event": "(4) Draft Recommendations Consultation Extension",
         "name": "Mid Devon",
         "register_code": "MDE",
         "shapefiles": null,
@@ -486,7 +486,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(5) Draft Recommendations Consultation Extension",
         "name": "Reading",
         "register_code": "RDG",
         "shapefiles": null,
