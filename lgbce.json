@@ -68,7 +68,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Bracknell Forest",
         "register_code": "BRC",
         "shapefiles": null,
@@ -134,7 +134,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Central Bedfordshire",
         "register_code": "CBF",
         "shapefiles": null,
@@ -211,7 +211,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "East Staffordshire",
         "register_code": "EST",
         "shapefiles": null,
@@ -365,7 +365,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from Draft Recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Lewisham",
         "register_code": "LEW",
         "shapefiles": null,
@@ -376,7 +376,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Medway",
         "register_code": "MDW",
         "shapefiles": null,
@@ -409,7 +409,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Submissions from warding arrangements consultation",
+        "latest_event": "(4) Draft Recommendations",
         "name": "New Forest",
         "register_code": "NEW",
         "shapefiles": null,
@@ -585,7 +585,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "Sutton",
         "register_code": "STN",
         "shapefiles": null,
