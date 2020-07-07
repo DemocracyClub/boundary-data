@@ -242,6 +242,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/enfield"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Greenwich electoral review 2000",
+        "name": "Greenwich",
+        "register_code": "GRE",
+        "shapefiles": null,
+        "slug": "greenwich",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/greenwich"
+    },
+    {
         "eco": "http://www.legislation.gov.uk/uksi/2020/60/contents/made",
         "eco_made": 1,
         "latest_event": "(10) The Halton (Electoral Changes) Order 2020",
