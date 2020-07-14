@@ -376,6 +376,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(1) Warding arrangements",
+        "name": "Lambeth",
+        "register_code": "LBH",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Lambeth/Warding/Lambeth%20council%20size%20submission.zip",
+        "slug": "lambeth",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/lambeth"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(6) Final Recommendations",
         "name": "Lewisham",
         "register_code": "LEW",
