@@ -18,7 +18,7 @@
         "register_code": "BNE",
         "shapefiles": null,
         "slug": "barnet",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/barnet"
     },
     {
@@ -128,7 +128,7 @@
         "register_code": "CMD",
         "shapefiles": null,
         "slug": "camden",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/camden"
     },
     {
@@ -700,7 +700,7 @@
         "register_code": null,
         "shapefiles": null,
         "slug": "wiltshire-unitary-authority-ua",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-west/wiltshire/wiltshire-unitary-authority-ua"
     },
     {
