@@ -442,7 +442,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Further limited draft consultation",
         "name": "Mid Devon",
         "register_code": "MDE",
         "shapefiles": null,
@@ -530,7 +530,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Submissions from draft recommendations consultation",
+        "latest_event": "(7) Final recommendations",
         "name": "Reading",
         "register_code": "RDG",
         "shapefiles": null,
