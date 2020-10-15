@@ -24,7 +24,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(9) Parliamentary scrutiny: draft Order",
+        "latest_event": "(10) The London Borough of Barnet (Electoral Changes) Order 2020",
         "name": "Barnet",
         "register_code": "BNE",
         "shapefiles": null,
@@ -310,7 +310,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "latest_event": "(8) The London Borough of Haringey Council (Electoral Changes) Order 2020",
         "name": "Haringey",
         "register_code": "HRY",
         "shapefiles": null,
@@ -365,7 +365,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "latest_event": "(8) The London Borough of Hounslow (Electoral Changes) Order 2020",
         "name": "Hounslow",
         "register_code": "HNS",
         "shapefiles": null,
