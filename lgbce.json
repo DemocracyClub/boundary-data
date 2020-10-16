@@ -132,9 +132,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/cambridgeshire/cambridge"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(9) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2020/1107/contents/made",
+        "eco_made": 1,
+        "latest_event": "(10) The London Borough of Camden (Electoral Changes) Order 2020",
         "name": "Camden",
         "register_code": "CMD",
         "shapefiles": null,
@@ -264,14 +264,14 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/east-suffolk"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(9) Parliamentary\u00a0scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2020/1109/contents/made",
+        "eco_made": 1,
+        "latest_event": "(10) The London Borough of Enfield (Electoral Changes) Order 2020",
         "name": "Enfield",
         "register_code": "ENF",
         "shapefiles": null,
         "slug": "enfield",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/enfield"
     },
     {
