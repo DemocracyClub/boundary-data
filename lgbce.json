@@ -13,7 +13,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Barking and Dagenham electoral review 1999",
+        "latest_event": "(2) Warding arrangements",
         "name": "Barking and Dagenham",
         "register_code": "BDG",
         "shapefiles": null,
@@ -636,6 +636,17 @@
         "slug": "st-helens",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/merseyside/st-helens"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Latest Information",
+        "name": "Stockton-on-Tees",
+        "register_code": "STT",
+        "shapefiles": null,
+        "slug": "stockton-on-tees-0",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/north-east/stockton-on-tees/stockton-on-tees-0"
     },
     {
         "eco": null,
