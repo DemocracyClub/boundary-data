@@ -66,6 +66,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/bedfordshire/bedford"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(1) Councillor numbers",
+        "name": "Bolton",
+        "register_code": "BOL",
+        "shapefiles": null,
+        "slug": "bolton",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/bolton"
+    },
+    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1372/contents/made",
         "eco_made": 1,
         "latest_event": "(6) The Bournemouth, Christchurch and Poole (Electoral Changes) Order 2018",
@@ -644,9 +655,9 @@
         "name": "Stockton-on-Tees",
         "register_code": "STT",
         "shapefiles": null,
-        "slug": "stockton-on-tees-0",
+        "slug": "stockton-on-tees",
         "status": "Current Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/north-east/stockton-on-tees/stockton-on-tees-0"
+        "url": "http://www.lgbce.org.uk/all-reviews/north-east/stockton-on-tees/stockton-on-tees"
     },
     {
         "eco": null,
