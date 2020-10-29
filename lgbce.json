@@ -420,10 +420,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(3) Submissions from warding arrangements consultation",
         "name": "Lambeth",
         "register_code": "LBH",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Lambeth/Warding/Lambeth%20council%20size%20submission.zip",
+        "shapefiles": null,
         "slug": "lambeth",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/lambeth"
