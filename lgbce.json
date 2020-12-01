@@ -255,7 +255,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Further limited draft recommendations: public consultation",
         "name": "East Staffordshire",
         "register_code": "EST",
         "shapefiles": null,
@@ -442,7 +442,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Further limited draft recommendations: public consultation",
         "name": "Medway",
         "register_code": "MDW",
         "shapefiles": null,
@@ -596,7 +596,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Rochdale Community Meeting",
+        "latest_event": "(4) Draft recommendations",
         "name": "Rochdale",
         "register_code": "RCH",
         "shapefiles": null,
@@ -640,7 +640,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "St Albans",
         "register_code": "SAL",
         "shapefiles": null,
@@ -695,7 +695,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(8) Submissions from New draft recommendations consultation",
+        "latest_event": "(9) Final recommendations",
         "name": "Waltham Forest",
         "register_code": "WFT",
         "shapefiles": null,
