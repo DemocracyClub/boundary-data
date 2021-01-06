@@ -123,7 +123,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Bury electoral review 2003",
+        "latest_event": "(2) Warding arrangements",
         "name": "Bury",
         "register_code": "BUR",
         "shapefiles": null,
@@ -288,7 +288,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Gosport electoral review 2000",
+        "latest_event": "(2) Warding arrangements",
         "name": "Gosport",
         "register_code": "GOS",
         "shapefiles": null,
@@ -365,7 +365,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) New draft recommendations",
         "name": "Havering",
         "register_code": "HAV",
         "shapefiles": null,
@@ -541,7 +541,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Oldham electoral review 2003",
+        "latest_event": "(2) Warding arrangements",
         "name": "Oldham",
         "register_code": "OLD",
         "shapefiles": null,
