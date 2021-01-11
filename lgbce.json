@@ -486,7 +486,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final recommendations",
         "name": "New Forest",
         "register_code": "NEW",
         "shapefiles": null,
@@ -519,7 +519,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(5) Submissions from draft recommendations consultation",
+        "latest_event": "(6) Final Recommendations",
         "name": "North Kesteven",
         "register_code": "NKE",
         "shapefiles": null,
