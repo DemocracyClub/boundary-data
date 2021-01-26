@@ -288,6 +288,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(2) Warding Arrangements",
+        "name": "Fylde",
+        "register_code": "FYL",
+        "shapefiles": null,
+        "slug": "fylde",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/fylde"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(2) Warding arrangements",
         "name": "Gosport",
         "register_code": "GOS",
@@ -306,6 +317,17 @@
         "slug": "greenwich",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/greenwich"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Guildford",
+        "register_code": "GRT",
+        "shapefiles": null,
+        "slug": "guildford",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/guildford"
     },
     {
         "eco": "http://www.legislation.gov.uk/uksi/2020/60/contents/made",
@@ -702,6 +724,17 @@
         "slug": "sutton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/sutton"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Tameside",
+        "register_code": "TAM",
+        "shapefiles": null,
+        "slug": "tameside",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/tameside"
     },
     {
         "eco": null,
