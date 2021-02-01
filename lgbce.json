@@ -715,14 +715,14 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/suffolk/suffolk-county-council"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2020/1225/made",
+        "eco_made": 1,
+        "latest_event": "(8) The London Borough of Sutton (Electoral Changes) Order 2020",
         "name": "Sutton",
         "register_code": "STN",
         "shapefiles": null,
         "slug": "sutton",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/sutton"
     },
     {
