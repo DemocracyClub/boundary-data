@@ -1,5 +1,16 @@
 [
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Amber Valley electoral review 1998",
+        "name": "Amber Valley",
+        "register_code": "AMB",
+        "shapefiles": null,
+        "slug": "amber-valley",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/derbyshire/amber-valley"
+    },
+    {
         "eco": "http://www.legislation.gov.uk/uksi/2018/1315/contents/made",
         "eco_made": 1,
         "latest_event": "(9) The Babergh (Electoral Changes) Order 2018",
@@ -475,6 +486,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "Luton electoral review 2001",
+        "name": "Luton",
+        "register_code": "LUT",
+        "shapefiles": null,
+        "slug": "luton",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/bedfordshire/luton"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(7) Submissions from further limited draft consultation",
         "name": "Medway",
         "register_code": "MDW",
@@ -713,6 +735,17 @@
         "slug": "stoke-on-trent",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/staffordshire/stoke-on-trent"
+    },
+    {
+        "eco": null,
+        "eco_made": 1,
+        "latest_event": "Stratford-on-Avon (Electoral changes) Order 2014",
+        "name": "Stratford-on-Avon ",
+        "register_code": "STR",
+        "shapefiles": null,
+        "slug": "stratford-on-avon",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/stratford-on-avon"
     },
     {
         "eco": null,
