@@ -145,7 +145,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(6) Final Recommendations",
         "name": "Bury",
         "register_code": "BUR",
         "shapefiles": null,
@@ -211,7 +211,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding Arrangements",
+        "latest_event": "(4) Draft recommendations",
         "name": "Chesterfield",
         "register_code": "CHS",
         "shapefiles": null,
@@ -365,7 +365,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "6) Final recommendations",
         "name": "Gosport",
         "register_code": "GOS",
         "shapefiles": null,
@@ -376,7 +376,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding Arrangements",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Gravesham",
         "register_code": "GRA",
         "shapefiles": null,
@@ -849,7 +849,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "4) Draft Recommendations",
         "name": "South Staffordshire",
         "register_code": "SST",
         "shapefiles": null,
@@ -882,7 +882,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(1) Warding Arrangements Open",
+        "latest_event": "(3) Draft Recommendations",
         "name": "Stockport",
         "register_code": "SKP",
         "shapefiles": null,
@@ -948,7 +948,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(6) Final Recommendations",
         "name": "Tameside",
         "register_code": "TAM",
         "shapefiles": null,
@@ -1025,7 +1025,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "4) Draft Recommendations",
         "name": "West Lancashire",
         "register_code": "WLA",
         "shapefiles": null,
