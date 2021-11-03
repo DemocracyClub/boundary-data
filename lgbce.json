@@ -309,8 +309,8 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
-        "latest_event": "(8) Final recommendations",
+        "eco_made": 1,
+        "latest_event": "9) The East Staffordshire (Electoral Changes) Order 2021",
         "name": "East Staffordshire",
         "register_code": "EST",
         "shapefiles": null,
@@ -695,7 +695,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Final Recommendations",
+        "latest_event": "7) The Norfolk (Electoral Changes) Order 2021",
         "name": "Norfolk County Council",
         "register_code": "NFK",
         "shapefiles": null,
