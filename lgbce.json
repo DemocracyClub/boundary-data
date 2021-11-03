@@ -315,7 +315,7 @@
         "register_code": "EST",
         "shapefiles": null,
         "slug": "east-staffordshire",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/staffordshire/east-staffordshire"
     },
     {
@@ -694,13 +694,13 @@
     },
     {
         "eco": null,
-        "eco_made": 0,
+        "eco_made": 1,
         "latest_event": "7) The Norfolk (Electoral Changes) Order 2021",
         "name": "Norfolk County Council",
         "register_code": "NFK",
         "shapefiles": null,
         "slug": "norfolk-county-council",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/norfolk/norfolk-county-council"
     },
     {
