@@ -858,6 +858,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/staffordshire/south-staffordshire"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Initial consultation",
+        "name": "Southampton Unitary Authority (UA)",
+        "register_code": null,
+        "shapefiles": null,
+        "slug": "southampton-unitary-authority-ua",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/southampton-unitary-authority-ua"
+    },
+    {
         "eco": "https://www.legislation.gov.uk/uksi/2021/900/contents/made",
         "eco_made": 1,
         "latest_event": "8) The St Albans District Council (Electoral Changes) Order 2021",
@@ -882,6 +893,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "(2) Warding arrangements",
+        "name": "Stevenage electoral review: information zone",
+        "register_code": null,
+        "shapefiles": null,
+        "slug": "stevenage-electoral-review-information-zone",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/stevenage-electoral-review-information-zone"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "(3) Draft Recommendations",
         "name": "Stockport",
         "register_code": "SKP",
@@ -893,7 +915,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(6) Further limited draft recommendations: public consultation",
         "name": "Stockton-on-Tees",
         "register_code": "STT",
         "shapefiles": null,
