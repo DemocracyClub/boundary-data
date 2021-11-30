@@ -354,10 +354,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Reccomendations",
+        "latest_event": "(6) Final proposals for a new pattern of wards in Fylde",
         "name": "Fylde",
         "register_code": "FYL",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Fylde_final_proposals.zip",
         "slug": "fylde",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/fylde"
@@ -398,7 +398,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "4) Draft recommendations",
         "name": "Guildford",
         "register_code": "GRT",
         "shapefiles": null,
@@ -739,10 +739,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "6) Final recommendations",
         "name": "Oldham",
         "register_code": "OLD",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Oldham/Final/Informed%20solutions.zip",
         "slug": "oldham",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/oldham"
@@ -926,10 +926,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(6) Final recommendations",
         "name": "Stoke-on-Trent",
         "register_code": "STE",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Stoke-on-Trent/Final%20Recs/Stoke_on_Trent_final_proposals.zip",
         "slug": "stoke-on-trent",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/staffordshire/stoke-on-trent"
@@ -981,7 +981,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(1) Warding Arrangements",
+        "latest_event": "Proposals for a new pattern of wards in Telford and Wrekin",
         "name": "Telford and Wrekin",
         "register_code": "TFW",
         "shapefiles": null,
@@ -1003,7 +1003,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Trafford",
         "register_code": "TRF",
         "shapefiles": null,
@@ -1069,7 +1069,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "Proposals for a new pattern of wards in Wigan",
         "name": "Wigan",
         "register_code": "WGN",
         "shapefiles": null,
