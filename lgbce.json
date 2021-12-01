@@ -742,7 +742,7 @@
         "latest_event": "6) Final recommendations",
         "name": "Oldham",
         "register_code": "OLD",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Oldham/Final/Oldham_F_SO_V2_zipfiles.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Oldham/Final/Oldham_final_proposals.zip",
         "slug": "oldham",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/oldham"
