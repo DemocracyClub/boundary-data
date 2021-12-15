@@ -11,14 +11,14 @@
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/derbyshire/amber-valley"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "7) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2021/1425/contents/made",
+        "eco_made": 1,
+        "latest_event": "8) The London Borough of Barking and Dagenham (Electoral Changes) Order 2021",
         "name": "Barking and Dagenham",
         "register_code": "BDG",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/BarkingandDagenham_final_proposals.zip",
         "slug": "barking-and-dagenham",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/barking-and-dagenham"
     },
     {
@@ -385,14 +385,14 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/gravesham"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "7) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2021/1419/contents/made",
+        "eco_made": 1,
+        "latest_event": "8) The Royal Borough of Greenwich (Electoral Changes) Order 2021",
         "name": "Greenwich",
         "register_code": "GRE",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/GreenwichFinalRecs.zip",
         "slug": "greenwich",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/greenwich"
     },
     {
@@ -880,14 +880,14 @@
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/st-albans"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "7) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2021/1424/contents/made",
+        "eco_made": 1,
+        "latest_event": "8) The St Helens (Electoral Changes) Order 2021",
         "name": "St Helens",
         "register_code": null,
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Merseyside/St%20Helens/FR/StHelens_final_proposals.shp_.zip",
         "slug": "st-helens",
-        "status": "Current Reviews",
+        "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/merseyside/st-helens"
     },
     {
