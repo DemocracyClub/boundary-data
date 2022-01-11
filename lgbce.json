@@ -134,7 +134,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(1) Council size consultation",
+        "latest_event": "Initial Consultation",
         "name": "Buckinghamshire Council",
         "register_code": "BUC",
         "shapefiles": null,
@@ -266,10 +266,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(7) New Draft Recommendations",
+        "latest_event": "9) Final recommendations",
         "name": "Derbyshire Dales",
         "register_code": "DEB",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Derbyshire/Derbyshire%20Dales/Final/Wards.zip",
         "slug": "derbyshire-dales",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/derbyshire/derbyshire-dales"
@@ -596,7 +596,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "(4) Draft Recommendations",
         "name": "Malvern Hills",
         "register_code": "MAV",
         "shapefiles": null,
@@ -1012,6 +1012,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/trafford"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Initial Consultation",
+        "name": "Tunbridge Wells",
+        "register_code": "TUN",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Tunbridge%20Wells/Warding/Redacted.zip",
+        "slug": "tunbridge-wells",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/tunbridge-wells"
+    },
+    {
         "eco": "https://www.legislation.gov.uk/uksi/2021/615/contents/made",
         "eco_made": 1,
         "latest_event": "(11) The London Borough of Waltham Forest (Electoral Changes) Order 2021",
@@ -1102,7 +1113,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Responses to the initial consultation",
+        "latest_event": "(4) Proposals for a new pattern of wards in Wychavon",
         "name": "Wychavon",
         "register_code": "WYC",
         "shapefiles": null,
