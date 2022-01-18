@@ -2,10 +2,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "6) Final Recommendations",
         "name": "Amber Valley",
         "register_code": "AMB",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Derbyshire/Amber%20Valley/Final/Mapping%20Files.zip",
         "slug": "amber-valley",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/derbyshire/amber-valley"
@@ -79,10 +79,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Final proposals for a new pattern of wards in Bolton",
+        "latest_event": "(6) Final proposals for a new pattern of wards in Bolton",
         "name": "Bolton",
         "register_code": "BOL",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Bolton/Bolton_redactedsubmissions.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/BoltonFinalRecs.zip",
         "slug": "bolton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/bolton"
@@ -585,10 +585,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "6) Final Recommendations",
         "name": "Luton",
         "register_code": "LUT",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Eastern/Bedfordshire/Luton/Final/Upload%20Polygons.zip",
         "slug": "luton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/bedfordshire/luton"
@@ -1102,10 +1102,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(6) Final Recommendations",
         "name": "Wolverhampton",
         "register_code": "WLV",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Wolverhampton/Wolverhampton%20Warding%20Submissions.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Wolverhampton/Final%20Recs/WOLVERHAMPTON_final_proposals.zip",
         "slug": "wolverhampton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/west-midlands/wolverhampton"
