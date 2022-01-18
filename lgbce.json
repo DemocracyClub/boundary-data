@@ -539,9 +539,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/kingston-upon-thames"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(9) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2022/37/contents/made",
+        "eco_made": 1,
+        "latest_event": "10) The London Borough of Lambeth (Electoral Changes) Order 2022",
         "name": "Lambeth",
         "register_code": "LBH",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Greater%20London/Lambeth/Final%20Recs/Map%20Files.zip",
