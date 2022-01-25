@@ -343,6 +343,17 @@
     {
         "eco": null,
         "eco_made": 0,
+        "latest_event": "Initial consultation",
+        "name": "Fareham",
+        "register_code": "FAR",
+        "shapefiles": null,
+        "slug": "fareham",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/hampshire/fareham"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
         "latest_event": "Initial Consultation",
         "name": "Fenland",
         "register_code": "FEN",
@@ -592,6 +603,17 @@
         "slug": "luton",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/eastern/bedfordshire/luton"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Initial Consultation",
+        "name": "Maidstone",
+        "register_code": "MAI",
+        "shapefiles": null,
+        "slug": "maidstone",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/maidstone"
     },
     {
         "eco": null,
@@ -894,12 +916,12 @@
         "eco": null,
         "eco_made": 0,
         "latest_event": "(2) Warding arrangements",
-        "name": "Stevenage electoral review: information zone",
-        "register_code": null,
+        "name": "Stevenage",
+        "register_code": "STV",
         "shapefiles": null,
-        "slug": "stevenage-electoral-review-information-zone",
+        "slug": "stevenage",
         "status": "Current Reviews",
-        "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/stevenage-electoral-review-information-zone"
+        "url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/stevenage"
     },
     {
         "eco": null,
