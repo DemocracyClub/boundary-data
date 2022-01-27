@@ -731,7 +731,7 @@
         "latest_event": "(8) The North Kesteven Council (Electoral Changes) Order 2021",
         "name": "North Kesteven",
         "register_code": "NKE",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Licolnshire/North%20Kesteven/Final/NorthKesteven_FinalRecommendations.zip",
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/East%20Midlands/Licolnshire/North%20Kesteven/Final/NK%20POLYS.zip",
         "slug": "north-kesteven",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/lincolnshire/north-kesteven"
