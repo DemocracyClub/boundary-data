@@ -203,7 +203,7 @@
         "latest_event": "(6) Final Recommendations",
         "name": "Charnwood",
         "register_code": "CHA",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Charnwood_final_proposals.zip",
         "slug": "charnwood",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/leicestershire/charnwood"
