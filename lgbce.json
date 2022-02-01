@@ -57,7 +57,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(2) Warding arrangements",
+        "latest_event": "4) Draft recommendations",
         "name": "Blaby",
         "register_code": "BLA",
         "shapefiles": null,
@@ -68,7 +68,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "2) Warding Arrangements",
+        "latest_event": "Proposals for a new pattern of wards in Blackpool",
         "name": "Blackpool",
         "register_code": "BPL",
         "shapefiles": null,
@@ -112,10 +112,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(1) Warding Arrangements",
+        "latest_event": "(3) Draft Recommendations",
         "name": "Brighton and Hove",
         "register_code": "BNH",
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/East%20Sussex/Brighton%20%26%20Hove/BHCC%20Conservative%20Submission%20-%20Appendix.zip",
+        "shapefiles": null,
         "slug": "brighton-and-hove",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/east-sussex/brighton-and-hove"
@@ -200,7 +200,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(6) Final Recommendations",
         "name": "Charnwood",
         "register_code": "CHA",
         "shapefiles": null,
@@ -563,10 +563,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "6) Further limited draft recommendations: public consultation",
         "name": "Lancaster ",
         "register_code": null,
-        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Lancashire/Lancaster/Draft/Redacted.zip",
+        "shapefiles": null,
         "slug": "lancaster",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/lancaster"
@@ -629,10 +629,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(6) Final Recommendations",
         "name": "Mansfield",
         "register_code": "MAS",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Mansfield_final_proposals.zip",
         "slug": "mansfield",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/east-midlands/nottinghamshire/mansfield"
@@ -673,10 +673,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "6) Final Recommendations",
         "name": "Mid Sussex",
         "register_code": "MSS",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Mid%20Sussex/Final/MidSussex_final_proposals.zip",
         "slug": "mid-sussex",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/west-sussex/mid-sussex"
@@ -867,6 +867,17 @@
         "slug": "salford",
         "status": "Recent Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/salford"
+    },
+    {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Initial Consultation",
+        "name": "Slough",
+        "register_code": "SLG",
+        "shapefiles": null,
+        "slug": "slough",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/slough"
     },
     {
         "eco": null,
