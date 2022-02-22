@@ -803,6 +803,17 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/berkshire/reading"
     },
     {
+        "eco": null,
+        "eco_made": 0,
+        "latest_event": "Initial Consultation",
+        "name": "Redditch",
+        "register_code": "RED",
+        "shapefiles": null,
+        "slug": "redditch",
+        "status": "Current Reviews",
+        "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/worcestershire/redditch"
+    },
+    {
         "eco": "https://www.legislation.gov.uk/uksi/2019/125/made",
         "eco_made": 1,
         "latest_event": "(8)The Reigate & Banstead (Electoral Changes) Order 2019",
