@@ -143,9 +143,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/buckinghamshire/buckinghamshire-council"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "(7) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2022/131/contents/made",
+        "eco_made": 1,
+        "latest_event": "8) The Bury (Electoral Changes) Order 2022",
         "name": "Bury",
         "register_code": "BUR",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Bury/Final%20Recs/Bury%20final%20updated.zip",
@@ -374,9 +374,9 @@
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/fylde"
     },
     {
-        "eco": null,
-        "eco_made": 0,
-        "latest_event": "7) Parliamentary scrutiny: draft Order",
+        "eco": "https://www.legislation.gov.uk/uksi/2022/129/contents/made",
+        "eco_made": 1,
+        "latest_event": "8) The Gosport (Electoral Changes) Order 2022",
         "name": "Gosport",
         "register_code": "GOS",
         "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Hampshire/Gosport/Final/Gosport_final_proposals.zip",
