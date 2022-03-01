@@ -299,7 +299,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "2) Warding Arrangements",
+        "latest_event": "4) Draft recommendations",
         "name": "East Hertfordshire",
         "register_code": "EHE",
         "shapefiles": null,
@@ -332,10 +332,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(6) Final proposals for a new pattern of wards in Epsom and Ewell",
         "name": "Epsom and Ewell",
         "register_code": "EPS",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/EpsomandEwell_final_proposals.zip",
         "slug": "epsom-and-ewell",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/epsom-and-ewell"
@@ -739,10 +739,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Proposals for a new pattern of wards in North Lincolnshire",
+        "latest_event": "Final proposals for a new pattern of wards in North Lincolnshire",
         "name": "North Lincolnshire",
         "register_code": "NLN",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/Yorkshire%20and%20the%20Humber/North%20Lincs/Final/North_Lincolnshire_final_proposals.zip",
         "slug": "north-lincolnshire",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/north-lincolnshire/north-lincolnshire"
@@ -860,7 +860,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(6) Limited Further Draft Recommendations Consultation in the East of Rushcliffe Borough",
         "name": "Rushcliffe",
         "register_code": "RUS",
         "shapefiles": null,
@@ -981,10 +981,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "(6) Final proposals for a new pattern of wards in Stratford-on-Avon",
         "name": "Stratford-on-Avon ",
         "register_code": "STR",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/StratfordOnAvon_final_recommendations.zip",
         "slug": "stratford-on-avon",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/stratford-on-avon"
@@ -1036,10 +1036,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Proposals for a new pattern of wards in Tonbridge and Malling",
+        "latest_event": "Final proposals for a new pattern of wards in Tonbridge & Malling",
         "name": "Tonbridge & Malling ",
         "register_code": null,
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Kent/Tonbridge%20and%20Malling/Final/TonbridgeandMalling_final_proposals.zip",
         "slug": "tonbridge-and-malling",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/tonbridge-and-malling"
