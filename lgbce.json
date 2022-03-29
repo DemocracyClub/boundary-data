@@ -211,7 +211,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft recommendations",
+        "latest_event": "Further Limited Draft Recommendations for part of Chesterfield Borough Council",
         "name": "Chesterfield",
         "register_code": "CHS",
         "shapefiles": null,
@@ -354,7 +354,7 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "Initial Consultation",
+        "latest_event": "Proposals for a new pattern of wards in Fenland",
         "name": "Fenland",
         "register_code": "FEN",
         "shapefiles": null,
@@ -893,10 +893,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "4) Draft Recommendations",
+        "latest_event": "6) Final recommendations",
         "name": "South Staffordshire",
         "register_code": "SST",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Staffordshire/South%20Staffs/Final/SouthStaffordshire_final_proposals.zip",
         "slug": "south-staffordshire",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/west-midlands/staffordshire/south-staffordshire"
@@ -959,10 +959,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(6) Further limited draft recommendations: public consultation",
+        "latest_event": "(8) Final Recommendations",
         "name": "Stockton-on-Tees",
         "register_code": "STT",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20East/Stockton-On-Tees/Final%20Recs/Mapping%20files.zip",
         "slug": "stockton-on-tees",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-east/stockton-on-tees/stockton-on-tees"
@@ -1091,10 +1091,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(6) Final recommendations",
         "name": "Waverley",
         "register_code": "WAE",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/South%20East/Surrey/Waverley/Final%20REcs/Waverley_final_recommendations%20(1).zip",
         "slug": "waverley",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/surrey/waverley"
@@ -1102,10 +1102,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "4) Draft Recommendations",
+        "latest_event": "6) Final recommendations",
         "name": "West Lancashire",
         "register_code": "WLA",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/West%20Midlands/Lancashire/West%20Lancs/Final/West_Lancashire_final_proposals.zip",
         "slug": "west-lancashire",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/west-lancashire"
