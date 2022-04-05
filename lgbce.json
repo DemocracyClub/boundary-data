@@ -387,10 +387,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(4) Draft Recommendations",
+        "latest_event": "(6) Final Proposals for a new pattern of wards in Gravesham",
         "name": "Gravesham",
         "register_code": "GRA",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Gravesham%20Final%20Recommendations.zip",
         "slug": "gravesham",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/south-east/kent/gravesham"
@@ -948,10 +948,10 @@
     {
         "eco": null,
         "eco_made": 0,
-        "latest_event": "(3) Draft Recommendations",
+        "latest_event": "(5) Final Recommendations",
         "name": "Stockport",
         "register_code": "SKP",
-        "shapefiles": null,
+        "shapefiles": "https://s3-eu-west-2.amazonaws.com/lgbce/Reviews/North%20West/Greater%20Manchester/Stockport/Final%20Recs/FR.zip",
         "slug": "stockport",
         "status": "Current Reviews",
         "url": "http://www.lgbce.org.uk/all-reviews/north-west/greater-manchester/stockport"
