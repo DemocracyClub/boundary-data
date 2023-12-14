@@ -14,7 +14,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/265/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -32,7 +33,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/266/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -50,7 +52,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1067/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -68,7 +71,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/810/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -86,7 +90,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/267/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -104,7 +109,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -122,7 +128,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -140,7 +147,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -158,7 +166,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2013/2794/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -176,7 +185,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": null,
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -194,7 +204,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/112/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -212,7 +223,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1066/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -230,7 +242,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3334/pdfs/uksi_20143334_en.pdf",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -248,7 +261,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1315/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -266,25 +280,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1425/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 291,
-    "fields": {
-        "created": "2023-12-11T14:34:42.467Z",
-        "modified": "2023-12-11T14:34:42.467Z",
-        "organisation": 249,
-        "divisionset": null,
-        "legislation_title": "The London Borough of Barnet (Electoral Changes) Order 2021",
-        "slug": "barnet",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/barnet",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1106/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -302,7 +299,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1106/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 291,
+    "fields": {
+        "created": "2023-12-11T14:34:42.467Z",
+        "modified": "2023-12-11T14:34:42.467Z",
+        "organisation": 249,
+        "divisionset": null,
+        "legislation_title": "The London Borough of Barnet (Electoral Changes) Order 2021",
+        "slug": "barnet",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/barnet",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1106/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -320,7 +337,8 @@
         "status": "Completed",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -338,7 +356,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2008/427/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -356,7 +375,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2023/731",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -374,7 +394,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/1122/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -392,7 +413,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2000/3285/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -410,7 +432,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1270/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -428,7 +451,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/268/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -446,25 +470,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 296,
-    "fields": {
-        "created": "2023-12-11T14:34:42.608Z",
-        "modified": "2023-12-11T14:34:42.608Z",
-        "organisation": 250,
-        "divisionset": null,
-        "legislation_title": "The London Borough of Bexley (Electoral Changes) Order 2017",
-        "slug": "bexley",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/bexley",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/481/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -482,7 +489,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/481/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 296,
+    "fields": {
+        "created": "2023-12-11T14:34:42.608Z",
+        "modified": "2023-12-11T14:34:42.608Z",
+        "organisation": 250,
+        "divisionset": null,
+        "legislation_title": "The London Borough of Bexley (Electoral Changes) Order 2017",
+        "slug": "bexley",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/bexley",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/481/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -500,7 +527,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1140/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -518,7 +546,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1366/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -536,7 +565,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1270/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -554,7 +584,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1270/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -572,7 +603,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1373/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -590,7 +622,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1161/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -608,7 +641,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1265/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -626,7 +660,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/964/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -644,7 +679,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2013/66/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -662,7 +698,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/1783/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -680,7 +717,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1372/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -698,7 +736,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/887/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -716,25 +755,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 301,
-    "fields": {
-        "created": "2023-12-11T14:34:42.753Z",
-        "modified": "2023-12-11T14:34:42.753Z",
-        "organisation": 269,
-        "divisionset": null,
-        "legislation_title": "The Braintree (Electoral Changes) Order 2014",
-        "slug": "braintree",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/braintree",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3335/contents/made",
-        "legislation_made": true
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -752,7 +774,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2019/355/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 301,
+    "fields": {
+        "created": "2023-12-11T14:34:42.753Z",
+        "modified": "2023-12-11T14:34:42.753Z",
+        "organisation": 269,
+        "divisionset": null,
+        "legislation_title": "The Braintree (Electoral Changes) Order 2014",
+        "slug": "braintree",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/braintree",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3335/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -770,7 +812,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3290/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -788,7 +831,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/66/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -806,7 +850,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2023/732",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -824,25 +869,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1084/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 45,
-    "fields": {
-        "created": "2023-12-11T14:32:35.959Z",
-        "modified": "2023-12-11T14:32:35.959Z",
-        "organisation": 399,
-        "divisionset": 742,
-        "legislation_title": "The Brighton & Hove (Electoral Changes) Order 2023",
-        "slug": "brighton-and-hove",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-east/east-sussex/brighton-and-hove",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2023/22/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -860,7 +888,27 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/22/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 45,
+    "fields": {
+        "created": "2023-12-11T14:32:35.959Z",
+        "modified": "2023-12-11T14:32:35.959Z",
+        "organisation": 399,
+        "divisionset": 742,
+        "legislation_title": "The Brighton & Hove (Electoral Changes) Order 2023",
+        "slug": "brighton-and-hove",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-east/east-sussex/brighton-and-hove",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2023/22/contents/made",
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -878,7 +926,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1871/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -896,7 +945,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2003/157/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -914,7 +964,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/424/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -932,7 +983,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/18/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -950,7 +1002,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/159/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -968,7 +1021,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/72/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -986,7 +1040,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/1205/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1004,7 +1059,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2019/957",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2020-04-01"
     }
 },
 {
@@ -1022,7 +1078,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/2473/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1040,7 +1097,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/131/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1058,7 +1116,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1217/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1076,7 +1135,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -1094,7 +1154,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/1123/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -1112,7 +1173,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2016/1222/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -1130,7 +1192,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1222/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1148,7 +1211,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1274/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -1166,7 +1230,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1107/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1184,7 +1249,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/1023/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1202,7 +1268,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2019/356/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1220,25 +1287,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 234,
-    "fields": {
-        "created": "2023-12-11T14:32:36.273Z",
-        "modified": "2023-12-11T14:32:36.273Z",
-        "organisation": 420,
-        "divisionset": 508,
-        "legislation_title": "The City and County of Cardiff (Communities) Order 2016",
-        "slug": "cardiff",
-        "consultation_url": "http://ldbc.gov.wales/reviews/communityreviews/currreviews/58272053/?lang=en",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1155/made",
-        "legislation_made": true
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -1256,7 +1306,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1160/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 234,
+    "fields": {
+        "created": "2023-12-11T14:32:36.273Z",
+        "modified": "2023-12-11T14:32:36.273Z",
+        "organisation": 420,
+        "divisionset": 508,
+        "legislation_title": "The City and County of Cardiff (Communities) Order 2016",
+        "slug": "cardiff",
+        "consultation_url": "http://ldbc.gov.wales/reviews/communityreviews/currreviews/58272053/?lang=en",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1155/made",
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -1274,7 +1344,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/280/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1292,7 +1363,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1082/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1310,7 +1382,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/799/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1328,25 +1401,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 3,
-    "fields": {
-        "created": "2023-12-11T14:32:35.894Z",
-        "modified": "2023-12-11T14:32:35.894Z",
-        "organisation": 391,
-        "divisionset": 712,
-        "legislation_title": "The Central Bedfordshire (Electoral Changes) Order 2021",
-        "slug": "central-bedfordshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/central-bedfordshire",
-        "boundaries_url": "",
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1051/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -1364,7 +1420,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2019/65/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 3,
+    "fields": {
+        "created": "2023-12-11T14:32:35.894Z",
+        "modified": "2023-12-11T14:32:35.894Z",
+        "organisation": 391,
+        "divisionset": 712,
+        "legislation_title": "The Central Bedfordshire (Electoral Changes) Order 2021",
+        "slug": "central-bedfordshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/central-bedfordshire",
+        "boundaries_url": "",
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1051/contents/made",
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -1382,7 +1458,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1140/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1400,7 +1477,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/809/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -1418,7 +1496,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/2439/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1436,25 +1515,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/820/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 319,
-    "fields": {
-        "created": "2023-12-11T14:34:43.073Z",
-        "modified": "2023-12-11T14:34:43.073Z",
-        "organisation": 115,
-        "divisionset": null,
-        "legislation_title": "The Cherwell (Electoral Changes) Order 2015",
-        "slug": "cherwell",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/cherwell",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1872/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1472,7 +1534,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2019/354/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1490,7 +1553,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/120/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 319,
+    "fields": {
+        "created": "2023-12-11T14:34:43.073Z",
+        "modified": "2023-12-11T14:34:43.073Z",
+        "organisation": 115,
+        "divisionset": null,
+        "legislation_title": "The Cherwell (Electoral Changes) Order 2015",
+        "slug": "cherwell",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/cherwell",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1872/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1508,7 +1591,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2011/3/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1526,7 +1610,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/741/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1544,7 +1629,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1369/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -1562,7 +1648,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/475/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1580,7 +1667,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/1784/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1598,7 +1686,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/1124/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -1616,7 +1705,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/2241/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1634,7 +1724,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/268/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -1652,7 +1743,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1859/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1670,7 +1762,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1181/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1688,7 +1781,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2018/9780111173626/contents",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1706,7 +1800,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3287/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1724,7 +1819,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/1088/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -1742,7 +1838,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/113/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1760,7 +1857,8 @@
         "status": "Currently in review",
         "latest_event": "Final report",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -1778,7 +1876,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -1796,7 +1895,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/198/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1814,7 +1914,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1125/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -1832,7 +1933,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1125/contents/made/2019/198/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1850,7 +1952,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/331/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1868,7 +1971,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2007/139/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1886,7 +1990,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/3338/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1904,7 +2009,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/1175/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -1922,7 +2028,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/160/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -1940,7 +2047,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1159/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -1958,7 +2066,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/201/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -1976,7 +2085,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -1994,7 +2104,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/776/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -2012,7 +2123,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -2030,7 +2142,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2016/657/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2048,25 +2161,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2015/114/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 250,
-    "fields": {
-        "created": "2023-12-11T14:32:36.306Z",
-        "modified": "2023-12-11T14:32:36.306Z",
-        "organisation": 278,
-        "divisionset": 479,
-        "legislation_title": "The Dorset (Electoral Changes) Order 2016",
-        "slug": "dorset",
-        "consultation_url": "https://consultation.lgbce.org.uk/node/3824",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2016/64/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2084,7 +2180,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/1373/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 250,
+    "fields": {
+        "created": "2023-12-11T14:32:36.306Z",
+        "modified": "2023-12-11T14:32:36.306Z",
+        "organisation": 278,
+        "divisionset": 479,
+        "legislation_title": "The Dorset (Electoral Changes) Order 2016",
+        "slug": "dorset",
+        "consultation_url": "https://consultation.lgbce.org.uk/node/3824",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2016/64/introduction/made",
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2102,7 +2218,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/124/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -2120,7 +2237,8 @@
         "status": "Currently in review",
         "latest_event": "Final report",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -2138,7 +2256,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/269/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2156,7 +2275,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2020/65/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -2174,7 +2294,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/271/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2192,7 +2313,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2016/1227",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -2210,7 +2332,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2016/1230",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -2228,7 +2351,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1315/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -2246,7 +2370,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/272/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2264,43 +2389,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/854/introduction/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 8,
-    "fields": {
-        "created": "2023-12-11T14:32:35.901Z",
-        "modified": "2023-12-11T14:32:35.901Z",
-        "organisation": 198,
-        "divisionset": 746,
-        "legislation_title": "The East Hertfordshire (Electoral Changes) Order 2023",
-        "slug": "east-hertfordshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/east-hertfordshire",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2023/52/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 208,
-    "fields": {
-        "created": "2023-12-11T14:32:36.236Z",
-        "modified": "2023-12-11T14:32:36.236Z",
-        "organisation": 198,
-        "divisionset": 605,
-        "legislation_title": "The East Hertfordshire (Electoral Changes) Order 2019",
-        "slug": "east-hertfordshire",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/389/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -2318,7 +2408,46 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 208,
+    "fields": {
+        "created": "2023-12-11T14:32:36.236Z",
+        "modified": "2023-12-11T14:32:36.236Z",
+        "organisation": 198,
+        "divisionset": 605,
+        "legislation_title": "The East Hertfordshire (Electoral Changes) Order 2019",
+        "slug": "east-hertfordshire",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/389/made",
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 8,
+    "fields": {
+        "created": "2023-12-11T14:32:35.901Z",
+        "modified": "2023-12-11T14:32:35.901Z",
+        "organisation": 198,
+        "divisionset": 746,
+        "legislation_title": "The East Hertfordshire (Electoral Changes) Order 2023",
+        "slug": "east-hertfordshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/eastern/hertfordshire/east-hertfordshire",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2023/52/contents/made",
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -2336,7 +2465,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2016/1231",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -2354,7 +2484,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/273/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2372,7 +2503,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/274/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2390,7 +2522,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/3358/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2408,7 +2541,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1220/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -2426,7 +2560,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/1374/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -2444,7 +2579,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2016/1225",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2462,7 +2598,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/270/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2480,7 +2617,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/ukdsi/2016/9780111142677/contents",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2498,7 +2636,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1109/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -2516,7 +2655,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/819/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2534,7 +2674,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1138/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -2552,7 +2693,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2015/77/pdfs/uksi_20150077_en.pdf",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2570,7 +2712,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -2588,7 +2731,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2016/65/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2606,7 +2750,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/275/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2624,7 +2769,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2023/796",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2642,7 +2788,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/48/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -2660,25 +2807,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 248,
-    "fields": {
-        "created": "2023-12-11T14:32:36.303Z",
-        "modified": "2023-12-11T14:32:36.303Z",
-        "organisation": 444,
-        "divisionset": 491,
-        "legislation_title": "The Fife (Electoral Arrangements) Order 2016",
-        "slug": "fife",
-        "consultation_url": "http://www.lgbc-scotland.gov.uk/reviews/5th_electoral/fife/",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/ssi/2016/276/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -2696,7 +2826,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/ssi/2017/430/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-04-01"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 248,
+    "fields": {
+        "created": "2023-12-11T14:32:36.303Z",
+        "modified": "2023-12-11T14:32:36.303Z",
+        "organisation": 444,
+        "divisionset": 491,
+        "legislation_title": "The Fife (Electoral Arrangements) Order 2016",
+        "slug": "fife",
+        "consultation_url": "http://www.lgbc-scotland.gov.uk/reviews/5th_electoral/fife/",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/ssi/2016/276/contents/made",
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2714,7 +2864,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1228/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -2732,7 +2883,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1151/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2750,7 +2902,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1908/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2768,7 +2921,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/547/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2786,7 +2940,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/547/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -2804,7 +2959,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/664/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -2822,7 +2978,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -2840,7 +2997,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/19/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2858,7 +3016,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/277/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -2876,7 +3035,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2018/308/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-04-01"
     }
 },
 {
@@ -2894,7 +3054,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2015/2026/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -2912,7 +3073,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2020/198/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -2930,7 +3092,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -2948,7 +3111,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/129/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -2966,7 +3130,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1176/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -2984,7 +3149,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -3002,7 +3168,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/3228/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3020,7 +3187,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1419/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3038,7 +3206,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1419/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3056,7 +3225,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1178/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -3074,7 +3244,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1223/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3092,7 +3263,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2013/2795/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3110,25 +3282,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2020/60/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 353,
-    "fields": {
-        "created": "2023-12-11T14:34:43.936Z",
-        "modified": "2023-12-11T14:34:43.936Z",
-        "organisation": 239,
-        "divisionset": null,
-        "legislation_title": "The London Borough of Hammersmith and Fulham (Electoral Changes) Order 2020",
-        "slug": "hammersmith-and-fulham",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/hammersmith-and-fulham",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/ukdsi/2020/9780348211931",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -3146,25 +3301,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1229/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 241,
+    "pk": 353,
     "fields": {
-        "created": "2023-12-11T14:32:36.286Z",
-        "modified": "2023-12-11T14:32:36.286Z",
-        "organisation": 213,
-        "divisionset": 9,
-        "legislation_title": "The Hampshire (Electoral Changes) Order 2016",
-        "slug": "hampshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/hampshire",
-        "boundaries_url": "",
+        "created": "2023-12-11T14:34:43.936Z",
+        "modified": "2023-12-11T14:34:43.936Z",
+        "organisation": 239,
+        "divisionset": null,
+        "legislation_title": "The London Borough of Hammersmith and Fulham (Electoral Changes) Order 2020",
+        "slug": "hammersmith-and-fulham",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/hammersmith-and-fulham",
+        "boundaries_url": null,
         "status": "Completed",
         "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1223/contents/made",
-        "legislation_made": true
+        "legislation_url": "https://www.legislation.gov.uk/ukdsi/2020/9780348211931",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3182,7 +3339,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/200/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 241,
+    "fields": {
+        "created": "2023-12-11T14:32:36.286Z",
+        "modified": "2023-12-11T14:32:36.286Z",
+        "organisation": 213,
+        "divisionset": 9,
+        "legislation_title": "The Hampshire (Electoral Changes) Order 2016",
+        "slug": "hampshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/hampshire",
+        "boundaries_url": "",
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1223/contents/made",
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -3200,25 +3377,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1124/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 96,
-    "fields": {
-        "created": "2023-12-11T14:32:36.059Z",
-        "modified": "2023-12-11T14:32:36.059Z",
-        "organisation": 236,
-        "divisionset": 663,
-        "legislation_title": "The London Borough of Haringey (Electoral Changes) Order 2020",
-        "slug": "haringey",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/haringey",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1110/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -3236,7 +3396,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1110/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 96,
+    "fields": {
+        "created": "2023-12-11T14:32:36.059Z",
+        "modified": "2023-12-11T14:32:36.059Z",
+        "organisation": 236,
+        "divisionset": 663,
+        "legislation_title": "The London Borough of Haringey (Electoral Changes) Order 2020",
+        "slug": "haringey",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/greater-london/greater-london/haringey",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1110/made",
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3254,7 +3434,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2023/797",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3272,7 +3453,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/477/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -3290,7 +3472,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/72/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3308,7 +3491,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/1395/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3326,7 +3510,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/1089/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -3344,7 +3529,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1228/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-04"
     }
 },
 {
@@ -3362,7 +3548,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/200/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3380,7 +3567,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1053/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3398,7 +3586,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/20/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3416,7 +3605,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/389/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -3434,7 +3624,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1873/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -3452,7 +3643,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/535/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -3470,7 +3662,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/278/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -3488,7 +3681,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/78/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3506,7 +3700,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/71/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3524,7 +3719,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/2888/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3542,7 +3738,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2017/9780111159057/contents",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3560,7 +3757,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1065/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -3578,7 +3776,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1108/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3596,7 +3795,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/480/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -3614,7 +3814,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/480/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3632,7 +3833,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/2469/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3650,7 +3852,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/279/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -3668,7 +3871,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/3890/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3686,7 +3890,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1112/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3704,7 +3909,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2020/64/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -3722,7 +3928,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/326/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -3740,7 +3947,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/326/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3758,7 +3966,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/64/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3776,7 +3985,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2020/9780348208610",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3794,25 +4004,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/25/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 117,
-    "fields": {
-        "created": "2023-12-11T14:32:36.092Z",
-        "modified": "2023-12-11T14:32:36.092Z",
-        "organisation": 190,
-        "divisionset": 640,
-        "legislation_title": "The Tonbridge & Malling (Electoral Changes) Order 2019",
-        "slug": "kent",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2019/423/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3830,7 +4023,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/658/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 117,
+    "fields": {
+        "created": "2023-12-11T14:32:36.092Z",
+        "modified": "2023-12-11T14:32:36.092Z",
+        "organisation": 190,
+        "divisionset": 640,
+        "legislation_title": "The Tonbridge & Malling (Electoral Changes) Order 2019",
+        "slug": "kent",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2019/423/made",
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -3848,7 +4061,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2006/3109/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3866,7 +4080,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/857/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -3884,7 +4099,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1266/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -3902,7 +4118,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/417/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3920,7 +4137,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -3938,7 +4156,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/2036/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -3956,7 +4175,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/37/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -3974,25 +4194,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1069/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 371,
-    "fields": {
-        "created": "2023-12-11T14:34:44.420Z",
-        "modified": "2023-12-11T14:34:44.420Z",
-        "organisation": 172,
-        "divisionset": null,
-        "legislation_title": "The Lancaster (Electoral Changes) Order 2023",
-        "slug": "lancaster",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/lancaster",
-        "boundaries_url": "/sites/default/files/2023-03/lancaster_final_proposals.zip",
-        "status": "Completed",
-        "latest_event": "Making our recommendation into law",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1357/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -4010,7 +4213,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1357/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 371,
+    "fields": {
+        "created": "2023-12-11T14:34:44.420Z",
+        "modified": "2023-12-11T14:34:44.420Z",
+        "organisation": 172,
+        "divisionset": null,
+        "legislation_title": "The Lancaster (Electoral Changes) Order 2023",
+        "slug": "lancaster",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/lancaster",
+        "boundaries_url": "/sites/default/files/2023-03/lancaster_final_proposals.zip",
+        "status": "Completed",
+        "latest_event": "Making our recommendation into law",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1357/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4028,7 +4251,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1077/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -4046,7 +4270,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3339/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4064,7 +4289,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1070/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -4082,7 +4308,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1229/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -4100,7 +4327,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1231/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4118,7 +4346,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/111/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4136,7 +4365,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1461/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4154,7 +4384,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1226/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -4172,7 +4403,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -4190,7 +4422,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1365/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4208,7 +4441,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/824/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4226,7 +4460,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2023/652",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4244,7 +4479,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://meetings.maidstone.gov.uk/documents/g2956/Printed%20minutes%2006th-Dec-2017%2018.30%20Council.pdf?T=1",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -4262,7 +4498,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/2436/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4280,25 +4517,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/23/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 377,
-    "fields": {
-        "created": "2023-12-11T14:34:44.606Z",
-        "modified": "2023-12-11T14:34:44.606Z",
-        "organisation": 368,
-        "divisionset": null,
-        "legislation_title": " The Manchester (Electoral Changes) Order 2017",
-        "slug": "manchester",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/manchester",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/ukdsi/2017/9780111159156",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4316,7 +4536,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1068/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 377,
+    "fields": {
+        "created": "2023-12-11T14:34:44.606Z",
+        "modified": "2023-12-11T14:34:44.606Z",
+        "organisation": 368,
+        "divisionset": null,
+        "legislation_title": " The Manchester (Electoral Changes) Order 2017",
+        "slug": "manchester",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/manchester",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/ukdsi/2017/9780111159156",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4334,7 +4574,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/777/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4352,7 +4593,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1054/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4370,7 +4612,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/2599/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4388,7 +4631,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1111/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4406,7 +4650,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1382/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4424,7 +4669,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -4442,7 +4688,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2021/9780348224016/contents",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4460,7 +4707,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1188/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4478,7 +4726,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/280/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -4496,7 +4745,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1317/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -4514,7 +4764,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/812/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4532,7 +4783,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -4550,7 +4802,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/22/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4568,7 +4821,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/49/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -4586,7 +4840,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1232/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4604,7 +4859,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/281/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -4622,25 +4878,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/ssi/2021/369/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 247,
-    "fields": {
-        "created": "2023-12-11T14:32:36.298Z",
-        "modified": "2023-12-11T14:32:36.298Z",
-        "organisation": 413,
-        "divisionset": 511,
-        "legislation_title": "The Neath Port Talbot (Communities) Order 2016",
-        "slug": "neath-port-talbot",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1158/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4658,7 +4897,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1114/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 247,
+    "fields": {
+        "created": "2023-12-11T14:32:36.298Z",
+        "modified": "2023-12-11T14:32:36.298Z",
+        "organisation": 413,
+        "divisionset": 511,
+        "legislation_title": "The Neath Port Talbot (Communities) Order 2016",
+        "slug": "neath-port-talbot",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1158/made",
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -4676,7 +4935,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2016/855/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -4694,25 +4954,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1907/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 383,
-    "fields": {
-        "created": "2023-12-11T14:34:44.778Z",
-        "modified": "2023-12-11T14:34:44.778Z",
-        "organisation": 80,
-        "divisionset": null,
-        "legislation_title": "The Newcastle-under-Lyme (Electoral Changes) Order 2017",
-        "slug": "newcastle-under-lyme",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/newcastle-under-lyme",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1080/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4730,7 +4973,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1079/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 383,
+    "fields": {
+        "created": "2023-12-11T14:34:44.778Z",
+        "modified": "2023-12-11T14:34:44.778Z",
+        "organisation": 80,
+        "divisionset": null,
+        "legislation_title": "The Newcastle-under-Lyme (Electoral Changes) Order 2017",
+        "slug": "newcastle-under-lyme",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/newcastle-under-lyme",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1080/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4748,25 +5011,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1080/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 381,
-    "fields": {
-        "created": "2023-12-11T14:34:44.743Z",
-        "modified": "2023-12-11T14:34:44.743Z",
-        "organisation": 205,
-        "divisionset": null,
-        "legislation_title": "The New Forest (Electoral Changes) Order 2022",
-        "slug": "new-forest",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/new-forest",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2021/888/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -4784,7 +5030,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/888/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 381,
+    "fields": {
+        "created": "2023-12-11T14:34:44.743Z",
+        "modified": "2023-12-11T14:34:44.743Z",
+        "organisation": 205,
+        "divisionset": null,
+        "legislation_title": "The New Forest (Electoral Changes) Order 2022",
+        "slug": "new-forest",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/new-forest",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2021/888/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4802,7 +5068,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/613/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4820,7 +5087,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1216/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4838,25 +5106,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2014/270/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 119,
-    "fields": {
-        "created": "2023-12-11T14:32:36.094Z",
-        "modified": "2023-12-11T14:32:36.094Z",
-        "organisation": 148,
-        "divisionset": 636,
-        "legislation_title": "The South Norfolk (Electoral Changes) Order 2019",
-        "slug": "norfolk",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2019/55/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2014-05-22"
     }
 },
 {
@@ -4874,7 +5125,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1219/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2025-05-01"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 119,
+    "fields": {
+        "created": "2023-12-11T14:32:36.094Z",
+        "modified": "2023-12-11T14:32:36.094Z",
+        "organisation": 148,
+        "divisionset": 636,
+        "legislation_title": "The South Norfolk (Electoral Changes) Order 2019",
+        "slug": "norfolk",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2019/55/made",
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -4892,7 +5163,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/ssi/2021/370/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -4910,7 +5182,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/282/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -4928,7 +5201,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/856/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -4946,7 +5220,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2017/9780111160909",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -4964,7 +5239,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2017/9780111160909",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -4982,7 +5258,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/1024/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5000,7 +5277,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2021/9780348224764/contents",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -5018,7 +5296,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2018/308/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-04-01"
     }
 },
 {
@@ -5036,7 +5315,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/283/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -5054,7 +5334,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1139/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -5072,25 +5353,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1085/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 386,
-    "fields": {
-        "created": "2023-12-11T14:34:44.906Z",
-        "modified": "2023-12-11T14:34:44.906Z",
-        "organisation": 514,
-        "divisionset": null,
-        "legislation_title": null,
-        "slug": "north-northamptonshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-northamptonshire",
-        "boundaries_url": "/sites/default/files/2023-11/north_northants_fr_1.zip",
-        "status": "Currently in review",
-        "latest_event": "Final report",
-        "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5108,7 +5372,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2020/156/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2020-05-07"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 386,
+    "fields": {
+        "created": "2023-12-11T14:34:44.906Z",
+        "modified": "2023-12-11T14:34:44.906Z",
+        "organisation": 514,
+        "divisionset": null,
+        "legislation_title": null,
+        "slug": "north-northamptonshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-northamptonshire",
+        "boundaries_url": "/sites/default/files/2023-11/north_northants_fr_1.zip",
+        "status": "Currently in review",
+        "latest_event": "Final report",
+        "legislation_url": null,
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -5126,7 +5410,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3291/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5144,25 +5429,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 122,
-    "fields": {
-        "created": "2023-12-11T14:32:36.101Z",
-        "modified": "2023-12-11T14:32:36.101Z",
-        "organisation": 364,
-        "divisionset": 645,
-        "legislation_title": "The Northumberland (Electoral Changes) Order 2020",
-        "slug": "northumberland",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/73/contents/made",
-        "legislation_made": true
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -5180,7 +5448,27 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 122,
+    "fields": {
+        "created": "2023-12-11T14:32:36.101Z",
+        "modified": "2023-12-11T14:32:36.101Z",
+        "organisation": 364,
+        "divisionset": 645,
+        "legislation_title": "The Northumberland (Electoral Changes) Order 2020",
+        "slug": "northumberland",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/73/contents/made",
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -5198,7 +5486,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172719/http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/north-warwickshire",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5216,7 +5505,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3060/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5234,25 +5524,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/328/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 390,
-    "fields": {
-        "created": "2023-12-11T14:34:44.981Z",
-        "modified": "2023-12-11T14:34:44.981Z",
-        "organisation": 124,
-        "divisionset": null,
-        "legislation_title": null,
-        "slug": "north-yorkshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-yorkshire",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5270,7 +5543,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/328/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-04-01"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 390,
+    "fields": {
+        "created": "2023-12-11T14:34:44.981Z",
+        "modified": "2023-12-11T14:34:44.981Z",
+        "organisation": 124,
+        "divisionset": null,
+        "legislation_title": null,
+        "slug": "north-yorkshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-yorkshire",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": null,
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -5288,7 +5581,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/199/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5306,7 +5600,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/856/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5324,7 +5619,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/659/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -5342,7 +5638,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -5360,7 +5657,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2021/9780348224764/contents",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5378,7 +5676,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/778/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -5396,7 +5695,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/ssi/2021/371/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5414,7 +5714,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/1162/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -5432,7 +5733,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -5450,7 +5752,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/354/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -5468,7 +5771,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1182/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5486,25 +5790,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/215/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 231,
-    "fields": {
-        "created": "2023-12-11T14:32:36.268Z",
-        "modified": "2023-12-11T14:32:36.269Z",
-        "organisation": 435,
-        "divisionset": 599,
-        "legislation_title": "The Fife and Perth and Kinross Boundaries Amendment Order 2017",
-        "slug": "perth-and-kinross",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/ssi/2017/430/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -5522,7 +5809,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/284/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 231,
+    "fields": {
+        "created": "2023-12-11T14:32:36.268Z",
+        "modified": "2023-12-11T14:32:36.269Z",
+        "organisation": 435,
+        "divisionset": 599,
+        "legislation_title": "The Fife and Perth and Kinross Boundaries Amendment Order 2017",
+        "slug": "perth-and-kinross",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/ssi/2017/430/made",
+        "legislation_made": true,
+        "effective_date": "2018-04-01"
     }
 },
 {
@@ -5540,7 +5847,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1858/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5558,7 +5866,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/2236/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5576,7 +5885,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/1027/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5594,25 +5904,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1081/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 165,
-    "fields": {
-        "created": "2023-12-11T14:32:36.169Z",
-        "modified": "2023-12-11T14:32:36.169Z",
-        "organisation": 170,
-        "divisionset": 545,
-        "legislation_title": "The Preston (Electoral Changes) Order 2018",
-        "slug": "preston",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/preston",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2018/548/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5630,7 +5923,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/548/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 165,
+    "fields": {
+        "created": "2023-12-11T14:32:36.169Z",
+        "modified": "2023-12-11T14:32:36.169Z",
+        "organisation": 170,
+        "divisionset": 545,
+        "legislation_title": "The Preston (Electoral Changes) Order 2018",
+        "slug": "preston",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-west/lancashire/preston",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2018/548/contents/made",
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5648,7 +5961,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/108/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5666,7 +5980,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/609/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -5684,7 +5999,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1177/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5702,7 +6018,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2023/654",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5720,7 +6037,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2019/125/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5738,7 +6056,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/285/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -5756,7 +6075,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1156/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -5774,7 +6094,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1080/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5792,7 +6113,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1267/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5810,7 +6132,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/855/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5828,7 +6151,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1230/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5846,7 +6170,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1230/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5864,7 +6189,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1230/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -5882,7 +6208,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1860/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5900,7 +6227,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -5918,25 +6246,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1236/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 126,
-    "fields": {
-        "created": "2023-12-11T14:32:36.107Z",
-        "modified": "2023-12-11T14:32:36.107Z",
-        "organisation": 350,
-        "divisionset": 546,
-        "legislation_title": "The Rotherham (Electoral Changes) Order 2018",
-        "slug": "rotherham",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/south-yorkshire/rotherham",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2018/327/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -5954,7 +6265,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/62/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 126,
+    "fields": {
+        "created": "2023-12-11T14:32:36.107Z",
+        "modified": "2023-12-11T14:32:36.107Z",
+        "organisation": 350,
+        "divisionset": 546,
+        "legislation_title": "The Rotherham (Electoral Changes) Order 2018",
+        "slug": "rotherham",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/yorkshire-and-the-humber/south-yorkshire/rotherham",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2018/327/introduction/made",
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -5972,7 +6303,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/4/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -5990,7 +6322,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/126/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6008,7 +6341,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1364/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -6026,7 +6360,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/161/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6044,7 +6379,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1314/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6062,7 +6398,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/1125/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -6080,7 +6417,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2003/2510/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6098,7 +6436,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/853/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6116,7 +6455,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -6134,7 +6474,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://senedd.assembly.wales/mgIssueHistoryHome.aspx?IId=23754",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2020-01-15"
     }
 },
 {
@@ -6152,7 +6493,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/858/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6170,7 +6512,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1861/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6188,7 +6531,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/ssi/2021/372/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -6206,7 +6550,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -6224,7 +6569,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/203/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -6242,7 +6588,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -6260,25 +6607,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": null,
-        "legislation_made": null
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 69,
-    "fields": {
-        "created": "2023-12-11T14:32:35.996Z",
-        "modified": "2023-12-11T14:32:35.996Z",
-        "organisation": 102,
-        "divisionset": 703,
-        "legislation_title": "The Somerset (Structural Changes) Order 2022",
-        "slug": "somerset",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/329/contents/made",
-        "legislation_made": true
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -6296,7 +6626,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/329/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-04-01"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 69,
+    "fields": {
+        "created": "2023-12-11T14:32:35.996Z",
+        "modified": "2023-12-11T14:32:35.996Z",
+        "organisation": 102,
+        "divisionset": 703,
+        "legislation_title": "The Somerset (Structural Changes) Order 2022",
+        "slug": "somerset",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/329/contents/made",
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -6314,7 +6664,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/1371/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6332,7 +6683,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/204/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -6350,7 +6702,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/286/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -6368,25 +6721,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/75/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 413,
-    "fields": {
-        "created": "2023-12-11T14:34:45.711Z",
-        "modified": "2023-12-11T14:34:45.711Z",
-        "organisation": 305,
-        "divisionset": null,
-        "legislation_title": "The South Cambridgeshire (Electoral Changes) Order 2017",
-        "slug": "south-cambridgeshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-cambridgeshire",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/479/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6404,7 +6740,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/479/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 413,
+    "fields": {
+        "created": "2023-12-11T14:34:45.711Z",
+        "modified": "2023-12-11T14:34:45.711Z",
+        "organisation": 305,
+        "divisionset": null,
+        "legislation_title": "The South Cambridgeshire (Electoral Changes) Order 2017",
+        "slug": "south-cambridgeshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-cambridgeshire",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/479/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6422,7 +6778,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2011/165/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6440,7 +6797,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2000/1487/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6458,7 +6816,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/534/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6476,7 +6835,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3059/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6494,7 +6854,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2007/145/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6512,7 +6873,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3058/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6530,7 +6892,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1154/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -6548,25 +6911,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/287/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 418,
-    "fields": {
-        "created": "2023-12-11T14:34:45.799Z",
-        "modified": "2023-12-11T14:34:45.799Z",
-        "organisation": 141,
-        "divisionset": null,
-        "legislation_title": "The South Norfolk (Electoral Changes) Order 2017",
-        "slug": "south-norfolk",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-norfolk",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1082/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -6584,7 +6930,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1082/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 418,
+    "fields": {
+        "created": "2023-12-11T14:34:45.799Z",
+        "modified": "2023-12-11T14:34:45.799Z",
+        "organisation": 141,
+        "divisionset": null,
+        "legislation_title": "The South Norfolk (Electoral Changes) Order 2017",
+        "slug": "south-norfolk",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-norfolk",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1082/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6602,25 +6968,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2006/3111/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 203,
-    "fields": {
-        "created": "2023-12-11T14:32:36.229Z",
-        "modified": "2023-12-11T14:32:36.229Z",
-        "organisation": 113,
-        "divisionset": 595,
-        "legislation_title": "The South Oxfordshire (Electoral Changes) Order 2017, 2019",
-        "slug": "south-oxfordshire",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2017/129/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6638,7 +6987,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/23/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 203,
+    "fields": {
+        "created": "2023-12-11T14:32:36.229Z",
+        "modified": "2023-12-11T14:32:36.229Z",
+        "organisation": 113,
+        "divisionset": 595,
+        "legislation_title": "The South Oxfordshire (Electoral Changes) Order 2017, 2019",
+        "slug": "south-oxfordshire",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2017/129/contents/made",
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6656,7 +7025,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3288/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6674,7 +7044,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/1271/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -6692,7 +7063,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1140/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -6710,25 +7082,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 424,
-    "fields": {
-        "created": "2023-12-11T14:34:45.896Z",
-        "modified": "2023-12-11T14:34:45.896Z",
-        "organisation": 225,
-        "divisionset": null,
-        "legislation_title": "The Southwark (Electoral Changes) Order 2016",
-        "slug": "southwark",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/southwark",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1202/made",
-        "legislation_made": true
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -6746,7 +7101,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2016/1202/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 424,
+    "fields": {
+        "created": "2023-12-11T14:34:45.896Z",
+        "modified": "2023-12-11T14:34:45.896Z",
+        "organisation": 225,
+        "divisionset": null,
+        "legislation_title": "The Southwark (Electoral Changes) Order 2016",
+        "slug": "southwark",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/southwark",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1202/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6764,7 +7139,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/1999/2479/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6782,7 +7158,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/69/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6800,7 +7177,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -6818,7 +7196,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/1448/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6836,7 +7215,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/900/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -6854,7 +7234,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/3895/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6872,7 +7253,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "http://www.legislation.gov.uk/id/uksi/2023/653",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6890,7 +7272,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/1424/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -6908,25 +7291,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/288/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 213,
-    "fields": {
-        "created": "2023-12-11T14:32:36.243Z",
-        "modified": "2023-12-11T14:32:36.243Z",
-        "organisation": 342,
-        "divisionset": 541,
-        "legislation_title": "The Borough of Stockport (Electoral Changes) Order 2004",
-        "slug": "stockport",
-        "consultation_url": null,
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://democracy.stockport.gov.uk/mgConvert2PDF.aspx?ID=128900&ISATT=1",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -6944,7 +7310,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1135/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 213,
+    "fields": {
+        "created": "2023-12-11T14:32:36.243Z",
+        "modified": "2023-12-11T14:32:36.243Z",
+        "organisation": 342,
+        "divisionset": 541,
+        "legislation_title": "The Borough of Stockport (Electoral Changes) Order 2004",
+        "slug": "stockport",
+        "consultation_url": null,
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://democracy.stockport.gov.uk/mgConvert2PDF.aspx?ID=128900&ISATT=1",
+        "legislation_made": true,
+        "effective_date": "2018-05-03"
     }
 },
 {
@@ -6962,7 +7348,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/966/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -6980,7 +7367,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/1342/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -6998,7 +7386,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/665/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -7016,7 +7405,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/665/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7034,7 +7424,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1137/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7052,7 +7443,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1137/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -7070,7 +7462,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/2034/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7088,7 +7481,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/118/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -7106,7 +7500,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/823/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7124,7 +7519,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -7142,7 +7538,8 @@
         "status": "Currently in review",
         "latest_event": "Consultation on proposals",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -7160,7 +7557,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1268/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7178,7 +7576,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1225/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -7196,7 +7595,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1225/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7214,7 +7614,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/2985/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7232,7 +7633,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1075/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -7250,7 +7652,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/2/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7268,7 +7671,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/661/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -7286,7 +7690,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/1450/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7304,7 +7709,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -7322,25 +7728,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1081/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 22,
-    "fields": {
-        "created": "2023-12-11T14:32:35.924Z",
-        "modified": "2023-12-11T14:32:35.924Z",
-        "organisation": 330,
-        "divisionset": 728,
-        "legislation_title": "The Telford & Wrekin (Electoral Changes) Order 2022",
-        "slug": "telford-and-wrekin",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/west-midlands/shropshire/telford-and-wrekin",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1368/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7358,7 +7747,27 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1368/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 22,
+    "fields": {
+        "created": "2023-12-11T14:32:35.924Z",
+        "modified": "2023-12-11T14:32:35.924Z",
+        "organisation": 330,
+        "divisionset": 728,
+        "legislation_title": "The Telford & Wrekin (Electoral Changes) Order 2022",
+        "slug": "telford-and-wrekin",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/west-midlands/shropshire/telford-and-wrekin",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1368/contents/made",
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -7376,25 +7785,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1122/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 201,
-    "fields": {
-        "created": "2023-12-11T14:32:36.227Z",
-        "modified": "2023-12-11T14:32:36.227Z",
-        "organisation": 203,
-        "divisionset": 534,
-        "legislation_title": "The Test Valley (Electoral Changes) Order 2018, 2019",
-        "slug": "test-valley",
-        "consultation_url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/test-valley",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2018/36/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7412,7 +7804,27 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/36/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 201,
+    "fields": {
+        "created": "2023-12-11T14:32:36.227Z",
+        "modified": "2023-12-11T14:32:36.227Z",
+        "organisation": 203,
+        "divisionset": 534,
+        "legislation_title": "The Test Valley (Electoral Changes) Order 2018, 2019",
+        "slug": "test-valley",
+        "consultation_url": "http://www.lgbce.org.uk/current-reviews/south-east/hampshire/test-valley",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2018/36/contents/made",
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7430,7 +7842,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/37/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7448,7 +7861,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/3556/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7466,7 +7880,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1138/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -7484,7 +7899,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/243/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7502,7 +7918,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/2234/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7520,7 +7937,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2019/423/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7538,7 +7956,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1141/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -7556,25 +7975,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/740/introduction/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 107,
-    "fields": {
-        "created": "2023-12-11T14:32:36.076Z",
-        "modified": "2023-12-11T14:32:36.076Z",
-        "organisation": 407,
-        "divisionset": 694,
-        "legislation_title": "The County Borough of Torfaen (Electoral Arrangements) Order 2021",
-        "slug": "torfaen",
-        "consultation_url": "https://ldbc.gov.wales/reviews/12-18/torfaen",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1139/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7592,7 +7994,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/wsi/2013/2156/article/6/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 107,
+    "fields": {
+        "created": "2023-12-11T14:32:36.076Z",
+        "modified": "2023-12-11T14:32:36.076Z",
+        "organisation": 407,
+        "divisionset": 694,
+        "legislation_title": "The County Borough of Torfaen (Electoral Arrangements) Order 2021",
+        "slug": "torfaen",
+        "consultation_url": "https://ldbc.gov.wales/reviews/12-18/torfaen",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1139/contents/made",
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -7610,7 +8032,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2017/1083/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7628,7 +8051,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": null,
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-11-18"
     }
 },
 {
@@ -7646,7 +8070,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2013/1786/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7664,7 +8089,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1375/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -7682,25 +8108,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 450,
-    "fields": {
-        "created": "2023-12-11T14:34:46.402Z",
-        "modified": "2023-12-11T14:34:46.402Z",
-        "organisation": 259,
-        "divisionset": null,
-        "legislation_title": "The Uttlesford (Electoral Changes) Order 2014",
-        "slug": "uttlesford",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/uttlesford",
-        "boundaries_url": null,
-        "status": "Completed",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1334/contents/made",
-        "legislation_made": true
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -7718,7 +8127,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/220/made#f00004",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 450,
+    "fields": {
+        "created": "2023-12-11T14:34:46.402Z",
+        "modified": "2023-12-11T14:34:46.402Z",
+        "organisation": 259,
+        "divisionset": null,
+        "legislation_title": "The Uttlesford (Electoral Changes) Order 2014",
+        "slug": "uttlesford",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/uttlesford",
+        "boundaries_url": null,
+        "status": "Completed",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1334/contents/made",
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7736,7 +8165,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/128/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7754,7 +8184,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/24/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7772,7 +8203,8 @@
         "status": "Completed",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -7790,7 +8222,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -7808,7 +8241,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/615/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -7826,7 +8260,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2021/418/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -7844,7 +8279,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/115/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7862,7 +8298,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1313/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7880,7 +8317,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1874/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -7898,7 +8336,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/112/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7916,7 +8355,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1136/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -7934,7 +8374,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1237/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7952,7 +8393,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/116/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -7970,7 +8412,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/536/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -7988,7 +8431,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/74/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8006,7 +8450,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/ssi/2016/289/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -8024,7 +8469,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1179/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -8042,7 +8488,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/1/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8060,7 +8507,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2020/1224/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -8078,25 +8526,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 459,
-    "fields": {
-        "created": "2023-12-11T14:34:46.704Z",
-        "modified": "2023-12-11T14:34:46.704Z",
-        "organisation": 513,
-        "divisionset": null,
-        "legislation_title": null,
-        "slug": "west-northamptonshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/west-northamptonshire",
-        "boundaries_url": "/sites/default/files/2023-07/west_northamptonshire_-_fr_-_mapping_files.zip",
-        "status": "Currently in review",
-        "latest_event": "Making our recommendation into law",
-        "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -8114,7 +8545,27 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "http://www.legislation.gov.uk/uksi/2020/156/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2020-05-07"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 459,
+    "fields": {
+        "created": "2023-12-11T14:34:46.704Z",
+        "modified": "2023-12-11T14:34:46.704Z",
+        "organisation": 513,
+        "divisionset": null,
+        "legislation_title": null,
+        "slug": "west-northamptonshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/west-northamptonshire",
+        "boundaries_url": "/sites/default/files/2023-07/west_northamptonshire_-_fr_-_mapping_files.zip",
+        "status": "Currently in review",
+        "latest_event": "Making our recommendation into law",
+        "legislation_url": null,
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -8132,7 +8583,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/2993/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8150,7 +8602,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/1375/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -8168,7 +8621,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2016/1224/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2017-05-04"
     }
 },
 {
@@ -8186,7 +8640,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1372/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -8204,7 +8659,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2020/9780111192313",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2021-05-06"
     }
 },
 {
@@ -8222,7 +8678,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/2063/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8240,7 +8697,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2018/1272/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2019-05-02"
     }
 },
 {
@@ -8258,7 +8716,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2003/1980/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8276,7 +8735,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1462/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8294,25 +8754,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/1271/contents/made",
-        "legislation_made": true
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 34,
-    "fields": {
-        "created": "2023-12-11T14:32:35.945Z",
-        "modified": "2023-12-11T14:32:35.945Z",
-        "organisation": 321,
-        "divisionset": 741,
-        "legislation_title": "The Wolverhampton (Electoral Changes) Order 2022",
-        "slug": "wolverhampton",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/west-midlands/west-midlands/wolverhampton",
-        "boundaries_url": "",
-        "status": "Completed Review",
-        "latest_event": null,
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/967/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8330,7 +8773,27 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/967/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 34,
+    "fields": {
+        "created": "2023-12-11T14:32:35.945Z",
+        "modified": "2023-12-11T14:32:35.945Z",
+        "organisation": 321,
+        "divisionset": 741,
+        "legislation_title": "The Wolverhampton (Electoral Changes) Order 2022",
+        "slug": "wolverhampton",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/west-midlands/west-midlands/wolverhampton",
+        "boundaries_url": "",
+        "status": "Completed Review",
+        "latest_event": null,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/967/contents/made",
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -8348,7 +8811,8 @@
         "status": "Currently in review",
         "latest_event": "Making our recommendation into law",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -8366,7 +8830,8 @@
         "status": "Currently in review",
         "latest_event": "Initial consultation",
         "legislation_url": null,
-        "legislation_made": null
+        "legislation_made": null,
+        "effective_date": null
     }
 },
 {
@@ -8384,7 +8849,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2002/2884/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8402,7 +8868,8 @@
         "status": "Completed Review",
         "latest_event": null,
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1113/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2022-05-05"
     }
 },
 {
@@ -8420,7 +8887,8 @@
         "status": "Completed",
         "latest_event": "Making our recommendation into law",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2023/26/introduction/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": "2023-05-04"
     }
 },
 {
@@ -8438,7 +8906,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1187/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8456,7 +8925,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2015/70/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 },
 {
@@ -8474,7 +8944,8 @@
         "status": "Completed",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3289/contents/made",
-        "legislation_made": true
+        "legislation_made": true,
+        "effective_date": null
     }
 }
 ]
