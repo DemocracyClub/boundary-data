@@ -201,26 +201,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 480,
-    "fields": {
-        "created": "2023-12-20T15:37:45.726Z",
-        "modified": "2023-12-20T15:37:45.726Z",
-        "organisation": 131,
-        "divisionset": 748,
-        "legislation_title": "Ashfield electoral ward name change Dec 2020",
-        "slug": "ashfield",
-        "consultation_url": "https://www.ashfield.gov.uk/your-council/elections/results-reviews/ward-name-changes-december-2020/",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 760,
     "fields": {
         "created": "2023-12-20T15:40:08.480Z",
@@ -237,6 +217,26 @@
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 480,
+    "fields": {
+        "created": "2023-12-20T15:37:45.726Z",
+        "modified": "2023-12-20T15:37:45.726Z",
+        "organisation": 131,
+        "divisionset": 748,
+        "legislation_title": "Ashfield electoral ward name change Dec 2020",
+        "slug": "ashfield",
+        "consultation_url": "https://www.ashfield.gov.uk/your-council/elections/results-reviews/ward-name-changes-december-2020/",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -352,7 +352,7 @@
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/barnsley",
         "boundaries_url": "/sites/default/files/2024-05/barnsley_draft_proposals.zip",
         "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
+        "latest_event": "Final report",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -772,9 +772,29 @@
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/bradford",
         "boundaries_url": "/sites/default/files/2023-11/bradford_dr_mappingfiles.zip",
         "status": "CURRENT",
-        "latest_event": "Consultation on revised proposals",
+        "latest_event": "Final report",
         "legislation_url": "",
         "legislation_made": false,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 771,
+    "fields": {
+        "created": "2023-12-20T15:40:08.659Z",
+        "modified": "2023-12-20T15:40:08.659Z",
+        "organisation": 269,
+        "divisionset": null,
+        "legislation_title": "The Braintree (Electoral Changes) Order 2014",
+        "slug": "braintree",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/braintree",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3335/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -801,26 +821,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 771,
-    "fields": {
-        "created": "2023-12-20T15:40:08.659Z",
-        "modified": "2023-12-20T15:40:08.659Z",
-        "organisation": 269,
-        "divisionset": null,
-        "legislation_title": "The Braintree (Electoral Changes) Order 2014",
-        "slug": "braintree",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/braintree",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3335/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 940,
     "fields": {
         "created": "2024-09-18T07:18:34.051Z",
@@ -830,9 +830,9 @@
         "legislation_title": "",
         "slug": "breckland",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/breckland",
-        "boundaries_url": "",
+        "boundaries_url": "/sites/default/files/2024-12/mappingfiles.zip",
         "status": "CURRENT",
-        "latest_event": "Initial consultation",
+        "latest_event": "Consultation on proposals",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -1001,26 +1001,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 953,
-    "fields": {
-        "created": "2024-09-25T07:18:35.347Z",
-        "modified": "2024-09-25T07:18:35.347Z",
-        "organisation": 68,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "bromsgrove",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/bromsgrove",
-        "boundaries_url": "",
-        "status": "CURRENT",
-        "latest_event": "Initial consultation",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 777,
     "fields": {
         "created": "2023-12-20T15:40:08.759Z",
@@ -1035,6 +1015,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/18/contents/made",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 953,
+    "fields": {
+        "created": "2024-09-25T07:18:35.347Z",
+        "modified": "2024-09-25T07:18:35.347Z",
+        "organisation": 68,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "bromsgrove",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/bromsgrove",
+        "boundaries_url": "",
+        "status": "CURRENT",
+        "latest_event": "Initial consultation",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -1081,26 +1081,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 612,
-    "fields": {
-        "created": "2023-12-20T15:37:46.036Z",
-        "modified": "2023-12-20T15:37:46.036Z",
-        "organisation": 512,
-        "divisionset": 617,
-        "legislation_title": "The Buckinghamshire (Structural Changes) Order 2019",
-        "slug": "buckinghamshire",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/id/uksi/2019/957",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 780,
     "fields": {
         "created": "2023-12-20T15:40:08.820Z",
@@ -1117,6 +1097,26 @@
         "legislation_made": true,
         "effective_date": "2025-05-01",
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 612,
+    "fields": {
+        "created": "2023-12-20T15:37:46.036Z",
+        "modified": "2023-12-20T15:37:46.036Z",
+        "organisation": 512,
+        "divisionset": 617,
+        "legislation_title": "The Buckinghamshire (Structural Changes) Order 2019",
+        "slug": "buckinghamshire",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/id/uksi/2019/957",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -1187,14 +1187,14 @@
         "modified": "2023-12-20T15:40:08.848Z",
         "organisation": 388,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Calderdale (Electoral Changes) Order 2024",
         "slug": "calderdale",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/calderdale",
         "boundaries_url": "/sites/default/files/2023-10/calderdale_draftrecs.zip",
         "status": "CURRENT",
-        "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1182/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -1301,26 +1301,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 676,
-    "fields": {
-        "created": "2023-12-20T15:37:46.180Z",
-        "modified": "2023-12-20T15:37:46.180Z",
-        "organisation": 188,
-        "divisionset": 603,
-        "legislation_title": "The Canterbury (Electoral Changes) Order 2019",
-        "slug": "canterbury",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/356/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 785,
     "fields": {
         "created": "2023-12-20T15:40:08.969Z",
@@ -1337,6 +1317,26 @@
         "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 676,
+    "fields": {
+        "created": "2023-12-20T15:37:46.180Z",
+        "modified": "2023-12-20T15:37:46.180Z",
+        "organisation": 188,
+        "divisionset": 603,
+        "legislation_title": "The Canterbury (Electoral Changes) Order 2019",
+        "slug": "canterbury",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/356/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -1581,22 +1581,22 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 701,
+    "pk": 789,
     "fields": {
-        "created": "2023-12-20T15:37:46.255Z",
-        "modified": "2023-12-20T15:37:46.255Z",
+        "created": "2023-12-20T15:40:09.181Z",
+        "modified": "2023-12-20T15:40:09.181Z",
         "organisation": 115,
-        "divisionset": 585,
-        "legislation_title": "The Cherwell (Electoral Changes) (No. 2) Order 2017",
+        "divisionset": null,
+        "legislation_title": "The Cherwell (Electoral Changes) Order 2015",
         "slug": "cherwell",
-        "consultation_url": "",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/cherwell",
         "boundaries_url": "",
         "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2017/120/made",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1872/contents/made",
         "legislation_made": true,
         "effective_date": null,
-        "edit_status": "LOCKED"
+        "edit_status": "UNLOCKED"
     }
 },
 {
@@ -1621,19 +1621,39 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 789,
+    "pk": 701,
     "fields": {
-        "created": "2023-12-20T15:40:09.181Z",
-        "modified": "2023-12-20T15:40:09.181Z",
+        "created": "2023-12-20T15:37:46.255Z",
+        "modified": "2023-12-20T15:37:46.255Z",
         "organisation": 115,
-        "divisionset": null,
-        "legislation_title": "The Cherwell (Electoral Changes) Order 2015",
+        "divisionset": 585,
+        "legislation_title": "The Cherwell (Electoral Changes) (No. 2) Order 2017",
         "slug": "cherwell",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/cherwell",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2017/120/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 790,
+    "fields": {
+        "created": "2023-12-20T15:40:09.233Z",
+        "modified": "2023-12-20T15:40:09.233Z",
+        "organisation": 390,
+        "divisionset": null,
+        "legislation_title": "The Cheshire East (Electoral Changes) Order 2011",
+        "slug": "cheshire-east",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/cheshire-east",
         "boundaries_url": "",
         "status": "COMPLETED",
         "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2015/1872/contents/made",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2011/3/contents/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
@@ -1655,26 +1675,6 @@
         "latest_event": "Consultation on proposals",
         "legislation_url": "",
         "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 790,
-    "fields": {
-        "created": "2023-12-20T15:40:09.233Z",
-        "modified": "2023-12-20T15:40:09.233Z",
-        "organisation": 390,
-        "divisionset": null,
-        "legislation_title": "The Cheshire East (Electoral Changes) Order 2011",
-        "slug": "cheshire-east",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/cheshire-east",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2011/3/contents/made",
-        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -2007,14 +2007,14 @@
         "modified": "2023-12-20T15:40:09.400Z",
         "organisation": 386,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Coventry (Electoral Changes) Order 2024",
         "slug": "coventry",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/coventry",
         "boundaries_url": "/sites/default/files/2023-10/coventry-dr-mapping_files.zip",
         "status": "CURRENT",
-        "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1181/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -2081,26 +2081,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 942,
-    "fields": {
-        "created": "2024-09-18T07:18:34.240Z",
-        "modified": "2024-09-18T07:18:34.240Z",
-        "organisation": 199,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "dacorum",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/dacorum",
-        "boundaries_url": "",
-        "status": "CURRENT",
-        "latest_event": "Initial consultation",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 799,
     "fields": {
         "created": "2023-12-20T15:40:09.447Z",
@@ -2115,6 +2095,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2007/139/contents/made",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 942,
+    "fields": {
+        "created": "2024-09-18T07:18:34.240Z",
+        "modified": "2024-09-18T07:18:34.240Z",
+        "organisation": 199,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "dacorum",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/dacorum",
+        "boundaries_url": "",
+        "status": "CURRENT",
+        "latest_event": "Consultation on proposals",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -2224,17 +2224,17 @@
     "pk": 802,
     "fields": {
         "created": "2023-12-20T15:40:09.505Z",
-        "modified": "2023-12-20T15:40:09.505Z",
+        "modified": "2024-11-20T14:41:32.828Z",
         "organisation": 296,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Derbyshire (Electoral Changes) Order 2024",
         "slug": "derbyshire",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/derbyshire",
-        "boundaries_url": "/sites/default/files/2024-01/gis_mapping_derbyshire.zip",
+        "boundaries_url": "/sites/default/files/2024-08/derbyshire_f_electoral_so_0.zip",
         "status": "CURRENT",
-        "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1189/introduction/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -2321,26 +2321,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 721,
-    "fields": {
-        "created": "2023-12-20T15:37:46.320Z",
-        "modified": "2023-12-20T15:37:46.320Z",
-        "organisation": 278,
-        "divisionset": 479,
-        "legislation_title": "The Dorset (Electoral Changes) Order 2016",
-        "slug": "dorset",
-        "consultation_url": "https://consultation.lgbce.org.uk/node/3824",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2016/64/introduction/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 656,
     "fields": {
         "created": "2023-12-20T15:37:46.135Z",
@@ -2354,6 +2334,26 @@
         "status": "COMPLETED",
         "latest_event": "",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2018/1373/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 721,
+    "fields": {
+        "created": "2023-12-20T15:37:46.320Z",
+        "modified": "2023-12-20T15:37:46.320Z",
+        "organisation": 278,
+        "divisionset": 479,
+        "legislation_title": "The Dorset (Electoral Changes) Order 2016",
+        "slug": "dorset",
+        "consultation_url": "https://consultation.lgbce.org.uk/node/3824",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2016/64/introduction/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -2561,22 +2561,22 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 956,
+    "pk": 679,
     "fields": {
-        "created": "2024-10-09T07:27:05.214Z",
-        "modified": "2024-10-09T07:27:05.214Z",
+        "created": "2023-12-20T15:37:46.189Z",
+        "modified": "2023-12-20T15:37:46.189Z",
         "organisation": 198,
-        "divisionset": null,
-        "legislation_title": "",
+        "divisionset": 605,
+        "legislation_title": "The East Hertfordshire (Electoral Changes) Order 2019",
         "slug": "east-hertfordshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/east-hertfordshire",
+        "consultation_url": "",
         "boundaries_url": "",
-        "status": "",
+        "status": "COMPLETED",
         "latest_event": "",
-        "legislation_url": "",
-        "legislation_made": false,
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/389/made",
+        "legislation_made": true,
         "effective_date": null,
-        "edit_status": "UNLOCKED"
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -2601,22 +2601,22 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 679,
+    "pk": 956,
     "fields": {
-        "created": "2023-12-20T15:37:46.189Z",
-        "modified": "2023-12-20T15:37:46.189Z",
+        "created": "2024-10-09T07:27:05.214Z",
+        "modified": "2024-10-09T07:27:05.214Z",
         "organisation": 198,
-        "divisionset": 605,
-        "legislation_title": "The East Hertfordshire (Electoral Changes) Order 2019",
+        "divisionset": null,
+        "legislation_title": "",
         "slug": "east-hertfordshire",
-        "consultation_url": "",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/east-hertfordshire",
         "boundaries_url": "",
-        "status": "COMPLETED",
+        "status": "",
         "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/389/made",
-        "legislation_made": true,
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
-        "edit_status": "LOCKED"
+        "edit_status": "UNLOCKED"
     }
 },
 {
@@ -2681,26 +2681,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 805,
-    "fields": {
-        "created": "2023-12-20T15:40:09.575Z",
-        "modified": "2023-12-20T15:40:09.575Z",
-        "organisation": 382,
-        "divisionset": null,
-        "legislation_title": "The District of East Riding (Electoral Changes) Order 2001",
-        "slug": "east-riding-of-yorkshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/east-riding-yorkshire",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2001/3358/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 943,
     "fields": {
         "created": "2024-09-18T07:18:34.305Z",
@@ -2715,6 +2695,26 @@
         "latest_event": "Initial consultation",
         "legislation_url": "",
         "legislation_made": false,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 805,
+    "fields": {
+        "created": "2023-12-20T15:40:09.575Z",
+        "modified": "2023-12-20T15:40:09.575Z",
+        "organisation": 382,
+        "divisionset": null,
+        "legislation_title": "The District of East Riding (Electoral Changes) Order 2001",
+        "slug": "east-riding-of-yorkshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/east-riding-yorkshire",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2001/3358/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -2907,14 +2907,14 @@
         "modified": "2023-12-20T15:40:09.663Z",
         "organisation": 271,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Essex (Electoral Changes) Order 2024",
         "slug": "essex",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/essex",
         "boundaries_url": "/sites/default/files/2023-11/essex_d_electoral_division_polygons.zip",
         "status": "CURRENT",
-        "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1180/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -3021,26 +3021,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 703,
-    "fields": {
-        "created": "2023-12-20T15:37:46.263Z",
-        "modified": "2023-12-20T15:37:46.263Z",
-        "organisation": 444,
-        "divisionset": 598,
-        "legislation_title": "The Fife and Perth and Kinross Boundaries Amendment Order 2017",
-        "slug": "fife",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "https://www.legislation.gov.uk/ssi/2017/430/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 719,
     "fields": {
         "created": "2023-12-20T15:37:46.315Z",
@@ -3061,19 +3041,19 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 740,
+    "pk": 703,
     "fields": {
-        "created": "2023-12-20T15:37:46.365Z",
-        "modified": "2023-12-20T15:37:46.365Z",
-        "organisation": 417,
-        "divisionset": 509,
-        "legislation_title": "The Flintshire (Communities) Order 2016",
-        "slug": "flintshire",
+        "created": "2023-12-20T15:37:46.263Z",
+        "modified": "2023-12-20T15:37:46.263Z",
+        "organisation": 444,
+        "divisionset": 598,
+        "legislation_title": "The Fife and Perth and Kinross Boundaries Amendment Order 2017",
+        "slug": "fife",
         "consultation_url": "",
         "boundaries_url": "",
         "status": "COMPLETED",
         "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1151/made",
+        "legislation_url": "https://www.legislation.gov.uk/ssi/2017/430/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -3094,6 +3074,26 @@
         "status": "COMPLETED",
         "latest_event": "",
         "legislation_url": "https://www.legislation.gov.uk/wsi/2021/1228/contents/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 740,
+    "fields": {
+        "created": "2023-12-20T15:37:46.365Z",
+        "modified": "2023-12-20T15:37:46.365Z",
+        "organisation": 417,
+        "divisionset": 509,
+        "legislation_title": "The Flintshire (Communities) Order 2016",
+        "slug": "flintshire",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1151/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -3167,14 +3167,14 @@
         "modified": "2023-12-20T15:40:09.722Z",
         "organisation": 381,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Gateshead (Electoral Changes) Order 2024",
         "slug": "gateshead",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/gateshead",
         "boundaries_url": "/sites/default/files/2024-01/gateshead_draft_proposals.zip",
         "status": "CURRENT",
-        "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1179/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -3261,26 +3261,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 604,
-    "fields": {
-        "created": "2023-12-20T15:37:46.018Z",
-        "modified": "2023-12-20T15:37:46.018Z",
-        "organisation": 220,
-        "divisionset": 637,
-        "legislation_title": "The Stroud (Electoral Changes) Order 2020",
-        "slug": "gloucestershire",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2020/198/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 816,
     "fields": {
         "created": "2023-12-20T15:40:09.766Z",
@@ -3297,6 +3277,26 @@
         "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 604,
+    "fields": {
+        "created": "2023-12-20T15:37:46.018Z",
+        "modified": "2023-12-20T15:37:46.018Z",
+        "organisation": 220,
+        "divisionset": 637,
+        "legislation_title": "The Stroud (Electoral Changes) Order 2020",
+        "slug": "gloucestershire",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2020/198/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -3501,26 +3501,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 712,
-    "fields": {
-        "created": "2023-12-20T15:37:46.295Z",
-        "modified": "2023-12-20T15:37:46.295Z",
-        "organisation": 213,
-        "divisionset": 9,
-        "legislation_title": "The Hampshire (Electoral Changes) Order 2016",
-        "slug": "hampshire",
-        "consultation_url": "https://consultation.lgbce.org.uk/node/5188",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/id/uksi/2016/1223",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 591,
     "fields": {
         "created": "2023-12-20T15:37:45.988Z",
@@ -3534,6 +3514,26 @@
         "status": "COMPLETED",
         "latest_event": "",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2019/200/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 712,
+    "fields": {
+        "created": "2023-12-20T15:37:46.295Z",
+        "modified": "2023-12-20T15:37:46.295Z",
+        "organisation": 213,
+        "divisionset": 9,
+        "legislation_title": "The Hampshire (Electoral Changes) Order 2016",
+        "slug": "hampshire",
+        "consultation_url": "https://consultation.lgbce.org.uk/node/5188",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/id/uksi/2016/1223",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -4930,9 +4930,9 @@
         "legislation_title": "",
         "slug": "milton-keynes",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/milton-keynes",
-        "boundaries_url": "",
+        "boundaries_url": "/sites/default/files/2024-12/milton_keynes_d_so_zipfiles.zip",
         "status": "CURRENT",
-        "latest_event": "Initial consultation",
+        "latest_event": "Consultation on proposals",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -5021,6 +5021,26 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
+    "pk": 718,
+    "fields": {
+        "created": "2023-12-20T15:37:46.313Z",
+        "modified": "2023-12-20T15:37:46.313Z",
+        "organisation": 413,
+        "divisionset": 511,
+        "legislation_title": "The Neath Port Talbot (Communities) Order 2016",
+        "slug": "neath-port-talbot",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1158/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
     "pk": 535,
     "fields": {
         "created": "2023-12-20T15:37:45.854Z",
@@ -5041,19 +5061,19 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 718,
+    "pk": 670,
     "fields": {
-        "created": "2023-12-20T15:37:46.313Z",
-        "modified": "2023-12-20T15:37:46.313Z",
-        "organisation": 413,
-        "divisionset": 511,
-        "legislation_title": "The Neath Port Talbot (Communities) Order 2016",
-        "slug": "neath-port-talbot",
+        "created": "2023-12-20T15:37:46.168Z",
+        "modified": "2023-12-20T15:37:46.168Z",
+        "organisation": 126,
+        "divisionset": 593,
+        "legislation_title": "The Newark and Sherwood (Electoral Changes) Order 2016",
+        "slug": "newark-and-sherwood",
         "consultation_url": "",
         "boundaries_url": "",
         "status": "COMPLETED",
         "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/wsi/2016/1158/made",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2016/855/contents/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -5081,26 +5101,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 670,
-    "fields": {
-        "created": "2023-12-20T15:37:46.168Z",
-        "modified": "2023-12-20T15:37:46.168Z",
-        "organisation": 126,
-        "divisionset": 593,
-        "legislation_title": "The Newark and Sherwood (Electoral Changes) Order 2016",
-        "slug": "newark-and-sherwood",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2016/855/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 691,
     "fields": {
         "created": "2023-12-20T15:37:46.219Z",
@@ -5114,26 +5114,6 @@
         "status": "COMPLETED",
         "latest_event": "",
         "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1079/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 690,
-    "fields": {
-        "created": "2023-12-20T15:37:46.216Z",
-        "modified": "2023-12-20T15:37:46.216Z",
-        "organisation": 362,
-        "divisionset": 522,
-        "legislation_title": "The Newcastle upon Tyne (Electoral Changes) Order 2017",
-        "slug": "newcastle-upon-tyne",
-        "consultation_url": "http://www.lgbce.org.uk/current-reviews/north-east/tyne-and-wear/newcastle-upon-tyne",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1080/contents/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -5157,6 +5137,26 @@
         "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 690,
+    "fields": {
+        "created": "2023-12-20T15:37:46.216Z",
+        "modified": "2023-12-20T15:37:46.216Z",
+        "organisation": 362,
+        "divisionset": 522,
+        "legislation_title": "The Newcastle upon Tyne (Electoral Changes) Order 2017",
+        "slug": "newcastle-upon-tyne",
+        "consultation_url": "http://www.lgbce.org.uk/current-reviews/north-east/tyne-and-wear/newcastle-upon-tyne",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2017/1080/contents/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -5241,26 +5241,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 590,
-    "fields": {
-        "created": "2023-12-20T15:37:45.985Z",
-        "modified": "2023-12-20T15:37:45.986Z",
-        "organisation": 148,
-        "divisionset": 636,
-        "legislation_title": "The South Norfolk (Electoral Changes) Order 2019",
-        "slug": "norfolk",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2019/55/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 472,
     "fields": {
         "created": "2023-12-20T15:37:45.704Z",
@@ -5281,19 +5261,19 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 711,
+    "pk": 590,
     "fields": {
-        "created": "2023-12-20T15:37:46.290Z",
-        "modified": "2023-12-20T15:37:46.290Z",
-        "organisation": 438,
-        "divisionset": 497,
-        "legislation_title": "The North Ayrshire (Electoral Arrangements) Order 2016",
-        "slug": "north-ayrshire",
-        "consultation_url": "http://www.lgbc-scotland.gov.uk/reviews/5th_electoral/north_ayrshire/",
+        "created": "2023-12-20T15:37:45.985Z",
+        "modified": "2023-12-20T15:37:45.986Z",
+        "organisation": 148,
+        "divisionset": 636,
+        "legislation_title": "The South Norfolk (Electoral Changes) Order 2019",
+        "slug": "norfolk",
+        "consultation_url": "",
         "boundaries_url": "",
         "status": "COMPLETED",
         "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/ssi/2016/282/contents/made",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2019/55/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -5314,6 +5294,26 @@
         "status": "COMPLETED",
         "latest_event": "",
         "legislation_url": "https://www.legislation.gov.uk/ssi/2021/370/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 711,
+    "fields": {
+        "created": "2023-12-20T15:37:46.290Z",
+        "modified": "2023-12-20T15:37:46.290Z",
+        "organisation": 438,
+        "divisionset": 497,
+        "legislation_title": "The North Ayrshire (Electoral Arrangements) Order 2016",
+        "slug": "north-ayrshire",
+        "consultation_url": "http://www.lgbc-scotland.gov.uk/reviews/5th_electoral/north_ayrshire/",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/ssi/2016/282/contents/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -5361,26 +5361,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 946,
-    "fields": {
-        "created": "2024-09-18T07:18:34.714Z",
-        "modified": "2024-09-18T07:18:34.714Z",
-        "organisation": 363,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "north-east-lincolnshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-east-lincolnshire",
-        "boundaries_url": "",
-        "status": "CURRENT",
-        "latest_event": "Initial consultation",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 849,
     "fields": {
         "created": "2023-12-20T15:40:10.401Z",
@@ -5395,6 +5375,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2017/9780111160909",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 946,
+    "fields": {
+        "created": "2024-09-18T07:18:34.714Z",
+        "modified": "2024-09-18T07:18:34.714Z",
+        "organisation": 363,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "north-east-lincolnshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-east-lincolnshire",
+        "boundaries_url": "",
+        "status": "CURRENT",
+        "latest_event": "Initial consultation",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -5521,26 +5521,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 610,
-    "fields": {
-        "created": "2023-12-20T15:37:46.032Z",
-        "modified": "2023-12-20T15:37:46.032Z",
-        "organisation": 514,
-        "divisionset": 625,
-        "legislation_title": "The Northamptonshire (Structural Changes) Order 2020",
-        "slug": "north-northamptonshire",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2020/156/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 851,
     "fields": {
         "created": "2023-12-20T15:40:10.433Z",
@@ -5557,6 +5537,26 @@
         "legislation_made": true,
         "effective_date": "2025-05-01",
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 610,
+    "fields": {
+        "created": "2023-12-20T15:37:46.032Z",
+        "modified": "2023-12-20T15:37:46.032Z",
+        "organisation": 514,
+        "divisionset": 625,
+        "legislation_title": "The Northamptonshire (Structural Changes) Order 2020",
+        "slug": "north-northamptonshire",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2020/156/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -5644,7 +5644,7 @@
     "pk": 853,
     "fields": {
         "created": "2023-12-20T15:40:10.458Z",
-        "modified": "2023-12-20T15:40:10.458Z",
+        "modified": "2024-11-19T11:04:06.482Z",
         "organisation": 74,
         "divisionset": null,
         "legislation_title": "The Borough of North Warwickshire (Electoral Changes) Order 2000",
@@ -5653,7 +5653,7 @@
         "boundaries_url": "",
         "status": "COMPLETED",
         "latest_event": "Effective date",
-        "legislation_url": "https://webarchive.nationalarchives.gov.uk/ukgwa/20221201172719/http://www.lgbce.org.uk/all-reviews/west-midlands/warwickshire/north-warwickshire",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2000/1675/contents/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
@@ -5661,18 +5661,18 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 947,
+    "pk": 960,
     "fields": {
-        "created": "2024-09-18T07:18:34.777Z",
-        "modified": "2024-09-18T07:18:34.777Z",
-        "organisation": 158,
+        "created": "2024-11-26T07:18:34.724Z",
+        "modified": "2024-11-26T07:18:34.724Z",
+        "organisation": 74,
         "divisionset": null,
         "legislation_title": "",
-        "slug": "north-west-leicestershire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-west-leicestershire",
-        "boundaries_url": "/sites/default/files/2024-08/nw_leicestershire_d_ward_polygons.zip",
+        "slug": "north-warwickshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-warwickshire",
+        "boundaries_url": "",
         "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
+        "latest_event": "Initial consultation",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -5695,6 +5695,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2014/3060/contents/made",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 947,
+    "fields": {
+        "created": "2024-09-18T07:18:34.777Z",
+        "modified": "2024-09-18T07:18:34.777Z",
+        "organisation": 158,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "north-west-leicestershire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-west-leicestershire",
+        "boundaries_url": "/sites/default/files/2024-08/nw_leicestershire_d_ward_polygons.zip",
+        "status": "CURRENT",
+        "latest_event": "Consultation on proposals",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -5841,26 +5861,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 957,
-    "fields": {
-        "created": "2024-10-23T07:18:34.629Z",
-        "modified": "2024-10-23T07:18:34.629Z",
-        "organisation": 157,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "oadby-and-wigston",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/oadby-and-wigston",
-        "boundaries_url": "",
-        "status": "CURRENT",
-        "latest_event": "Initial consultation",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 857,
     "fields": {
         "created": "2023-12-20T15:40:10.516Z",
@@ -5875,6 +5875,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ukdsi/2021/9780348224764/contents",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 957,
+    "fields": {
+        "created": "2024-10-23T07:18:34.629Z",
+        "modified": "2024-10-23T07:18:34.629Z",
+        "organisation": 157,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "oadby-and-wigston",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/oadby-and-wigston",
+        "boundaries_url": "",
+        "status": "CURRENT",
+        "latest_event": "Initial consultation",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -5952,7 +5972,7 @@
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/oxfordshire",
         "boundaries_url": "/sites/default/files/2023-10/oxfordshire_d_so_zipfiles.zip",
         "status": "CURRENT",
-        "latest_event": "Final report",
+        "latest_event": "Making our recommendation into law",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -6101,26 +6121,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 948,
-    "fields": {
-        "created": "2024-09-18T07:18:34.840Z",
-        "modified": "2024-09-18T07:18:34.840Z",
-        "organisation": 355,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "portsmouth",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/portsmouth",
-        "boundaries_url": "",
-        "status": "CURRENT",
-        "latest_event": "Initial consultation",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 861,
     "fields": {
         "created": "2023-12-20T15:40:10.576Z",
@@ -6135,6 +6135,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/1027/contents/made",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 948,
+    "fields": {
+        "created": "2024-09-18T07:18:34.840Z",
+        "modified": "2024-09-18T07:18:34.840Z",
+        "organisation": 355,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "portsmouth",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/portsmouth",
+        "boundaries_url": "",
+        "status": "CURRENT",
+        "latest_event": "Initial consultation",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -6707,14 +6727,14 @@
         "modified": "2023-12-20T15:40:10.742Z",
         "organisation": 347,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Sefton (Electoral Changes) Order 2024",
         "slug": "sefton",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/sefton",
         "boundaries_url": "/sites/default/files/2024-01/sefton_polygons.zip",
         "status": "CURRENT",
         "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1178/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -7061,26 +7081,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 886,
-    "fields": {
-        "created": "2023-12-20T15:40:10.945Z",
-        "modified": "2023-12-20T15:40:10.945Z",
-        "organisation": 337,
-        "divisionset": null,
-        "legislation_title": "The Southend-on-Sea (Electoral Changes) Order 2000",
-        "slug": "southend-on-sea",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/southend-sea",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2000/1487/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 954,
     "fields": {
         "created": "2024-09-25T07:18:36.193Z",
@@ -7095,6 +7095,26 @@
         "latest_event": "Initial consultation",
         "legislation_url": "",
         "legislation_made": false,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 886,
+    "fields": {
+        "created": "2023-12-20T15:40:10.945Z",
+        "modified": "2023-12-20T15:40:10.945Z",
+        "organisation": 337,
+        "divisionset": null,
+        "legislation_title": "The Southend-on-Sea (Electoral Changes) Order 2000",
+        "slug": "southend-on-sea",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/southend-sea",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2000/1487/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -7261,26 +7281,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 883,
-    "fields": {
-        "created": "2023-12-20T15:40:10.906Z",
-        "modified": "2023-12-20T15:40:10.906Z",
-        "organisation": 113,
-        "divisionset": null,
-        "legislation_title": "The South Oxfordshire (Electoral Changes) Order 2014",
-        "slug": "south-oxfordshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-oxfordshire",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/23/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 674,
     "fields": {
         "created": "2023-12-20T15:37:46.176Z",
@@ -7297,6 +7297,26 @@
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 883,
+    "fields": {
+        "created": "2023-12-20T15:40:10.906Z",
+        "modified": "2023-12-20T15:40:10.906Z",
+        "organisation": 113,
+        "divisionset": null,
+        "legislation_title": "The South Oxfordshire (Electoral Changes) Order 2014",
+        "slug": "south-oxfordshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-oxfordshire",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/23/contents/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
     }
 },
 {
@@ -7370,9 +7390,9 @@
         "legislation_title": "",
         "slug": "south-tyneside",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/south-tyneside",
-        "boundaries_url": "",
+        "boundaries_url": "/sites/default/files/2024-12/south_tyneside_mapping.zip",
         "status": "CURRENT",
-        "latest_event": "Consultation on revised proposals",
+        "latest_event": "Final report",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -7447,14 +7467,14 @@
         "modified": "2023-12-20T15:40:11.013Z",
         "organisation": 84,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Staffordshire (Electoral Changes) Order 2024",
         "slug": "staffordshire",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/staffordshire",
         "boundaries_url": "/sites/default/files/2024-05/staffordshire_f_so_zipfiles.zip",
         "status": "CURRENT",
         "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1184/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -7621,26 +7641,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 475,
-    "fields": {
-        "created": "2023-12-20T15:37:45.715Z",
-        "modified": "2023-12-20T15:37:45.715Z",
-        "organisation": 334,
-        "divisionset": 723,
-        "legislation_title": "The Stockton-on-Tees (Electoral Changes) Order 2022",
-        "slug": "stockton-on-tees",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-east/stockton-on-tees/stockton-on-tees",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/966/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 894,
     "fields": {
         "created": "2023-12-20T15:40:11.059Z",
@@ -7657,6 +7657,26 @@
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 475,
+    "fields": {
+        "created": "2023-12-20T15:37:45.715Z",
+        "modified": "2023-12-20T15:37:45.715Z",
+        "organisation": 334,
+        "divisionset": 723,
+        "legislation_title": "The Stockton-on-Tees (Electoral Changes) Order 2022",
+        "slug": "stockton-on-tees",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/north-east/stockton-on-tees/stockton-on-tees",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2022/966/contents/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -7787,14 +7807,14 @@
         "modified": "2023-12-20T15:40:11.111Z",
         "organisation": 96,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Surrey (Electoral Changes) Order 2024",
         "slug": "surrey",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/surrey",
         "boundaries_url": "/sites/default/files/2023-08/surrey_-_dr_-_shapefiles.zip",
         "status": "CURRENT",
         "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1177/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -7881,26 +7901,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 933,
-    "fields": {
-        "created": "2024-01-10T07:18:31.985Z",
-        "modified": "2024-01-10T07:18:31.985Z",
-        "organisation": 332,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "swindon",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/swindon",
-        "boundaries_url": "/sites/default/files/2024-07/swindon_mapping_files.zip",
-        "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 901,
     "fields": {
         "created": "2023-12-20T15:40:11.150Z",
@@ -7915,6 +7915,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2012/2/made",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 933,
+    "fields": {
+        "created": "2024-01-10T07:18:31.985Z",
+        "modified": "2024-01-10T07:18:31.985Z",
+        "organisation": 332,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "swindon",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/swindon",
+        "boundaries_url": "/sites/default/files/2024-07/swindon_mapping_files.zip",
+        "status": "CURRENT",
+        "latest_event": "Consultation on proposals",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -8161,6 +8181,26 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
+    "pk": 937,
+    "fields": {
+        "created": "2024-01-24T07:18:31.249Z",
+        "modified": "2024-01-24T07:18:31.249Z",
+        "organisation": 329,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "thurrock",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/thurrock",
+        "boundaries_url": "/sites/default/files/2024-07/thurrock_d_ward_polys.zip",
+        "status": "CURRENT",
+        "latest_event": "Final report",
+        "legislation_url": "",
+        "legislation_made": false,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
     "pk": 908,
     "fields": {
         "created": "2023-12-20T15:40:11.243Z",
@@ -8181,22 +8221,22 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 937,
+    "pk": 680,
     "fields": {
-        "created": "2024-01-24T07:18:31.249Z",
-        "modified": "2024-01-24T07:18:31.249Z",
-        "organisation": 329,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "thurrock",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/thurrock",
-        "boundaries_url": "/sites/default/files/2024-07/thurrock_d_ward_polys.zip",
-        "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
-        "legislation_url": "",
-        "legislation_made": false,
+        "created": "2023-12-20T15:37:46.191Z",
+        "modified": "2023-12-20T15:37:46.191Z",
+        "organisation": 179,
+        "divisionset": 606,
+        "legislation_title": "The Tonbridge & Malling (Electoral Changes) Order 2019",
+        "slug": "tonbridge-and-malling",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/423/made",
+        "legislation_made": true,
         "effective_date": null,
-        "edit_status": "UNLOCKED"
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -8214,26 +8254,6 @@
         "status": "COMPLETED",
         "latest_event": "",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2022/1141/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 680,
-    "fields": {
-        "created": "2023-12-20T15:37:46.191Z",
-        "modified": "2023-12-20T15:37:46.191Z",
-        "organisation": 179,
-        "divisionset": 606,
-        "legislation_title": "The Tonbridge & Malling (Electoral Changes) Order 2019",
-        "slug": "tonbridge-and-malling",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "http://www.legislation.gov.uk/uksi/2019/423/made",
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
@@ -8401,26 +8421,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 911,
-    "fields": {
-        "created": "2023-12-20T15:40:11.286Z",
-        "modified": "2023-12-20T15:40:11.286Z",
-        "organisation": 259,
-        "divisionset": null,
-        "legislation_title": "The Uttlesford (Electoral Changes) Order 2014",
-        "slug": "uttlesford",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/uttlesford",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1334/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 503,
     "fields": {
         "created": "2023-12-20T15:37:45.780Z",
@@ -8441,6 +8441,46 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
+    "pk": 911,
+    "fields": {
+        "created": "2023-12-20T15:40:11.286Z",
+        "modified": "2023-12-20T15:40:11.286Z",
+        "organisation": 259,
+        "divisionset": null,
+        "legislation_title": "The Uttlesford (Electoral Changes) Order 2014",
+        "slug": "uttlesford",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/uttlesford",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/1334/contents/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 912,
+    "fields": {
+        "created": "2023-12-20T15:40:11.299Z",
+        "modified": "2023-12-20T15:40:11.299Z",
+        "organisation": 112,
+        "divisionset": null,
+        "legislation_title": "The Vale of White Horse (Electoral Changes) Order 2014",
+        "slug": "vale-of-white-horse",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/vale-white-horse",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/24/contents/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
     "pk": 934,
     "fields": {
         "created": "2024-01-10T07:18:32.064Z",
@@ -8450,9 +8490,9 @@
         "legislation_title": "",
         "slug": "vale-of-white-horse",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/vale-white-horse",
-        "boundaries_url": "",
+        "boundaries_url": "/sites/default/files/2024-12/vale_of_white_horse_f_ward_polys.zip",
         "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
+        "latest_event": "Final report",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -8481,26 +8521,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 912,
-    "fields": {
-        "created": "2023-12-20T15:40:11.299Z",
-        "modified": "2023-12-20T15:40:11.299Z",
-        "organisation": 112,
-        "divisionset": null,
-        "legislation_title": "The Vale of White Horse (Electoral Changes) Order 2014",
-        "slug": "vale-of-white-horse",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/vale-white-horse",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2014/24/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 913,
     "fields": {
         "created": "2023-12-20T15:40:11.309Z",
@@ -8512,7 +8532,7 @@
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/wakefield",
         "boundaries_url": "/sites/default/files/2024-05/wakefield_d_ward_polys.zip",
         "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
+        "latest_event": "Final report",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
@@ -9041,26 +9061,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 951,
-    "fields": {
-        "created": "2024-09-18T07:18:35.363Z",
-        "modified": "2024-09-18T07:18:35.363Z",
-        "organisation": 318,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "wirral",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/wirral",
-        "boundaries_url": "",
-        "status": "CURRENT",
-        "latest_event": "Initial consultation",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 923,
     "fields": {
         "created": "2023-12-20T15:40:11.464Z",
@@ -9075,6 +9075,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2003/1980/introduction/made",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 951,
+    "fields": {
+        "created": "2024-09-18T07:18:35.363Z",
+        "modified": "2024-09-18T07:18:35.363Z",
+        "organisation": 318,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "wirral",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/wirral",
+        "boundaries_url": "",
+        "status": "CURRENT",
+        "latest_event": "Initial consultation",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -9167,14 +9187,14 @@
         "modified": "2023-12-20T15:40:11.518Z",
         "organisation": 69,
         "divisionset": null,
-        "legislation_title": "",
+        "legislation_title": "The Worcestershire (Electoral Changes) Order 2024",
         "slug": "worcestershire",
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/worcestershire",
         "boundaries_url": "/sites/default/files/2024-01/worcestershire_d_so_zipfiles.zip",
         "status": "CURRENT",
         "latest_event": "Making our recommendation into law",
-        "legislation_url": "",
-        "legislation_made": false,
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2024/1176/contents/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
