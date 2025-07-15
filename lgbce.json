@@ -7424,7 +7424,7 @@
     "pk": 885,
     "fields": {
         "created": "2023-12-20T15:40:10.931Z",
-        "modified": "2023-12-20T15:40:10.931Z",
+        "modified": "2025-07-14T09:38:31.787Z",
         "organisation": 333,
         "divisionset": null,
         "legislation_title": "The South Tyneside (Electoral Changes) Order 2025",
@@ -7435,7 +7435,7 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2025/816/contents/made",
         "legislation_made": true,
-        "effective_date": null,
+        "effective_date": "2026-05-07",
         "edit_status": "UNLOCKED"
     }
 },
