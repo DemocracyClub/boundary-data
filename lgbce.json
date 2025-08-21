@@ -2721,26 +2721,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 943,
-    "fields": {
-        "created": "2024-09-18T07:18:34.305Z",
-        "modified": "2024-09-18T07:18:34.305Z",
-        "organisation": 382,
-        "divisionset": null,
-        "legislation_title": "",
-        "slug": "east-riding-of-yorkshire",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/east-riding-yorkshire",
-        "boundaries_url": "",
-        "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 805,
     "fields": {
         "created": "2023-12-20T15:40:09.575Z",
@@ -2755,6 +2735,26 @@
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/uksi/2001/3358/contents/made",
         "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 943,
+    "fields": {
+        "created": "2024-09-18T07:18:34.305Z",
+        "modified": "2024-09-18T07:18:34.305Z",
+        "organisation": 382,
+        "divisionset": null,
+        "legislation_title": "",
+        "slug": "east-riding-of-yorkshire",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/east-riding-yorkshire",
+        "boundaries_url": "",
+        "status": "CURRENT",
+        "latest_event": "Consultation on proposals",
+        "legislation_url": "",
+        "legislation_made": false,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
@@ -5641,26 +5641,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 593,
-    "fields": {
-        "created": "2023-12-20T15:37:45.992Z",
-        "modified": "2023-12-20T15:37:45.992Z",
-        "organisation": 364,
-        "divisionset": 645,
-        "legislation_title": "The Northumberland (Electoral Changes) Order 2020",
-        "slug": "northumberland",
-        "consultation_url": "",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/73/contents/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 855,
     "fields": {
         "created": "2023-12-20T15:40:10.481Z",
@@ -5677,6 +5657,26 @@
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 593,
+    "fields": {
+        "created": "2023-12-20T15:37:45.992Z",
+        "modified": "2023-12-20T15:37:45.992Z",
+        "organisation": 364,
+        "divisionset": 645,
+        "legislation_title": "The Northumberland (Electoral Changes) Order 2020",
+        "slug": "northumberland",
+        "consultation_url": "",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2020/73/contents/made",
+        "legislation_made": true,
+        "effective_date": null,
+        "edit_status": "LOCKED"
     }
 },
 {
@@ -6712,7 +6712,7 @@
         "consultation_url": "http://www.lgbce.org.uk/all-reviews/sandwell",
         "boundaries_url": "",
         "status": "CURRENT",
-        "latest_event": "Consultation on proposals",
+        "latest_event": "Effective date",
         "legislation_url": "",
         "legislation_made": false,
         "effective_date": null,
