@@ -6921,6 +6921,26 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
+    "pk": 963,
+    "fields": {
+        "created": "2025-11-11T15:28:42.611Z",
+        "modified": "2026-06-19T17:43:39.101Z",
+        "organisation": 516,
+        "divisionset": 825,
+        "legislation_title": "",
+        "slug": "senedd",
+        "consultation_url": "https://www.dbcc.gov.wales/reviews/03-25/2026-review-final-determinations",
+        "boundaries_url": "https://d34hss7hg6i3n.cloudfront.net/reviews/Shapefiles-2026-Senedd-Final.zip",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "",
+        "legislation_made": false,
+        "effective_date": "2026-05-07",
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
     "pk": 613,
     "fields": {
         "created": "2023-12-20T15:37:46.039Z",
@@ -6937,26 +6957,6 @@
         "legislation_made": true,
         "effective_date": null,
         "edit_status": "LOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
-    "pk": 963,
-    "fields": {
-        "created": "2025-11-11T15:28:42.611Z",
-        "modified": "2025-11-11T15:28:42.611Z",
-        "organisation": 516,
-        "divisionset": 825,
-        "legislation_title": "",
-        "slug": "senedd",
-        "consultation_url": "https://www.dbcc.gov.wales/reviews/03-25/2026-review-final-determinations",
-        "boundaries_url": "https://d34hss7hg6i3n.cloudfront.net/reviews/Shapefiles-2026-Senedd-Final.zip",
-        "status": "CURRENT",
-        "latest_event": "Effective date",
-        "legislation_url": "",
-        "legislation_made": false,
-        "effective_date": "2026-05-07",
-        "edit_status": "UNLOCKED"
     }
 },
 {
@@ -7624,14 +7624,14 @@
     "pk": 964,
     "fields": {
         "created": "2025-11-11T16:36:23.879Z",
-        "modified": "2025-11-11T16:36:23.879Z",
+        "modified": "2026-06-19T17:43:57.226Z",
         "organisation": 497,
         "divisionset": 822,
         "legislation_title": "The Scottish Parliament (Constituencies and Regions) Order 2025",
         "slug": "sp",
         "consultation_url": "https://boundaries.scot/reviews/second-review-scottish-parliament-boundaries",
         "boundaries_url": "",
-        "status": "CURRENT",
+        "status": "COMPLETED",
         "latest_event": "Effective date",
         "legislation_url": "https://www.legislation.gov.uk/ssi/2025/285/contents/made",
         "legislation_made": true,
@@ -9301,26 +9301,6 @@
 },
 {
     "model": "organisations.organisationboundaryreview",
-    "pk": 923,
-    "fields": {
-        "created": "2023-12-20T15:40:11.464Z",
-        "modified": "2023-12-20T15:40:11.464Z",
-        "organisation": 318,
-        "divisionset": null,
-        "legislation_title": "The Wirral (Electoral Changes) Order 2003",
-        "slug": "wirral",
-        "consultation_url": "http://www.lgbce.org.uk/all-reviews/wirral",
-        "boundaries_url": "",
-        "status": "COMPLETED",
-        "latest_event": "Effective date",
-        "legislation_url": "https://www.legislation.gov.uk/uksi/2003/1980/introduction/made",
-        "legislation_made": true,
-        "effective_date": null,
-        "edit_status": "UNLOCKED"
-    }
-},
-{
-    "model": "organisations.organisationboundaryreview",
     "pk": 951,
     "fields": {
         "created": "2024-09-18T07:18:35.363Z",
@@ -9335,6 +9315,26 @@
         "latest_event": "Final report",
         "legislation_url": "",
         "legislation_made": false,
+        "effective_date": null,
+        "edit_status": "UNLOCKED"
+    }
+},
+{
+    "model": "organisations.organisationboundaryreview",
+    "pk": 923,
+    "fields": {
+        "created": "2023-12-20T15:40:11.464Z",
+        "modified": "2023-12-20T15:40:11.464Z",
+        "organisation": 318,
+        "divisionset": null,
+        "legislation_title": "The Wirral (Electoral Changes) Order 2003",
+        "slug": "wirral",
+        "consultation_url": "http://www.lgbce.org.uk/all-reviews/wirral",
+        "boundaries_url": "",
+        "status": "COMPLETED",
+        "latest_event": "Effective date",
+        "legislation_url": "https://www.legislation.gov.uk/uksi/2003/1980/introduction/made",
+        "legislation_made": true,
         "effective_date": null,
         "edit_status": "UNLOCKED"
     }
